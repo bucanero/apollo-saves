@@ -1,0 +1,9 @@
+BLES01031=Call Of Duty Black Ops
+BLES01081=Yakuza 4
+BLUS30029=Pirates of the Caribbean At World's End
+BLUS30268=X-Men Origins Wolverine
+BLUS30340=Aliens Vs Predator
+BLUS30591=Call Of Duty Black Ops
+NPUB30151=After Burner Climax
+NPUB30320=X-Men Arcade
+BLUS30178=Far Cry 2
