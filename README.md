@@ -32,7 +32,7 @@ zip -r 12345678.zip BLES01081L03/
 ```
 
 If I check the compressed `12345678.zip` file, I would see something like:
-```bash
+```
 unzip -t 12345678.zip 
 Archive:  12345678.zip
     testing: BLES01081L03/            OK
