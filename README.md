@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Sharing your saves with the Online Database
 
-You can use the [editor on GitHub](https://github.com/bucanero/apollo-saves/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The online save database project is part of [Apollo Save Tool](https://github.com/bucanero/apollo-ps3) for the PlayStation 3.
 
-### Markdown
+## DB Structure
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The database structure is simple:
+ - Each game has a folder, named with the TITLE-ID. (e.g. `BLUS12345`)
+ - game saves are stored in `.zip` files inside the game's TITLE ID folder.
+ - The Zip filename must be `XXXXXXXX.zip`, where **X** can be a number from `0` to `9`. (`.zip` extension lowercase).
+ - The Zip file must contain the save-game folder and data. (e.g. `MYGAME-DATA/*`)
+ - Each folder has a `saves.txt` file that lists the available saves, with the description.
+ - On the root, a file `games.txt` lists all the games/title-id's available.
 
-```markdown
-Syntax highlighted code block
+**Note:** if the explanation is a bit confusing, please [browse the database](https://github.com/bucanero/apollo-saves/) and it should be much more clear.
 
-# Header 1
-## Header 2
-### Header 3
+## Preparing a save
 
-- Bulleted
-- List
+To start, I'll assume you already have your saves copied to your computer (if not, just try to copy the files with the XMB browser to USB, or download it via FTP). I'll do an example with a _Yakuza 4_ save (`BLES01081`)
 
-1. Numbered
-2. List
+once I have my save copied to USB, I should have a folder:
+`\PS3\SAVEDATA\BLES01081L03`
 
-**Bold** and _Italic_ and `Code` text
+I need to create a `.zip` file, with only the `BLES01081L03/` folder inside. (don't use the full path)
+For this example, I'll use `12345678.zip` as the filename.
 
-[Link](url) and ![Image](src)
+There are many ways to create a zip, on windows you can use a tool like WinZip, [7-zip](http://www.7-zip.org/), [WinRar](http://www.rarlab.com/), etc. As an example, a command line way using Info-Zip:
+```bash
+zip -r 12345678.zip BLES01081L03/
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If I check the compressed `12345678.zip` file, I would see something like:
+```bash
+unzip -t 12345678.zip 
+Archive:  12345678.zip
+    testing: BLES01081L03/            OK
+    testing: BLES01081L03/USER01      OK
+    testing: BLES01081L03/PARAM.PFD   OK
+    testing: BLES01081L03/ICON0.PNG   OK
+    testing: BLES01081L03/PIC1.PNG    OK
+    testing: BLES01081L03/PARAM.SFO   OK
+No errors detected in compressed data of 12345678.zip.
+```
 
-### Jekyll Themes
+That's the difficult part preparing the save.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bucanero/apollo-saves/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Uploading a save
 
-### Support or Contact
+To upload the zipped save file and share it with the community:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The simple way is to create a [GitHub issue](https://github.com/bucanero/apollo-saves/issues/new/choose) with the provided template, then you can write down the save description and upload the Zip file directly there (just drag&drop the `.zip`): https://github.com/bucanero/apollo-saves/issues/new/choose
+
+### Advanced 
+
+if you're an advanced GitHub user, you can also:
+ - Fork the project https://github.com/bucanero/apollo-saves
+ - Add the `12345678.zip` to the `BLES01081` folder
+ - Edit `saves.txt` in the folder, adding `12345678.zip` with a short description
+ - Submit the changes with a Pull Request
+ - Then I'll merge the changes and the saves will be available to every user.
+ 
+### Alternative
+
+If you don't know about Github (forks, pull requests, etc), don't worry. Just upload the .zip file you created to [Mediafire](http://www.mediafire.com) or any other web, then just send me a message here with the link and information/description so I can add it.
+
+Let me know if you can follow the process, I'm hoping to make it as simple as possible
