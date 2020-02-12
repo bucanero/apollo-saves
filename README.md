@@ -63,6 +63,6 @@ if you're an advanced GitHub user, you can also:
  
 ### Alternative
 
-If you don't know about Github (forks, pull requests, etc), don't worry. Just upload the .zip file you created to [Mediafire](http://www.mediafire.com) or any other web, then just send me a message here with the link and information/description so I can add it.
+If you don't know about Github (forks, pull requests, etc), don't worry. Just upload the .zip file you created to [Mediafire](http://www.mediafire.com) or any other web, then just send me [a message here](https://github.com/bucanero/apollo-saves/issues/new) with the link and information/description so I can add it.
 
 Let me know if you can follow the process, I'm hoping to make it as simple as possible
