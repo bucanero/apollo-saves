@@ -65,4 +65,13 @@ if you're an advanced GitHub user, you can also:
 
 If you don't know about Github (forks, pull requests, etc), don't worry. Just upload the .zip file you created to [Mediafire](http://www.mediafire.com) or any other web, then just send me [a message here](https://github.com/bucanero/apollo-saves/issues/new) with the link and information/description so I can add it.
 
-Let me know if you can follow the process, I'm hoping to make it as simple as possible
+## License
+
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+For more information, please refer to the [Unlicense](LICENSE).
