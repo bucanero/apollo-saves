@@ -1,0 +1,2 @@
+00000001.zip=100% completed
+00000002.zip=profile savedata

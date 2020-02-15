@@ -1,0 +1,2 @@
+00000001.zip=new game plus, unlocked all difficulties and completed game on most difficult game mode
+00000002.zip=new game plus, unlocked all difficulties and completed game on most difficult game mode (savedata profile)

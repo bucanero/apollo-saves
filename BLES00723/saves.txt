@@ -1,0 +1,2 @@
+00000001.zip=75% of weapons upgraded, new game plus available (profile savedata)
+00000002.zip=75% of weapons upgraded, new game plus available

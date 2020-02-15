@@ -1,0 +1,2 @@
+00000001.zip=system data, enables new game plus and 100% gallery and additional options
+00000002.zip=savedata 100% completed

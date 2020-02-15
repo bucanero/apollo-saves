@@ -1,0 +1,3 @@
+00000001.zip=Silent Hill 3 HD, 100% completed (profile savedata)
+00000002.zip=Silent Hill 3 HD, 100% completed save
+00000003.zip=Silent Hill 2 HD, 100% completed

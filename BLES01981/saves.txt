@@ -1,0 +1,2 @@
+00000001.zip=max level, all weapons unlocked, all missions available
+00000002.zip=profle savedata
