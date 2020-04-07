@@ -1,5 +1,5 @@
 BLES01031=Call Of Duty Black Ops
-BLES01081=Yakuza 4
+BLES01081=YAKUZA 4
 BLUS30029=Pirates of the Caribbean At World's End
 BLUS30268=X-Men Origins Wolverine
 BLUS30340=Aliens vs Predator
@@ -85,5 +85,6 @@ BLUS30576=BlazBlue: Continuum Shift
 BLUS30232=Alone in the Dark: Inferno
 BLES00422=Alone in the Dark: Inferno
 BLUS30428=Catherine
-BLUS30339=Castlevania: Lords of Shadow
+BLUS30339=Castlevania Lords of Shadow™
 BLUS30439=Dead Rising 2
+BLES01138=Far Cry 3
