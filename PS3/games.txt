@@ -89,3 +89,4 @@ BLUS30339=Castlevania Lords of Shadow™
 BLUS30439=Dead Rising 2
 BLES01138=Far Cry 3
 BLES00620=Cars: Race-O-Rama
+NPEA00057=WipEout® HD
