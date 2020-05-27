@@ -91,3 +91,4 @@ BLES01138=Far Cry 3
 BLES00620=Cars: Race-O-Rama
 NPEA00057=WipEout® HD
 BLES01717=Call of Duty®: Black Ops II
+BCES00006=MotorStorm™
