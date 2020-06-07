@@ -93,4 +93,5 @@ NPEA00057=WipEout® HD
 BLES01717=Call of Duty®: Black Ops II
 BCES00006=MotorStorm™
 NPEB02369=GTA San Andreas
-BLES01287=Dirt 3
+BLES01287=DiRT 3
+NPEB01909=Valiant Hearts: The Great War
