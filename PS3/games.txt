@@ -95,3 +95,5 @@ BCES00006=MotorStorm™
 NPEB02369=GTA San Andreas
 BLES01287=DiRT 3
 NPEB01909=Valiant Hearts: The Great War
+NPUB31619=Dragon Ball Xenoverse
+BLES02108=Farming Simulator 15
