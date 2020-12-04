@@ -98,3 +98,5 @@ NPEB01909=Valiant Hearts: The Great War
 NPUB31619=Dragon Ball Xenoverse
 BLES02108=Farming Simulator 15
 BCES00510=God of War® III
+NPUB30096=Hard Corps: Uprising
+NPUB31806=Guilty Gear Xrd: Revelator
