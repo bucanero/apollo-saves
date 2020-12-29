@@ -106,3 +106,6 @@ BLUS30804=Syndicate
 BLUS30835=Hitman: Absolution
 NPUB30467=Resident Evil Code: Veronica X HD
 BLUS30654=NeverDead
+BCJS37016=Gran Turismo 6
+BLUS30347=Call of Juarez: Bound in Blood
+BLJS10330=Tales of Berseria
