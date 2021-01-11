@@ -109,3 +109,6 @@ BLUS30654=NeverDead
 BCJS37016=Gran Turismo 6
 BLUS30347=Call of Juarez: Bound in Blood
 BLJS10330=Tales of Berseria
+BLUS31201=Need for Speed: Rivals
+BLUS31188=Diablo III
+BLUS31156=Grand Theft Auto V
