@@ -113,3 +113,4 @@ BLUS31201=Need for Speed: Rivals
 BLUS31188=Diablo III
 BLUS31156=Grand Theft Auto V
 BLUS30723=DmC: Devil May Cry
+NPEA90002=Gran Turismo HD Concept
