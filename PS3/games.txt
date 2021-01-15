@@ -114,3 +114,4 @@ BLUS31188=Diablo III
 BLUS31156=Grand Theft Auto V
 BLUS30723=DmC: Devil May Cry
 NPEA90002=Gran Turismo HD Concept
+BCES00569=Gran Turismo 5
