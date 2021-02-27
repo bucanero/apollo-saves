@@ -119,3 +119,6 @@ BCES00104=Gran Turismo 5 Prologue
 BLUS31059=Middle-Earth™: Shadow of Mordor™
 NPUB31419=Minecraft: PlayStation 3 Edition
 NPUB31322=Dragon Ball Z: Battle of Z
+NPUB30040=Burnout Paradise
+BLUS31270=Call of Duty: Ghosts
+BLUS30116=Dark Sector
