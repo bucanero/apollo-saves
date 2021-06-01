@@ -132,3 +132,5 @@ BLUS30718=The Tomb Raider Trilogy
 BLES01329=The Elder Scrolls V: Skyrim
 BLUS30778=The Elder Scrolls V: Skyrim
 BLES01667=Assassin's Creed III
+BLES01401=Dragon Ball Z: Ultimate Tenkaichi
+BLUS30823=Dragon Ball Z: Ultimate Tenkaichi
