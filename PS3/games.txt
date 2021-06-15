@@ -138,3 +138,4 @@ NPUB31564=Samurai Warriors 4
 NPUB31449=Dynasty Warriors 8: Xtreme Legends
 NPUB31234=Dynasty Warriors 8
 NPUB31594=METAL GEAR SOLID V: THE PHANTOM PAIN
+NPUB31563=Persona 4 Arena Ultimax
