@@ -135,3 +135,6 @@ BLES01667=Assassin's Creed III
 BLES01401=Dragon Ball Z: Ultimate Tenkaichi
 BLUS30823=Dragon Ball Z: Ultimate Tenkaichi
 NPUB31564=Samurai Warriors 4
+NPUB31449=Dynasty Warriors 8: Xtreme Legends
+NPUB31234=Dynasty Warriors 8
+NPUB31594=METAL GEAR SOLID V: THE PHANTOM PAIN
