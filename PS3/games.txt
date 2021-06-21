@@ -142,3 +142,4 @@ NPUB31563=Persona 4 Arena Ultimax
 NPUB31126=DuckTales: Remastered
 BLUS30963=LEGO The Lord of the Rings
 BLUS31441=Digimon All-Star Rumble
+BLUS30997=Dragon Age™: Inquisition

@@ -1,0 +1,2 @@
+00000001.zip=Starter save with max money
+00000002.zip=Start: 99 Skills point, Characters at Level 25, Some Item are x99, Money at 5,000,0000
