@@ -150,3 +150,4 @@ BLES00720=LEGO Harry Potter: Years 1-4
 BLUS30425=LEGO Indiana Jones 2: The Adventure Continues
 BLUS30837=LEGO Batman 2: DC Super Heroes
 BLUS31392=LEGO The Hobbit
+NPUB31358=Dark Souls II
