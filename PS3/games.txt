@@ -155,3 +155,4 @@ BLES01902=Payday 2
 NPEB02140=METAL GEAR SOLID V: THE PHANTOM PAIN
 BLUS30744=LEGO Pirates of the Caribbean: The Video Game
 BLUS30540=LEGO Star Wars III: The Clone Wars
+BLES02152=Tales of Zestiria
