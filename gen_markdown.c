@@ -51,11 +51,13 @@ int main(int argc, char** argv)
     if (fp == NULL)
         exit(EXIT_FAILURE);
 
+    printf("# Games\n\n| Game | Title ID |\n|------|----------|\n");
+
     while ((read = getline(&line, &len, fp)) != -1) {
 		line[read-1] = 0;
 		pos = strchr(line, '=');
 		*pos = 0;
-        printf("- [%s](%s/)\n", ++pos, line);
+        printf("| [%s](%s/) | %s |\n", ++pos, line, line);
         save_main(line, pos);
     }
 
