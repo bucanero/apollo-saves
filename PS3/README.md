@@ -163,3 +163,4 @@
 | [BlazBlue: Continuum Shift Extend](BLES01487/) | BLES01487 |
 | [BlazBlue: Calamity Trigger](BLES00820/) | BLES00820 |
 | [BlazBlue: Continuum Shift](BLES01119/) | BLES01119 |
+| [Gran Turismo 5](BCUS98114/) | BCUS98114 |

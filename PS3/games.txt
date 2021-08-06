@@ -159,3 +159,4 @@ BLES02152=Tales of Zestiria
 BLES01487=BlazBlue: Continuum Shift Extend
 BLES00820=BlazBlue: Calamity Trigger
 BLES01119=BlazBlue: Continuum Shift
+BCUS98114=Gran Turismo 5
