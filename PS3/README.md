@@ -108,6 +108,9 @@
 | [Middle-Earth™: Shadow of Mordor™](BLUS31059/) | BLUS31059 |
 | [Minecraft: PlayStation 3 Edition](NPUB31419/) | NPUB31419 |
 | [MotorStorm™](BCES00006/) | BCES00006 |
+| [MotorStorm Apocalypse](BCES00484/) | BCES00484 |
+| [MotorStorm Apocalypse](BCUS98242/) | BCUS98242 |
+| [MOTORSTORM®: APOCALYPSE Digital Edition](NPEA00315/) | NPEA00315 |
 | [NARUTO Shippuden: Ultimate Ninja STORM 2](BLES00952/) | BLES00952 |
 | [Naruto Shippuden™ Ultimate Ninja Storm 3 Full Burst](BLUS31066/) | BLUS31066 |
 | [Need For Speed The Run](BLES01298/) | BLES01298 |
