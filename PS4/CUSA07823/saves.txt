@@ -1,0 +1,3 @@
+00000001.zip=Currency dropper profile save
+00000002.zip=Eridium dropper profile save
+00000003.zip=Customization bank profile save
