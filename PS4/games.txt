@@ -1,1 +1,4 @@
 CUSA07823=Borderlands 3
+CUSA11993=Marvel's Spider-Man
+CUSA17776=Marvel's Spider-Man: Miles Morales
+CUSA08809=Shadow of the Colossus
