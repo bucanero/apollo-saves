@@ -1,0 +1,5 @@
+00000001.zip=Everything unlocked - Global profile save
+00000002.zip=Everything unlocked 101% done - classic
+00000003.zip=Everything unlocked 101% done - nitro fueled (easy)
+00000004.zip=Everything unlocked 101% done - nitro fueled (normal)
+00000005.zip=Everything unlocked 101% done - nitro fueled (hard)

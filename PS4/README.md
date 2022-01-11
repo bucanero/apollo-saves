@@ -3,6 +3,7 @@
 | Game | Title ID |
 |------|----------|
 | [Borderlands 3](CUSA07823/) | CUSA07823 |
+| [Crash Team Racing Nitro-Fueled](CUSA13795/) | CUSA13795 |
 | [Ghost of Tsushima](CUSA11456/) | CUSA11456 |
 | [Marvel's Spider-Man](CUSA11993/) | CUSA11993 |
 | [Marvel's Spider-Man: Miles Morales](CUSA17776/) | CUSA17776 |
