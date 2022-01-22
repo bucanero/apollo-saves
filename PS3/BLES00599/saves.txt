@@ -1,2 +1,7 @@
-00001309.zip=82% complete
+00001309.zip=82% complete (system save)
+00001310.zip=82% complete (user save 0)
+00001311.zip=82% complete (user save 1)
+00001312.zip=82% complete (user save 2)
+00001313.zip=82% complete (user save 3)
+00001314.zip=82% complete (continue save)
 00000001.zip=all weapons leveled up and unlocked, 100% completed
