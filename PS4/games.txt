@@ -2,6 +2,7 @@ CUSA07823=Borderlands 3
 CUSA07027=Cars 3: Driven to Win
 CUSA13795=Crash™ Team Racing Nitro-Fueled
 CUSA08966=Days Gone
+CUSA08621=DJMAX RESPECT
 CUSA27109=FIFA 22
 CUSA11456=Ghost of Tsushima
 CUSA00411=Grand Theft Auto V
