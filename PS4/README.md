@@ -9,6 +9,7 @@
 | [DJMAX RESPECT](CUSA08621/) | CUSA08621 |
 | [FIFA 22](CUSA27109/) | CUSA27109 |
 | [Ghost of Tsushima](CUSA11456/) | CUSA11456 |
+| [God of War](CUSA07408/) | CUSA07408 |
 | [Grand Theft Auto V](CUSA00411/) | CUSA00411 |
 | [Hoa](CUSA28687/) | CUSA28687 |
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
