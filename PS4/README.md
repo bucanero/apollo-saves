@@ -11,7 +11,9 @@
 | [Ghost of Tsushima](CUSA11456/) | CUSA11456 |
 | [God of War](CUSA07408/) | CUSA07408 |
 | [Grand Theft Auto V](CUSA00411/) | CUSA00411 |
+| [Gravity Rush 2](CUSA04943/) | CUSA04943 |
 | [Hoa](CUSA28687/) | CUSA28687 |
+| [Horizon Chase Turbo](CUSA11275/) | CUSA11275 |
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
 | [Marvel's Spider-Man](CUSA11993/) | CUSA11993 |
 | [Marvel's Spider-Man: Miles Morales](CUSA17776/) | CUSA17776 |
