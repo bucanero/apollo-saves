@@ -15,3 +15,4 @@ CUSA11993=Marvel's Spider-Man
 CUSA17776=Marvel's Spider-Man: Miles Morales
 CUSA25132=SCARLET NEXUS
 CUSA08809=Shadow of the Colossus
+CUSA12529=Star Wars Jedi: Fallen Order

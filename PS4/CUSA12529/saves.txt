@@ -1,0 +1,3 @@
+00000001.zip=Game Completed, All Planets 100% Explored, All DB Unlocked, All Skins, New Game+, Inquisitor Skin, Red Light Saber. (v1.11, Settings)
+00000002.zip=Game Completed, All Planets 100% Explored, All DB Unlocked, All Skins, New Game+, Inquisitor Skin, Red Light Saber. (v1.11, Save 0)
+00000003.zip=Game Completed, All Planets 100% Explored, All DB Unlocked, All Skins, New Game+, Inquisitor Skin, Red Light Saber. (v1.11, Save 1)

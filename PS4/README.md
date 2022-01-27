@@ -19,3 +19,4 @@
 | [Marvel's Spider-Man: Miles Morales](CUSA17776/) | CUSA17776 |
 | [SCARLET NEXUS](CUSA25132/) | CUSA25132 |
 | [Shadow of the Colossus](CUSA08809/) | CUSA08809 |
+| [Star Wars Jedi: Fallen Order](CUSA12529/) | CUSA12529 |
