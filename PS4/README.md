@@ -17,6 +17,8 @@
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
 | [Marvel's Spider-Man](CUSA11993/) | CUSA11993 |
 | [Marvel's Spider-Man: Miles Morales](CUSA17776/) | CUSA17776 |
+| [Minecraft](CUSA00265/) | CUSA00265 |
+| [Minecraft](CUSA00744/) | CUSA00744 |
 | [Red Dead Redemption 2](CUSA08519/) | CUSA08519 |
 | [SCARLET NEXUS](CUSA25132/) | CUSA25132 |
 | [Shadow of the Colossus](CUSA08809/) | CUSA08809 |
