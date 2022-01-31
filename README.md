@@ -1,8 +1,10 @@
-# Sharing your saves with the Online Database
+# Uploading your saves to the Online Database
+
+[![License][img_license]][app_license]
 
 ## Introduction
 
-The online save database project is part of [Apollo Save Tool](https://github.com/bucanero/apollo-ps3) for the PlayStation 3.
+The online save database project is part of [Apollo Save Tool](https://github.com/bucanero/apollo-ps3) for the PlayStation 3 and PlayStation 4.
 
 #### Contents:
 
@@ -96,11 +98,13 @@ If you're an advanced GitHub user, you can also:
 
 ## License
 
-This is free and unencumbered software released into the public domain.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+[Apollo Save Tool](https://github.com/bucanero/apollo-saves/) Online Database - Copyright (C) 2020-2022  Damian Parrino
 
-For more information, please refer to the [Unlicense](LICENSE).
+This program is free software: you can redistribute it and/or modify
+it under the terms of the [GNU General Public License](LICENSE) as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+[app_license]: https://github.com/bucanero/apollo-saves/blob/master/LICENSE
+[img_license]: https://img.shields.io/github/license/bucanero/apollo-saves.svg?maxAge=2592000
