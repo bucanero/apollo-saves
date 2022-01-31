@@ -5,9 +5,11 @@
 | [Borderlands 3](CUSA07823/) | CUSA07823 |
 | [Cars 3: Driven to Win](CUSA07027/) | CUSA07027 |
 | [Crash™ Team Racing Nitro-Fueled](CUSA13795/) | CUSA13795 |
+| [CRYSTAR](CUSA15175/) | CUSA15175 |
 | [Days Gone](CUSA08966/) | CUSA08966 |
 | [DJMAX RESPECT](CUSA08621/) | CUSA08621 |
 | [FIFA 22](CUSA27109/) | CUSA27109 |
+| [FINAL FANTASY VII](CUSA01875/) | CUSA01875 |
 | [Ghost of Tsushima](CUSA11456/) | CUSA11456 |
 | [God of War](CUSA07408/) | CUSA07408 |
 | [Grand Theft Auto V](CUSA00411/) | CUSA00411 |
@@ -23,3 +25,5 @@
 | [SCARLET NEXUS](CUSA25132/) | CUSA25132 |
 | [Shadow of the Colossus](CUSA08809/) | CUSA08809 |
 | [Star Wars Jedi: Fallen Order](CUSA12529/) | CUSA12529 |
+| [YS IX Monstrum NOX](CUSA20414/) | CUSA20414 |
+| [YS VIII Lacrimosa of Dana](CUSA08570/) | CUSA08570 |

@@ -1,9 +1,11 @@
 CUSA07823=Borderlands 3
 CUSA07027=Cars 3: Driven to Win
 CUSA13795=Crash™ Team Racing Nitro-Fueled
+CUSA15175=CRYSTAR
 CUSA08966=Days Gone
 CUSA08621=DJMAX RESPECT
 CUSA27109=FIFA 22
+CUSA01875=FINAL FANTASY VII
 CUSA11456=Ghost of Tsushima
 CUSA07408=God of War
 CUSA00411=Grand Theft Auto V
@@ -19,3 +21,5 @@ CUSA08519=Red Dead Redemption 2
 CUSA25132=SCARLET NEXUS
 CUSA08809=Shadow of the Colossus
 CUSA12529=Star Wars Jedi: Fallen Order
+CUSA20414=YS IX Monstrum NOX
+CUSA08570=YS VIII Lacrimosa of Dana
