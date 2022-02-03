@@ -1,0 +1,3 @@
+00000001.zip=(SYSTEM) Game finished on easy difficulty, no hacks or cheats. (1.02)
+00000002.zip=(DATA) Game finished on easy difficulty, no hacks or cheats. (1.02)
+00000003.zip=(Clear Data) Game finished on easy difficulty, no hacks or cheats. (1.02)
