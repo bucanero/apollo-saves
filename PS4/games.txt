@@ -1,6 +1,7 @@
 CUSA07823=Borderlands 3
 CUSA07027=Cars 3: Driven to Win
 CUSA13795=Crash™ Team Racing Nitro-Fueled
+CUSA14876=Crash™ Team Racing Nitro-Fueled
 CUSA15175=CRYSTAR
 CUSA08966=Days Gone
 CUSA08621=DJMAX RESPECT

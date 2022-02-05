@@ -5,6 +5,7 @@
 | [Borderlands 3](CUSA07823/) | CUSA07823 |
 | [Cars 3: Driven to Win](CUSA07027/) | CUSA07027 |
 | [Crash™ Team Racing Nitro-Fueled](CUSA13795/) | CUSA13795 |
+| [Crash™ Team Racing Nitro-Fueled](CUSA14876/) | CUSA14876 |
 | [CRYSTAR](CUSA15175/) | CUSA15175 |
 | [Days Gone](CUSA08966/) | CUSA08966 |
 | [DJMAX RESPECT](CUSA08621/) | CUSA08621 |
