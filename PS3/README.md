@@ -37,6 +37,7 @@
 | [Castlevania Lords of Shadow™](BLES01047/) | BLES01047 |
 | [Castlevania Lords of Shadow™](BLUS30339/) | BLUS30339 |
 | [Catherine](BLUS30428/) | BLUS30428 |
+| [Dante's Inferno](BLES00713/) | BLES00713 |
 | [Dark Sector](BLUS30116/) | BLUS30116 |
 | [Dark Souls II](NPUB31358/) | NPUB31358 |
 | [DARK VOID](BLES00723/) | BLES00723 |

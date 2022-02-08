@@ -33,6 +33,7 @@ BLUS30999=Castlevania Lords of Shadow 2
 BLES01047=Castlevania Lords of Shadow™
 BLUS30339=Castlevania Lords of Shadow™
 BLUS30428=Catherine
+BLES00713=Dante's Inferno
 BLUS30116=Dark Sector
 NPUB31358=Dark Souls II
 BLES00723=DARK VOID
