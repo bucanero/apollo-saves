@@ -1,0 +1,1 @@
+00000001.zip=Game completed 100% except online operations

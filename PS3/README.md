@@ -74,6 +74,7 @@
 | [FINAL FANTASY XIII-2](BLUS30776/) | BLUS30776 |
 | [Fuse™](BLES01724/) | BLES01724 |
 | [God of War® III](BCES00510/) | BCES00510 |
+| [GoldenEye 007: Reloaded](BLUS30755/) | BLUS30755 |
 | [Gran Turismo 5](BCES00569/) | BCES00569 |
 | [Gran Turismo 5](BCUS98114/) | BCUS98114 |
 | [Gran Turismo 5 Prologue](BCES00104/) | BCES00104 |
@@ -86,6 +87,7 @@
 | [Hatsune Miku Project Diva F](NPUB31241/) | NPUB31241 |
 | [Hatsune Miku Project Diva F 2nd](NPUB31488/) | NPUB31488 |
 | [Hitman: Absolution](BLUS30835/) | BLUS30835 |
+| [inFAMOUS: Festival of Blood](NPUA80657/) | NPUA80657 |
 | [Kingdom Hearts HD 1.5 ReMIX](BLUS31212/) | BLUS31212 |
 | [Kingdom Hearts HD 2.5 ReMIX](BLUS31460/) | BLUS31460 |
 | [Kung Fu Panda™](BLES00243/) | BLES00243 |
