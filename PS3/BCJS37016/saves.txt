@@ -1,2 +1,3 @@
 00000001.zip=All cars unlocked (+1200 cars) and $50 million credits
 00000002.zip=50.000 Credit bonus and the Honda Fit on the start of the campaign
+00000003.zip=Game completed 87%, all license test completed in gold except Veyron & Aventador, all racing stars earned, 1270 cars in the garage
