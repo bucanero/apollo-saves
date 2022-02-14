@@ -1,3 +1,4 @@
+CUSA24653=Alan Wake
 CUSA07823=Borderlands 3
 CUSA07027=Cars 3: Driven to Win
 CUSA13795=Crash™ Team Racing Nitro-Fueled

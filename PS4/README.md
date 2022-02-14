@@ -2,6 +2,7 @@
 
 | Game | Title ID |
 |------|----------|
+| [Alan Wake](CUSA24653/) | CUSA24653 |
 | [Borderlands 3](CUSA07823/) | CUSA07823 |
 | [Cars 3: Driven to Win](CUSA07027/) | CUSA07027 |
 | [Crash™ Team Racing Nitro-Fueled](CUSA13795/) | CUSA13795 |
