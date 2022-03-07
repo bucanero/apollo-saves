@@ -19,6 +19,7 @@ CUSA10659=HiQ Ace
 CUSA28687=Hoa
 CUSA11275=Horizon Chase Turbo
 CUSA07320=Horizon Zero Dawn™
+CUSA05786=Kingdom Hearts 1.5/2.5 Final Mix
 CUSA02299=Marvel's Spider Man
 CUSA11993=Marvel's Spider-Man
 CUSA17722=Marvel's Spider-Man: Miles Morales

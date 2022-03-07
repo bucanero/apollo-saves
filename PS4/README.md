@@ -23,6 +23,7 @@
 | [Hoa](CUSA28687/) | CUSA28687 |
 | [Horizon Chase Turbo](CUSA11275/) | CUSA11275 |
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
+| [Kingdom Hearts 1.5/2.5 Final Mix](CUSA05786/) | CUSA05786 |
 | [Marvel's Spider Man](CUSA02299/) | CUSA02299 |
 | [Marvel's Spider-Man](CUSA11993/) | CUSA11993 |
 | [Marvel's Spider-Man: Miles Morales](CUSA17722/) | CUSA17722 |
