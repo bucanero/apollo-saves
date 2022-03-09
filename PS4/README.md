@@ -14,6 +14,7 @@
 | [DJMAX RESPECT](CUSA08621/) | CUSA08621 |
 | [DRAGON BALL Z: KAKAROT](CUSA14655/) | CUSA14655 |
 | [FIFA 22](CUSA27109/) | CUSA27109 |
+| [FIFA 22](CUSA27110/) | CUSA27110 |
 | [FINAL FANTASY VII](CUSA01875/) | CUSA01875 |
 | [Ghost of Tsushima](CUSA11456/) | CUSA11456 |
 | [God of War](CUSA07408/) | CUSA07408 |
@@ -24,6 +25,7 @@
 | [Horizon Chase Turbo](CUSA11275/) | CUSA11275 |
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
 | [Kingdom Hearts 1.5/2.5 Final Mix](CUSA05786/) | CUSA05786 |
+| [Kingdoms of Amalur: Re-Reckoning](CUSA17245/) | CUSA17245 |
 | [Marvel's Spider Man](CUSA02299/) | CUSA02299 |
 | [Marvel's Spider-Man](CUSA11993/) | CUSA11993 |
 | [Marvel's Spider-Man: Miles Morales](CUSA17722/) | CUSA17722 |
