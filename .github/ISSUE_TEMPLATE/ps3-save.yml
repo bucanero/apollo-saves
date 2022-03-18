@@ -1,0 +1,55 @@
+name: Upload PS3 Save
+description: Upload a PlayStation 3 save-game
+title: "[Upload save]"
+labels: ["saves", "ps3"]
+#assignees:
+#  - bucanero
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to upload a save-game!
+  - type: input
+    id: game
+    attributes:
+      label: Game mame
+      description: Insert Game Title, optional Game Version
+      placeholder: ex. Uncharted
+    validations:
+      required: true
+  - type: input
+    id: titleid
+    attributes:
+      label: Title ID
+      description: Insert Title ID
+      placeholder: ex. BLUS12345
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Save description
+      description: Insert a description. **ATTACH ZIP FILE HERE (DRAG & DROP SUPPORTED)**
+      placeholder: Tell us about the save
+      value: "e.g. Game completed, everything unlocked! ATTACH ZIP FILE HERE (DRAG & DROP SUPPORTED)"
+    validations:
+      required: true
+  - type: input
+    id: zipurl
+    attributes:
+      label: Zip link
+      description: (Optional) Insert link to .Zip file
+      placeholder: ex. http://mediafire.com/...
+    validations:
+      required: false
+  - type: dropdown
+    id: firmware
+    attributes:
+      label: FW Version
+      description: (Optional) Which firmware version are you running?
+      options:
+        - CFW
+        - HEN
+        - other
+    validations:
+      required: false
