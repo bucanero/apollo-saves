@@ -28,6 +28,7 @@ CUSA17722=Marvel's Spider-Man: Miles Morales
 CUSA17776=Marvel's Spider-Man: Miles Morales
 CUSA00265=Minecraft
 CUSA00744=Minecraft
+CUSA26377=NEO: The World Ends with You
 CUSA17419=Persona 5 Royal
 CUSA19640=Persona 5 Strikers
 CUSA08519=Red Dead Redemption 2

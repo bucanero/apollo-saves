@@ -32,6 +32,7 @@
 | [Marvel's Spider-Man: Miles Morales](CUSA17776/) | CUSA17776 |
 | [Minecraft](CUSA00265/) | CUSA00265 |
 | [Minecraft](CUSA00744/) | CUSA00744 |
+| [NEO: The World Ends with You](CUSA26377/) | CUSA26377 |
 | [Persona 5 Royal](CUSA17419/) | CUSA17419 |
 | [Persona 5 Strikers](CUSA19640/) | CUSA19640 |
 | [Red Dead Redemption 2](CUSA08519/) | CUSA08519 |
