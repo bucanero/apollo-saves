@@ -130,6 +130,7 @@
 | [ONE PIECE: PIRATE WARRIORS 3](NPEB02211/) | NPEB02211 |
 | [Payday 2](BLES01902/) | BLES01902 |
 | [Persona 4 Arena Ultimax](NPUB31563/) | NPUB31563 |
+| [Phantom Breaker: Extra](BLJM61098/) | BLJM61098 |
 | [Pirates of the Caribbean At World's End](BLUS30029/) | BLUS30029 |
 | [Rayman® Origins](BLES01386/) | BLES01386 |
 | [Remember Me™](BLES01701/) | BLES01701 |

@@ -10,6 +10,7 @@
 | [Crash™ Team Racing Nitro-Fueled](CUSA13795/) | CUSA13795 |
 | [Crash™ Team Racing Nitro-Fueled](CUSA14876/) | CUSA14876 |
 | [CRYSTAR](CUSA15175/) | CUSA15175 |
+| [Dark Thrones](CUSA27656/) | CUSA27656 |
 | [Days Gone](CUSA08966/) | CUSA08966 |
 | [DJMAX RESPECT](CUSA08621/) | CUSA08621 |
 | [DRAGON BALL Z: KAKAROT](CUSA14655/) | CUSA14655 |

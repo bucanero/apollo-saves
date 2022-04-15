@@ -126,6 +126,7 @@ NPEB01795=ONE PIECE: PIRATE WARRIORS 2
 NPEB02211=ONE PIECE: PIRATE WARRIORS 3
 BLES01902=Payday 2
 NPUB31563=Persona 4 Arena Ultimax
+BLJM61098=Phantom Breaker: Extra
 BLUS30029=Pirates of the Caribbean At World's End
 BLES01386=Rayman® Origins
 BLES01701=Remember Me™
