@@ -91,6 +91,7 @@ BLUS30837=LEGO Batman 2: DC Super Heroes
 BLES00720=LEGO Harry Potter: Years 1-4
 BLES01348=LEGO Harry Potter: Years 5-7
 BLUS30425=LEGO Indiana Jones 2: The Adventure Continues
+BLUS31550=LEGO Marvel's Avengers
 BLUS30744=LEGO Pirates of the Caribbean: The Video Game
 BLES02213=LEGO Star Wars: The Force Awakens
 BLUS31578=LEGO Star Wars: The Force Awakens

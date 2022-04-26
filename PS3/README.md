@@ -95,6 +95,7 @@
 | [LEGO Harry Potter: Years 1-4](BLES00720/) | BLES00720 |
 | [LEGO Harry Potter: Years 5-7](BLES01348/) | BLES01348 |
 | [LEGO Indiana Jones 2: The Adventure Continues](BLUS30425/) | BLUS30425 |
+| [LEGO Marvel's Avengers](BLUS31550/) | BLUS31550 |
 | [LEGO Pirates of the Caribbean: The Video Game](BLUS30744/) | BLUS30744 |
 | [LEGO Star Wars: The Force Awakens](BLES02213/) | BLES02213 |
 | [LEGO Star Wars: The Force Awakens](BLUS31578/) | BLUS31578 |
