@@ -43,6 +43,7 @@ BLES00310=Dead Space™
 BLUS30624=Dead Space™ 2
 BLUS31053=Dead Space™ 3
 BLUS31146=Deadpool
+NPJB00785=Dengeki Bunko Fighting Climax Ignition
 BLUS30764=Devil May Cry 1/2/3 HD Collection
 BLUS30092=Devil May Cry 4
 BLUS31188=Diablo III

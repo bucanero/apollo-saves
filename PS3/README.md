@@ -47,6 +47,7 @@
 | [Dead Space™ 2](BLUS30624/) | BLUS30624 |
 | [Dead Space™ 3](BLUS31053/) | BLUS31053 |
 | [Deadpool](BLUS31146/) | BLUS31146 |
+| [Dengeki Bunko Fighting Climax Ignition](NPJB00785/) | NPJB00785 |
 | [Devil May Cry 1/2/3 HD Collection](BLUS30764/) | BLUS30764 |
 | [Devil May Cry 4](BLUS30092/) | BLUS30092 |
 | [Diablo III](BLUS31188/) | BLUS31188 |
