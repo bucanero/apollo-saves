@@ -85,6 +85,7 @@ NPUB31241=Hatsune Miku Project Diva F
 NPUB31488=Hatsune Miku Project Diva F 2nd
 BLUS30835=Hitman: Absolution
 NPUA80657=inFAMOUS: Festival of Blood
+NPUB31391=JoJo's Bizarre Adventure: All Star Battle
 BLUS31212=Kingdom Hearts HD 1.5 ReMIX
 BLUS31460=Kingdom Hearts HD 2.5 ReMIX
 BLES00243=Kung Fu Panda™

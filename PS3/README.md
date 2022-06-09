@@ -89,6 +89,7 @@
 | [Hatsune Miku Project Diva F 2nd](NPUB31488/) | NPUB31488 |
 | [Hitman: Absolution](BLUS30835/) | BLUS30835 |
 | [inFAMOUS: Festival of Blood](NPUA80657/) | NPUA80657 |
+| [JoJo's Bizarre Adventure: All Star Battle](NPUB31391/) | NPUB31391 |
 | [Kingdom Hearts HD 1.5 ReMIX](BLUS31212/) | BLUS31212 |
 | [Kingdom Hearts HD 2.5 ReMIX](BLUS31460/) | BLUS31460 |
 | [Kung Fu Panda™](BLES00243/) | BLES00243 |
