@@ -1,0 +1,10 @@
+This backup contains patches and improvements
+Adding the stopwatch and invisible mode 100% complete at rank S
+Addition of the
+-Fusarbalète
+-Infinite Rocket Launcher
+-Meat grinder
+-Infinite Munitions
+-Bubble gun
+-Katana
+-Glaive
