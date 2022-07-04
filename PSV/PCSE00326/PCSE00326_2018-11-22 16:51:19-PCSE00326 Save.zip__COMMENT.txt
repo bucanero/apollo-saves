@@ -1,5 +1,0 @@
-An updated version of the guy who commented &#34;All songs on all difficulties completed to the stage of perfect, open all the images, all purchased.&#34;
-
-Fixed to prevent file is corrupt error an C2-14780-0 error. Should be easy for you to use with d3m3vilurr&#39;s save manager.
-
-- Vanilla
