@@ -1,4 +1,3 @@
-AMTR01693=Another Metroid 2 Remake Return of Samus
 NPPA00130=0WAR
 NPPA00143=Adventure Bar Labyrinth
 PCSA00001=ModNation™ Racers: Road Trip
