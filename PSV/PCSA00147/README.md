@@ -1,0 +1,9 @@
+# Freedom Wars
+
+## PS Vita Saves
+
+| Filename | Description |
+|----------|-------------|
+| [00000001.zip](00000001.zip) | Story Mode Completed, READ README.TXT to find out how to get this save file working properly.  |
+| [00000002.zip](00000002.zip) | Reup of another user&#39;s save data for personal experimentation reasons  |
+| [00000003.zip](00000003.zip) | story mode finished, about a ~500,000 years left to freedom.  |
