@@ -1,4 +1,4 @@
-# BlazBlue: Continuum Shift EXTEND PS Vita
+# BlazBlue: Continuum Shift EXTEND
 
 ## PS Vita Saves
 

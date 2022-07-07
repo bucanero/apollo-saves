@@ -1,4 +1,4 @@
-# Danganronpa: Trigger Happy Havoc Full Game
+# Danganronpa: Trigger Happy Havoc
 
 ## PS Vita Saves
 
