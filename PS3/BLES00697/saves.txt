@@ -1,0 +1,2 @@
+00063120.zip=Platinum Save
+X_114653.zip=starter save, max: xp,money,skill points
