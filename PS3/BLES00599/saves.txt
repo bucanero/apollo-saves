@@ -5,4 +5,4 @@
 00001313.zip=82% complete (user save 3)
 00001314.zip=82% complete (continue save)
 00000001.zip=all weapons leveled up and unlocked, 100% completed
-X_174637.zip=instant platinum
+00174637.zip=instant platinum

@@ -1,2 +1,2 @@
 00000001.zip=all weapons fully maxed out, new game plus available
-X_091707.zip=100% save
+00091707.zip=100% save
