@@ -1,2 +1,2 @@
 00000001.zip=Instant Platinum, will pop all trophies except 3 for platinum by xLew
-X_174752.zip=instant platinum
+00174752.zip=instant platinum

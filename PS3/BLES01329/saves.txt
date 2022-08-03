@@ -1,4 +1,4 @@
 00000001.zip=Main Story Quests Completed (100%)
 00062953.zip=Platinum Save
-X_173615.zip=starter female , no skill, no perk , no shout, lvl 1 , item + max pv, mana,gold
-X_173656.zip=starter male , no skill, no perk , no shout, lvl 1 , item + max pv, mana,gold
+00173615.zip=starter female , no skill, no perk , no shout, lvl 1 , item + max pv, mana,gold
+00173656.zip=starter male , no skill, no perk , no shout, lvl 1 , item + max pv, mana,gold
