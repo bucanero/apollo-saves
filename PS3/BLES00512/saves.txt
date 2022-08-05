@@ -1,2 +1,2 @@
-X_172751.zip=platinum save
-X_174239.zip=starter save, all flower, lvl max, all chapter unlock, 16millions
+00172751.zip=platinum save
+00174239.zip=starter save, all flower, lvl max, all chapter unlock, 16millions
