@@ -1,2 +1,4 @@
 00000001.zip=platinum save
 00000002.zip=replay theater, view videos for trophy
+00050898.zip=Game done 100% (system)
+00050899.zip=Game done 100% (replay)

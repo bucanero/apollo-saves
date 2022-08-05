@@ -1,2 +1,3 @@
 00000001.zip=100% completed, all weapons upgraded
 00000002.zip=profile savedata
+00030026.zip=Max DP Max Rations Infinite Ammo Max Items Unlock The Boss Extreme Difficulty

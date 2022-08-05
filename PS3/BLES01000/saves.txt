@@ -1,0 +1,4 @@
+00000133.zip=Squash Legend
+00000404.zip=Badminton Legend
+00001551.zip=Beach Tennis Legend
+00001707.zip=Table Tennis Legend
