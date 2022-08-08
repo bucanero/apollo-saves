@@ -103,6 +103,8 @@
 | [Drakengard 3](NPUB31251/) | NPUB31251 |
 | [DuckTales: Remastered](NPUB31126/) | NPUB31126 |
 | [Dungeon Siege 3](BLES01161/) | BLES01161 |
+| [Dynasty Warriors: Gundam](BLES00147/) | BLES00147 |
+| [Dynasty Warriors: Gundam](BLUS30058/) | BLUS30058 |
 | [Dynasty Warriors 8](NPUB31234/) | NPUB31234 |
 | [Dynasty Warriors 8: Xtreme Legends](NPUB31449/) | NPUB31449 |
 | [F1 Race Stars](BLES01715/) | BLES01715 |
@@ -140,6 +142,7 @@
 | [Guacamelee!](NPUB30672/) | NPUB30672 |
 | [Guardians of Middle Earth](NPEB01085/) | NPEB01085 |
 | [Guilty Gear Xrd: Revelator](NPUB31806/) | NPUB31806 |
+| [Gundam Musou](BLJM60018/) | BLJM60018 |
 | [Hard Corps: Uprising](NPUB30096/) | NPUB30096 |
 | [Hatsune Miku Project Diva F](NPUB31241/) | NPUB31241 |
 | [Hatsune Miku Project Diva F 2nd](NPUB31488/) | NPUB31488 |
