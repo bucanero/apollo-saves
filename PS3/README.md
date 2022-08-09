@@ -20,6 +20,7 @@
 | [Batman: Arkham Asylum](BLES00503/) | BLES00503 |
 | [Batman: Arkham Asylum](BLUS30279/) | BLUS30279 |
 | [Batman: Arkham City](BLUS30538/) | BLUS30538 |
+| [Batman: Arkham Origins](BLUS31147/) | BLUS31147 |
 | [Battlefield: Bad Company 2](BLUS30458/) | BLUS30458 |
 | [Bayonetta](BLES00599/) | BLES00599 |
 | [Bayonetta](BLUS30367/) | BLUS30367 |

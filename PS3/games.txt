@@ -16,6 +16,7 @@ NPUB31115=Atelier Ayesha - The Alchemist Of Dusk
 BLES00503=Batman: Arkham Asylum
 BLUS30279=Batman: Arkham Asylum
 BLUS30538=Batman: Arkham City
+BLUS31147=Batman: Arkham Origins
 BLUS30458=Battlefield: Bad Company 2
 BLES00599=Bayonetta
 BLUS30367=Bayonetta
