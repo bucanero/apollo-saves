@@ -180,6 +180,7 @@ has_toc: false
 | [Lara Croft and the Guardian of Light](NPUB30225/) | NPUB30225 |
 | [LEGO Batman 2: DC Super Heroes](BLUS30837/) | BLUS30837 |
 | [LEGO Harry Potter: Years 1-4](BLES00720/) | BLES00720 |
+| [LEGO Harry Potter: Years 1-4](BLUS30437/) | BLUS30437 |
 | [LEGO Harry Potter: Years 5-7](BLES01348/) | BLES01348 |
 | [LEGO Indiana Jones 2: The Adventure Continues](BLUS30425/) | BLUS30425 |
 | [LEGO Marvel's Avengers](BLUS31550/) | BLUS31550 |

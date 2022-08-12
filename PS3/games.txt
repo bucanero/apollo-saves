@@ -169,6 +169,7 @@ BLES00243=Kung Fu Panda™
 NPUB30225=Lara Croft and the Guardian of Light
 BLUS30837=LEGO Batman 2: DC Super Heroes
 BLES00720=LEGO Harry Potter: Years 1-4
+BLUS30437=LEGO Harry Potter: Years 1-4
 BLES01348=LEGO Harry Potter: Years 5-7
 BLUS30425=LEGO Indiana Jones 2: The Adventure Continues
 BLUS31550=LEGO Marvel's Avengers
