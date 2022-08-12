@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Steamworld Dig"
+parent: PS Vita Saves
+permalink: PSV/PCSE00430/
+---
 # Steamworld Dig
 
-## PS Vita Saves
+## PS Vita Saves - PCSE00430
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | finished the story,there are some items left to buy,so u just have to....dig a little bit more to get everything  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Steamworld Dig](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | finished the story,there are some items left to buy,so u just have to....dig a little bit more to get everything  |

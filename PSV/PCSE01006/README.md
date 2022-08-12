@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Zero Escape: The Nonary Games"
+parent: PS Vita Saves
+permalink: PSV/PCSE01006/
+---
 # Zero Escape: The Nonary Games
 
-## PS Vita Saves
+## PS Vita Saves - PCSE01006
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | 100% on Zero Escape 999 and 0% in zero escape virtue&#39;s last reward  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Zero Escape: The Nonary Games](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% on Zero Escape 999 and 0% in zero escape virtue&#39;s last reward  |

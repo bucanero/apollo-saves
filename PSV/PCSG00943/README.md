@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Berserk Musou"
+parent: PS Vita Saves
+permalink: PSV/PCSG00943/
+---
 # Berserk Musou
 
-## PS Vita Saves
+## PS Vita Saves - PCSG00943
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | History Mode 100% (No Additional Chapters), Endless Eclipse and Desires 100% Guts (Beast of Darkness), Femto, Wyvald & Zodd (Apostiles Form) Unlocked! Save Encr. and Upload By: Tartarosnv (Mexicano)  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Berserk Musou](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | History Mode 100% (No Additional Chapters), Endless Eclipse and Desires 100% Guts (Beast of Darkness), Femto, Wyvald & Zodd (Apostiles Form) Unlocked! Save Encr. and Upload By: Tartarosnv (Mexicano)  |

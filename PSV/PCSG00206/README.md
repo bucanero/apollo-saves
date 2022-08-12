@@ -1,8 +1,14 @@
+---
+layout: default
+title: "Grisaia no Kajitsu: Le Fruit de la Grisaia"
+parent: PS Vita Saves
+permalink: PSV/PCSG00206/
+---
 # Grisaia no Kajitsu: Le Fruit de la Grisaia
 
-## PS Vita Saves
+## PS Vita Saves - PCSG00206
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | All routes completed.  |
-| [00000002.zip](00000002.zip) | All endings played. Every file&#39;s hidden though.  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Grisaia no Kajitsu: Le Fruit de la Grisaia](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |
+| ![Grisaia no Kajitsu: Le Fruit de la Grisaia](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | All endings played. Every file&#39;s hidden though.  |

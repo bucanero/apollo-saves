@@ -1,9 +1,15 @@
+---
+layout: default
+title: "The Binding of Isaac: Rebirth"
+parent: PS Vita Saves
+permalink: PSV/PCSB00676/
+---
 # The Binding of Isaac: Rebirth
 
-## PS Vita Saves
+## PS Vita Saves - PCSB00676
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | 110 real platinum god backed up using save manager  Rated-Black  |
-| [00000002.zip](00000002.zip) | Real platinum God  |
-| [00000003.zip](00000003.zip) | Save  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![The Binding of Isaac: Rebirth](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 110 real platinum god backed up using save manager  Rated-Black  |
+| ![The Binding of Isaac: Rebirth](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Real platinum God  |
+| ![The Binding of Isaac: Rebirth](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000003.zip](00000003.zip){: .btn .btn-purple } | Save  |

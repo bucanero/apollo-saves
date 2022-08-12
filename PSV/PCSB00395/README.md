@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Final Fantasy X HD Remaster"
+parent: PS Vita Saves
+permalink: PSV/PCSB00395/
+---
 # Final Fantasy X HD Remaster
 
-## PS Vita Saves
+## PS Vita Saves - PCSB00395
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | 11 hours of gameplay. after Yuna recieves a marriage proposal.  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Final Fantasy X HD Remaster](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 11 hours of gameplay. after Yuna recieves a marriage proposal.  |

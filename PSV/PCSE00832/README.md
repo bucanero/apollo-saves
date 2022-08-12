@@ -1,7 +1,13 @@
+---
+layout: default
+title: "MegaTagmension Blanc + Neptune VS Zombies"
+parent: PS Vita Saves
+permalink: PSV/PCSE00832/
+---
 # MegaTagmension Blanc + Neptune VS Zombies
 
-## PS Vita Saves
+## PS Vita Saves - PCSE00832
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | all event unlock, all part processor , all upgrade ability, 90% complete (not yet all lv 99 , all lily lv 10, thursday challenge)  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![MegaTagmension Blanc + Neptune VS Zombies](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | all event unlock, all part processor , all upgrade ability, 90% complete (not yet all lv 99 , all lily lv 10, thursday challenge)  |

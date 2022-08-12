@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Grisaia no Kajitsu Spinout!? Idol Mahou Shoujo ChiruChiru*Michiru"
+parent: PS Vita Saves
+permalink: PSV/PCSG00620/
+---
 # Grisaia no Kajitsu Spinout!? Idol Mahou Shoujo ChiruChiru*Michiru
 
-## PS Vita Saves
+## PS Vita Saves - PCSG00620
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | All routes completed.  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Grisaia no Kajitsu Spinout!? Idol Mahou Shoujo ChiruChiru*Michiru](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |

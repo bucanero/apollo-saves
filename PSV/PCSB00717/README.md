@@ -1,8 +1,14 @@
+---
+layout: default
+title: "One Piece Pirate Warriors 3"
+parent: PS Vita Saves
+permalink: PSV/PCSB00717/
+---
 # One Piece Pirate Warriors 3
 
-## PS Vita Saves
+## PS Vita Saves - PCSB00717
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | All the  characters lv 50   |
-| [00000002.zip](00000002.zip) | 100% complete  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![One Piece Pirate Warriors 3](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All the  characters lv 50   |
+| ![One Piece Pirate Warriors 3](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | 100% complete  |

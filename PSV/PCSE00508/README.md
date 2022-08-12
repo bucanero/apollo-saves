@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Hyperdimension Neptunia ReBirth2"
+parent: PS Vita Saves
+permalink: PSV/PCSE00508/
+---
 # Hyperdimension Neptunia ReBirth2
 
-## PS Vita Saves
+## PS Vita Saves - PCSE00508
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | Multiple save files used to get all of the endings -All of the endings unlocked (Normal,Human,Conquest,Holy Sword,True Ending) except each nations endings -Symbol Attack Gain Plan Unlocked -Lily Rank Grinding Done! -NG+ Ready  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Hyperdimension Neptunia ReBirth2](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Multiple save files used to get all of the endings -All of the endings unlocked (Normal,Human,Conquest,Holy Sword,True Ending) except each nations endings -Symbol Attack Gain Plan Unlocked -Lily Rank Grinding Done! -NG+ Ready  |

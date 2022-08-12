@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Zero Escape: Zero Time Dilemma"
+parent: PS Vita Saves
+permalink: PSV/PCSE00781/
+---
 # Zero Escape: Zero Time Dilemma
 
-## PS Vita Saves
+## PS Vita Saves - PCSE00781
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | 100% save file.  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Zero Escape: Zero Time Dilemma](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% save file.  |

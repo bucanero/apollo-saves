@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Grisaia no Rakuen: Le Eden de la Grisaia"
+parent: PS Vita Saves
+permalink: PSV/PCSG00508/
+---
 # Grisaia no Rakuen: Le Eden de la Grisaia
 
-## PS Vita Saves
+## PS Vita Saves - PCSG00508
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | All routes completed.  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Grisaia no Rakuen: Le Eden de la Grisaia](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |

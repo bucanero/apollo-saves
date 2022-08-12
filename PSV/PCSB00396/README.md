@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Dragon Ball Z: Battle of Z"
+parent: PS Vita Saves
+permalink: PSV/PCSB00396/
+---
 # Dragon Ball Z: Battle of Z
 
-## PS Vita Saves
+## PS Vita Saves - PCSB00396
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | All Missions Z Rank, All Charakters Max Level, max PP and DP, Most Items and Cards 99x  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Dragon Ball Z: Battle of Z](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All Missions Z Rank, All Charakters Max Level, max PP and DP, Most Items and Cards 99x  |

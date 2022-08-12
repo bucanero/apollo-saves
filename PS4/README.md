@@ -1,3 +1,10 @@
+---
+layout: default
+title: PS4 Saves
+permalink: PS4/
+has_children: true
+has_toc: false
+---
 # Games
 
 | Game | Title ID |

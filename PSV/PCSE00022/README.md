@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Disgaea® 3: Absence of Detention"
+parent: PS Vita Saves
+permalink: PSV/PCSE00022/
+---
 # Disgaea® 3: Absence of Detention
 
-## PS Vita Saves
+## PS Vita Saves - PCSE00022
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | About 60% through the game/ Chapter 6 or so. Put/extract  in ux0:data/vitasavemanager, then restore with Vitasavemanager plus  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Disgaea® 3: Absence of Detention](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | About 60% through the game/ Chapter 6 or so. Put/extract  in ux0:data/vitasavemanager, then restore with Vitasavemanager plus  |

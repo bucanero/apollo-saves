@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Grim Fandango Remastered"
+parent: PS Vita Saves
+permalink: PSV/PCSB00731/
+---
 # Grim Fandango Remastered
 
-## PS Vita Saves
+## PS Vita Saves - PCSB00731
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | grim fandago  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Grim Fandango Remastered](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | grim fandago  |

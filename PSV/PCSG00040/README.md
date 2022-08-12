@@ -1,8 +1,14 @@
+---
+layout: default
+title: "Kidou Senshi Gundam Seed Battle Destiny"
+parent: PS Vita Saves
+permalink: PSV/PCSG00040/
+---
 # Kidou Senshi Gundam Seed Battle Destiny
 
-## PS Vita Saves
+## PS Vita Saves - PCSG00040
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | SAVE 100%  |
-| [00000002.zip](00000002.zip) | SAVE 100%  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Kidou Senshi Gundam Seed Battle Destiny](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | SAVE 100%  |
+| ![Kidou Senshi Gundam Seed Battle Destiny](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | SAVE 100%  |

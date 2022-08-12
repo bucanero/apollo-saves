@@ -1,7 +1,13 @@
+---
+layout: default
+title: "WipEout® 2048"
+parent: PS Vita Saves
+permalink: PSV/PCSF00007/
+---
 # WipEout® 2048
 
-## PS Vita Saves
+## PS Vita Saves - PCSF00007
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | 100% Offline and Online career (Elite pass), 100% Hotlaps. All ships, tracks, liveries unlocked. 100% HD career (Elite pass), everything but Detonators in Fury career (Elite pass).  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![WipEout® 2048](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% Offline and Online career (Elite pass), 100% Hotlaps. All ships, tracks, liveries unlocked. 100% HD career (Elite pass), everything but Detonators in Fury career (Elite pass).  |

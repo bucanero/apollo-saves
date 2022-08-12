@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Call of Duty Black Ops: Declassified"
+parent: PS Vita Saves
+permalink: PSV/PCSB00213/
+---
 # Call of Duty Black Ops: Declassified
 
-## PS Vita Saves
+## PS Vita Saves - PCSB00213
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | max campain level and lvl 25  no prestiege online level  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Call of Duty Black Ops: Declassified](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | max campain level and lvl 25  no prestiege online level  |

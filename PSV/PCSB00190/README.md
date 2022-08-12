@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Sonic & All-Stars Racing Transformed"
+parent: PS Vita Saves
+permalink: PSV/PCSB00190/
+---
 # Sonic & All-Stars Racing Transformed
 
-## PS Vita Saves
+## PS Vita Saves - PCSB00190
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | Every character, mod for every vehicle, all tracks and mirrowed versions, expert difficulty, 156 worldtour-stars, finished Worldtour (i edit the savegame, normally you need 232 stars) and all Grand Prix cups, 44 stickers, 66% of the game  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Sonic & All-Stars Racing Transformed](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Every character, mod for every vehicle, all tracks and mirrowed versions, expert difficulty, 156 worldtour-stars, finished Worldtour (i edit the savegame, normally you need 232 stars) and all Grand Prix cups, 44 stickers, 66% of the game  |

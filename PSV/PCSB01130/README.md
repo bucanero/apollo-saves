@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Danganronpa V3: Killing Harmony Demo"
+parent: PS Vita Saves
+permalink: PSV/PCSB01130/
+---
 # Danganronpa V3: Killing Harmony Demo
 
-## PS Vita Saves
+## PS Vita Saves - PCSB01130
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | Uploaded by XG-PRO  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Danganronpa V3: Killing Harmony Demo](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Uploaded by XG-PRO  |

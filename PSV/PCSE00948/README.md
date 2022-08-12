@@ -1,7 +1,13 @@
+---
+layout: default
+title: "VALKYRIE DRIVE -BHIKKHUNI-"
+parent: PS Vita Saves
+permalink: PSV/PCSE00948/
+---
 # VALKYRIE DRIVE -BHIKKHUNI-
 
-## PS Vita Saves
+## PS Vita Saves - PCSE00948
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | The lingerie is almost all unlocked, most levels are completed.  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![VALKYRIE DRIVE -BHIKKHUNI-](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | The lingerie is almost all unlocked, most levels are completed.  |

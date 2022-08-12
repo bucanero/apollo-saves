@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Harukanaru Toki no Naka de 3 Ultimate"
+parent: PS Vita Saves
+permalink: PSV/PCSG00992/
+---
 # Harukanaru Toki no Naka de 3 Ultimate
 
-## PS Vita Saves
+## PS Vita Saves - PCSG00992
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | Most character skills unlocked and maxed out. All Co-Op skills and Jutsu unlocked. Max Affinity with heroine, party members have at least 2 Bond with each other. 100% gallery.  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Harukanaru Toki no Naka de 3 Ultimate](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Most character skills unlocked and maxed out. All Co-Op skills and Jutsu unlocked. Max Affinity with heroine, party members have at least 2 Bond with each other. 100% gallery.  |

@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Adventure Bar Labyrinth"
+parent: PS Vita Saves
+permalink: PSV/NPPA00143/
+---
 # Adventure Bar Labyrinth
 
-## PS Vita Saves
+## PS Vita Saves - NPPA00143
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | A save at the start of the game but with roughly 3000000 gems in your inventory  -Silica  |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Adventure Bar Labyrinth](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | A save at the start of the game but with roughly 3000000 gems in your inventory  -Silica  |

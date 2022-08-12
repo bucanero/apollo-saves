@@ -1,7 +1,13 @@
+---
+layout: default
+title: "Danganronpa V3: Killing Harmony"
+parent: PS Vita Saves
+permalink: PSV/PCSE01100/
+---
 # Danganronpa V3: Killing Harmony
 
-## PS Vita Saves
+## PS Vita Saves - PCSE01100
 
-| Filename | Description |
-|----------|-------------|
-| [00000001.zip](00000001.zip) | The game has been beaten, and the two extra modes have been unlocked.   |
+| Icon | Filename | Description |
+|------|----------|-------------|
+| ![Danganronpa V3: Killing Harmony](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | The game has been beaten, and the two extra modes have been unlocked.   |

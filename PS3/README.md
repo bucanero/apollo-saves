@@ -1,3 +1,10 @@
+---
+layout: default
+title: PS3 Saves
+permalink: PS3/
+has_children: true
+has_toc: false
+---
 # Games
 
 | Game | Title ID |
