@@ -24,7 +24,11 @@ has_toc: false
 | [FIFA 22](CUSA27109/) | CUSA27109 |
 | [FIFA 22](CUSA27110/) | CUSA27110 |
 | [FINAL FANTASY VII](CUSA01875/) | CUSA01875 |
+| [Five Nights at Freddy's](CUSA16870/) | CUSA16870 |
+| [Five Nights at Freddy's 2](CUSA17980/) | CUSA17980 |
 | [Five Nights at Freddy's 3](CUSA17981/) | CUSA17981 |
+| [Five Nights at Freddy's 4](CUSA17982/) | CUSA17982 |
+| [Five Nights at Freddy's Sister Location](CUSA17983/) | CUSA17983 |
 | [Ghost of Tsushima](CUSA11456/) | CUSA11456 |
 | [God of War](CUSA07408/) | CUSA07408 |
 | [Grand Theft Auto V](CUSA00411/) | CUSA00411 |
