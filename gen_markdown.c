@@ -3,6 +3,8 @@
 #include <string.h>
 #include <unistd.h>
 
+#define SAVE_TYPE   "PS3"
+#define SAVE_FOLDER "PS3"
 
 void save_main(char* path, char* title)
 {
@@ -21,14 +23,15 @@ void save_main(char* path, char* title)
 
     out = fopen("README.md", "w");
 
-    fprintf(out, "# %s\n\n## PS3 Saves\n\n| Icon | Filename | Description |\n|------|----------|-------------|\n", title);
+    fprintf(out, "---\nlayout: default\ntitle: \"%s\"\nparent: " SAVE_TYPE " Saves\npermalink: " SAVE_FOLDER "/%s/\n---\n", title, path);
+    fprintf(out, "# %s\n\n## " SAVE_TYPE " Saves - %s\n\n| Icon | Filename | Description |\n|------|----------|-------------|\n", title, path);
 
     while ((read = getline(&line, &len, fp)) != -1) {
 		line[read-1] = 0;
 		pos = strchr(line, '=');
 		*pos = 0;
 		
-        fprintf(out, "| ![%s](ICON0.PNG) | [%s](%s) | %s |\n", title, line, line, ++pos);
+        fprintf(out, "| ![%s](ICON0.PNG) | [%s](%s){: .btn .btn-purple } | %s |\n", title, line, line, ++pos);
     }
 
     fclose(out);
@@ -51,6 +54,7 @@ int main(int argc, char** argv)
     if (fp == NULL)
         exit(EXIT_FAILURE);
 
+    printf("---\nlayout: default\ntitle: " SAVE_TYPE " Saves\npermalink: " SAVE_FOLDER "/\nhas_children: true\nhas_toc: false\n---\n");
     printf("# Games\n\n| Game | Title ID |\n|------|----------|\n");
 
     while ((read = getline(&line, &len, fp)) != -1) {
