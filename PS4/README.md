@@ -19,6 +19,10 @@ has_toc: false
 | [CRYSTAR](CUSA15175/) | CUSA15175 |
 | [Dark Thrones](CUSA27656/) | CUSA27656 |
 | [Days Gone](CUSA08966/) | CUSA08966 |
+| [Digimon Survive](CUSA18242/) | CUSA18242 |
+| [Digimon Survive](CUSA18223/) | CUSA18223 |
+| [Disciples Liberation](CUSA19493/) | CUSA19493 |
+| [Disciples Liberation](CUSA19521/) | CUSA19521 |
 | [DJMAX RESPECT](CUSA08621/) | CUSA08621 |
 | [DRAGON BALL Z: KAKAROT](CUSA14655/) | CUSA14655 |
 | [FIFA 22](CUSA27109/) | CUSA27109 |
@@ -49,9 +53,12 @@ has_toc: false
 | [Persona 5 Royal](CUSA17419/) | CUSA17419 |
 | [Persona 5 Strikers](CUSA19640/) | CUSA19640 |
 | [Red Dead Redemption 2](CUSA08519/) | CUSA08519 |
+| [Saints Row Reboot](CUSA26457/) | CUSA26457 |
+| [Saints Row Reboot](CUSA26458/) | CUSA26458 |
 | [SCARLET NEXUS](CUSA25132/) | CUSA25132 |
 | [Shadow of the Colossus](CUSA08809/) | CUSA08809 |
 | [Sonic Mania](CUSA07010/) | CUSA07010 |
 | [Star Wars Jedi: Fallen Order](CUSA12529/) | CUSA12529 |
+| [Yakuza: Like a Dragon](CUSA16734/) | CUSA16734 |
 | [YS IX Monstrum NOX](CUSA20414/) | CUSA20414 |
 | [YS VIII Lacrimosa of Dana](CUSA08570/) | CUSA08570 |
