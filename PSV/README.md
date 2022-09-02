@@ -34,6 +34,7 @@ has_toc: false
 | [Bullet Girls Phantasia](PCSH10099/) | PCSH10099 |
 | [Call of Duty Black Ops: Declassified](PCSB00213/) | PCSB00213 |
 | [Code: Realize ~Guardian of Rebirth~](PCSB00848/) | PCSB00848 |
+| [Code: Realize ~Guardian of Rebirth~](PCSE00763/) | PCSE00763 |
 | [Corpse Party: Blood Drive](PCSB00822/) | PCSB00822 |
 | [Criminal Girls 2: Party Favors](PCSG00681/) | PCSG00681 |
 | [Crimsonland](PCSE00453/) | PCSE00453 |

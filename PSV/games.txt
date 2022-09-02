@@ -23,6 +23,7 @@ PCSG00568=Bullet Girls 2
 PCSH10099=Bullet Girls Phantasia
 PCSB00213=Call of Duty Black Ops: Declassified
 PCSB00848=Code: Realize ~Guardian of Rebirth~
+PCSE00763=Code: Realize ~Guardian of Rebirth~
 PCSB00822=Corpse Party: Blood Drive
 PCSG00681=Criminal Girls 2: Party Favors
 PCSE00453=Crimsonland
