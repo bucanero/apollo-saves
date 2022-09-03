@@ -10,4 +10,4 @@ permalink: PSV/PCSF00338/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![The Sly Trilogy](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Sauvegarde pour Sly 1 uniquement -Toute les clés -Volus Ratonus Complet -Manque les sprint des maîtres voleurs  |
+| ![The Sly Trilogy](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Sauvegarde pour Sly 1 uniquement -Toute les clés -Volus Ratonus Complet -Manque les sprint des maîtres voleurs  |

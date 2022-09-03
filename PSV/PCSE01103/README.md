@@ -10,4 +10,4 @@ permalink: PSV/PCSE01103/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Ys VIII - Lacrimosa of Dana](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% Nightmare  |
+| ![Ys VIII - Lacrimosa of Dana](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% Nightmare  |

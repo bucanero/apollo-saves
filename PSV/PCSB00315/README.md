@@ -10,4 +10,4 @@ permalink: PSV/PCSB00315/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![LEGO® Marvel™ Super Heroes](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% complete  |
+| ![LEGO® Marvel™ Super Heroes](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% complete  |

@@ -10,4 +10,4 @@ permalink: PSV/PCSE00451/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![PixelJunk™ Shooter Ultimate](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100%. Finish a stage to unlock many of the trophies.  |
+| ![PixelJunk™ Shooter Ultimate](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100%. Finish a stage to unlock many of the trophies.  |

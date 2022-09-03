@@ -10,4 +10,4 @@ permalink: PSV/PCSF00021/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![LittleBigPlanet™ PlayStation Vita](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | last level undone.  |
+| ![LittleBigPlanet™ PlayStation Vita](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | last level undone.  |

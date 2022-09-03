@@ -10,4 +10,4 @@ permalink: PSV/PCSE01171/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Digimon Story Cyber Sleuth: Hacker's Memory](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Game Clear Save with 100+ Hours of Gameplay Best Digimons in Lvl 99 with Max Status (No Farming) *Requires Game version 01.04 (min.) or 01.05 with All DLC&#39;s  Save Encr. and Upload By: Tartarosnv (Mexicano)  |
+| ![Digimon Story Cyber Sleuth: Hacker's Memory](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Game Clear Save with 100+ Hours of Gameplay Best Digimons in Lvl 99 with Max Status (No Farming) *Requires Game version 01.04 (min.) or 01.05 with All DLC&#39;s  Save Encr. and Upload By: Tartarosnv (Mexicano)  |

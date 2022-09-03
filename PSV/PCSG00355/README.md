@@ -10,4 +10,4 @@ permalink: PSV/PCSG00355/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![IA/VT Colorful](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All songs unlocked. Quite a lot of them perfected. Needs all DLC installed.  |
+| ![IA/VT Colorful](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All songs unlocked. Quite a lot of them perfected. Needs all DLC installed.  |

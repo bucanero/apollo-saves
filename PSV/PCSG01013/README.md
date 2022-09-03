@@ -10,4 +10,4 @@ permalink: PSV/PCSG01013/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Gun Gun Pixies](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Story Mode Finished (With Secret Ending), All Weapons Unlocked, All Costumes Unlocked (Both PC and NPC), All Scopes Unlocked, Immune to damage unlocked.  |
+| ![Gun Gun Pixies](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Story Mode Finished (With Secret Ending), All Weapons Unlocked, All Costumes Unlocked (Both PC and NPC), All Scopes Unlocked, Immune to damage unlocked.  |

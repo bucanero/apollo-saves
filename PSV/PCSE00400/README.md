@@ -10,4 +10,4 @@ permalink: PSV/PCSE00400/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![HYPERDIMENSION NEPTUNIA: PRODUCING PERFECTION](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Load second save and finish day 1 to get 100% events for any girl.  |
+| ![HYPERDIMENSION NEPTUNIA: PRODUCING PERFECTION](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Load second save and finish day 1 to get 100% events for any girl.  |

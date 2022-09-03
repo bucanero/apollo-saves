@@ -10,4 +10,4 @@ permalink: PSV/PCSE00399/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Danganronpa 2: Goodbye Despair](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | The game&#39;s been beaten. The Novel, Island Mode and the Vending Machine has been unlocked.  |
+| ![Danganronpa 2: Goodbye Despair](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | The game&#39;s been beaten. The Novel, Island Mode and the Vending Machine has been unlocked.  |

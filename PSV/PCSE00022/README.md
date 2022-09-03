@@ -10,4 +10,4 @@ permalink: PSV/PCSE00022/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Disgaea® 3: Absence of Detention](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | About 60% through the game/ Chapter 6 or so. Put/extract  in ux0:data/vitasavemanager, then restore with Vitasavemanager plus  |
+| ![Disgaea® 3: Absence of Detention](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | About 60% through the game/ Chapter 6 or so. Put/extract  in ux0:data/vitasavemanager, then restore with Vitasavemanager plus  |

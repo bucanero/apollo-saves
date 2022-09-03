@@ -10,4 +10,4 @@ permalink: PSV/PCSB00848/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Code: Realize ~Guardian of Rebirth~](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Completed all paths (!) Missing 2 words from dictionary  |
+| ![Code: Realize ~Guardian of Rebirth~](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Completed all paths (!) Missing 2 words from dictionary  |

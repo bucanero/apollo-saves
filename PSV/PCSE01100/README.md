@@ -10,4 +10,4 @@ permalink: PSV/PCSE01100/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Danganronpa V3: Killing Harmony](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | The game has been beaten, and the two extra modes have been unlocked.   |
+| ![Danganronpa V3: Killing Harmony](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | The game has been beaten, and the two extra modes have been unlocked.   |

@@ -10,4 +10,4 @@ permalink: PSV/PCSA00001/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![ModNation™ Racers: Road Trip](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | last cup not finished  |
+| ![ModNation™ Racers: Road Trip](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | last cup not finished  |

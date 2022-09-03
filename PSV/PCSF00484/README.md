@@ -10,4 +10,4 @@ permalink: PSV/PCSF00484/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Ratchet & Clank™](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% terminé ou presque  |
+| ![Ratchet & Clank™](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% terminé ou presque  |

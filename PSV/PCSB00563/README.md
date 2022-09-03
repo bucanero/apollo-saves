@@ -10,4 +10,4 @@ permalink: PSV/PCSB00563/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![LEGO® BATMAN™ 3: BEYOND GOTHAM](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% complete  |
+| ![LEGO® BATMAN™ 3: BEYOND GOTHAM](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% complete  |

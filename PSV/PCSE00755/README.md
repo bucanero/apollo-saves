@@ -10,4 +10,4 @@ permalink: PSV/PCSE00755/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![DIGIMON STORY CYBER SLEUTH](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } |  Completed game N+ available (N+ means all digimon and currency is transferred to new game)   |
+| ![DIGIMON STORY CYBER SLEUTH](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } |  Completed game N+ available (N+ means all digimon and currency is transferred to new game)   |

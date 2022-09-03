@@ -10,4 +10,4 @@ permalink: PSV/PCSE01052/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![STRANGER OF SWORD CITY REVISITED](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | help me items max  |
+| ![STRANGER OF SWORD CITY REVISITED](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | help me items max  |

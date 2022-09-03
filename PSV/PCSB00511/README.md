@@ -10,4 +10,4 @@ permalink: PSV/PCSB00511/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Hotline Miami 2 Wrong Number](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | story mode finished.  |
+| ![Hotline Miami 2 Wrong Number](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | story mode finished.  |

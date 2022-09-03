@@ -10,4 +10,4 @@ permalink: PSV/PCSE00443/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Hyperdimension Neptunia ReBirth1](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | -Both endings unlocked.  -All CPU Candidates unlocked. -NG+ Ready  |
+| ![Hyperdimension Neptunia ReBirth1](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | -Both endings unlocked.  -All CPU Candidates unlocked. -NG+ Ready  |

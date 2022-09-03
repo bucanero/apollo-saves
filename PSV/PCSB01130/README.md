@@ -10,4 +10,4 @@ permalink: PSV/PCSB01130/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Danganronpa V3: Killing Harmony Demo](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Uploaded by XG-PRO  |
+| ![Danganronpa V3: Killing Harmony Demo](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Uploaded by XG-PRO  |

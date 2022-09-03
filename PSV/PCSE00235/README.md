@@ -10,5 +10,5 @@ permalink: PSV/PCSE00235/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Dead or Alive 5 Plus](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Unlocked some costumes including christie and tina&#39;s swimsuit  And OMG BREAST MOTION!!  |
-| ![Dead or Alive 5 Plus](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Unlocked some costumes including christie and tina&#39;s swimsuit  And OMG BREAST MOTION!!  |
+| ![Dead or Alive 5 Plus](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Unlocked some costumes including christie and tina&#39;s swimsuit  And OMG BREAST MOTION!!  |
+| ![Dead or Alive 5 Plus](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Unlocked some costumes including christie and tina&#39;s swimsuit  And OMG BREAST MOTION!!  |

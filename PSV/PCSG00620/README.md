@@ -10,4 +10,4 @@ permalink: PSV/PCSG00620/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Grisaia no Kajitsu Spinout!? Idol Mahou Shoujo ChiruChiru*Michiru](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |
+| ![Grisaia no Kajitsu Spinout!? Idol Mahou Shoujo ChiruChiru*Michiru](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |

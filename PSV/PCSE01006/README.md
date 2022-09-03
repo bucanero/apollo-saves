@@ -10,4 +10,4 @@ permalink: PSV/PCSE01006/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Zero Escape: The Nonary Games](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% on Zero Escape 999 and 0% in zero escape virtue&#39;s last reward  |
+| ![Zero Escape: The Nonary Games](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% on Zero Escape 999 and 0% in zero escape virtue&#39;s last reward  |

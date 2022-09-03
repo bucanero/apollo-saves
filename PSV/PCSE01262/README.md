@@ -10,4 +10,4 @@ permalink: PSV/PCSE01262/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Bloodstained: Curse of the Moon](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All Modes and &#34;BOSS RUSH&#34; Unlocked.  Save Encr. and Upload By: Tartarosnv (Mexicano)  |
+| ![Bloodstained: Curse of the Moon](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All Modes and &#34;BOSS RUSH&#34; Unlocked.  Save Encr. and Upload By: Tartarosnv (Mexicano)  |

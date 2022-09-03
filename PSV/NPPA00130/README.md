@@ -10,4 +10,4 @@ permalink: PSV/NPPA00130/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![0WAR](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Full game unlock ^-^  |
+| ![0WAR](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Full game unlock ^-^  |

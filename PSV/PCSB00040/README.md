@@ -10,4 +10,4 @@ permalink: PSV/PCSB00040/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Asphalt: Injection](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Modded savegame. ALL cars purchased, game not complete. Put in ux0:data/Vitasavemanager.Use vitasavemanager Plus to restore save.  |
+| ![Asphalt: Injection](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Modded savegame. ALL cars purchased, game not complete. Put in ux0:data/Vitasavemanager.Use vitasavemanager Plus to restore save.  |

@@ -10,5 +10,5 @@ permalink: PSV/PCSG00040/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Kidou Senshi Gundam Seed Battle Destiny](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | SAVE 100%  |
-| ![Kidou Senshi Gundam Seed Battle Destiny](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | SAVE 100%  |
+| ![Kidou Senshi Gundam Seed Battle Destiny](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | SAVE 100%  |
+| ![Kidou Senshi Gundam Seed Battle Destiny](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | SAVE 100%  |

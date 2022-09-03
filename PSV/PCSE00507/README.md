@@ -10,4 +10,4 @@ permalink: PSV/PCSE00507/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![The Binding of Isaac: Rebirth](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 110% REAL PLATINUM GOD Rated-Black  |
+| ![The Binding of Isaac: Rebirth](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 110% REAL PLATINUM GOD Rated-Black  |

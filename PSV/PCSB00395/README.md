@@ -10,4 +10,4 @@ permalink: PSV/PCSB00395/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Final Fantasy X HD Remaster](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 11 hours of gameplay. after Yuna recieves a marriage proposal.  |
+| ![Final Fantasy X HD Remaster](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 11 hours of gameplay. after Yuna recieves a marriage proposal.  |

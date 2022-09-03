@@ -10,4 +10,4 @@ permalink: PSV/PCSE00277/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Rayman® Legends](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All Teensies Complete 700/700 All Creatures Unlocked  |
+| ![Rayman® Legends](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All Teensies Complete 700/700 All Creatures Unlocked  |

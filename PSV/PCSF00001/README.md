@@ -10,4 +10,4 @@ permalink: PSV/PCSF00001/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Uncharted: Golden Abyss](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All Level Completed-Level 34  |
+| ![Uncharted: Golden Abyss](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All Level Completed-Level 34  |

@@ -10,5 +10,5 @@ permalink: PSV/PCSE00640/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Shovel Knight](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All challenges completed and all characters story mode at 100% except plague knight witch is missing some coins and a music note.  |
-| ![Shovel Knight](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | main story finished.  |
+| ![Shovel Knight](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All challenges completed and all characters story mode at 100% except plague knight witch is missing some coins and a music note.  |
+| ![Shovel Knight](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | main story finished.  |

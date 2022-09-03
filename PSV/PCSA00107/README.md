@@ -10,4 +10,4 @@ permalink: PSV/PCSA00107/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Killzone™: Mercenary](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | story mode finished, normal difficulty.  |
+| ![Killzone™: Mercenary](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | story mode finished, normal difficulty.  |

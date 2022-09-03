@@ -10,4 +10,4 @@ permalink: PSV/PCSG00503/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Ryu ga Gotoku 0](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Yakuza 0: Companion app save file featuring unlocked fight styles(including legend styles) and unlocked style grids  |
+| ![Ryu ga Gotoku 0](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Yakuza 0: Companion app save file featuring unlocked fight styles(including legend styles) and unlocked style grids  |

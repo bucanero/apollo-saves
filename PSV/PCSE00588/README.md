@@ -10,4 +10,4 @@ permalink: PSV/PCSE00588/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Hyperdimension Neptunia U: Action Unleashed](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100%  |
+| ![Hyperdimension Neptunia U: Action Unleashed](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100%  |

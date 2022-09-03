@@ -10,4 +10,4 @@ permalink: PSV/PCSG00782/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![RecoLove: Gold Beach](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | -All endings (including DLC) -All missions completed (including DLC) -All clothes unlocked -All accessories unlocked -All actions scenes unlocked May need DLC.  |
+| ![RecoLove: Gold Beach](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | -All endings (including DLC) -All missions completed (including DLC) -All clothes unlocked -All accessories unlocked -All actions scenes unlocked May need DLC.  |

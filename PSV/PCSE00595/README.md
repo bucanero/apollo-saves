@@ -10,4 +10,4 @@ permalink: PSV/PCSE00595/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![J-STARS Victory VS+](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All character unlock All J-Adventure Story finish  Upload by basikalbaru P/s : When choose Victory Road, sometimes you got error.   |
+| ![J-STARS Victory VS+](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All character unlock All J-Adventure Story finish  Upload by basikalbaru P/s : When choose Victory Road, sometimes you got error.   |

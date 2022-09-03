@@ -10,4 +10,4 @@ permalink: PSV/PCSG00568/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Bullet Girls 2](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Game Clear. Require full DLC to play  |
+| ![Bullet Girls 2](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Game Clear. Require full DLC to play  |

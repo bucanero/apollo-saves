@@ -10,4 +10,4 @@ permalink: PSV/PCSE01033/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Ys Origin](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All character`s story finished on Nightmare difficulty, Arena Unlocked, Adol unlocked.   |
+| ![Ys Origin](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All character`s story finished on Nightmare difficulty, Arena Unlocked, Adol unlocked.   |

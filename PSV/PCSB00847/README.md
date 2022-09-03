@@ -10,4 +10,4 @@ permalink: PSV/PCSB00847/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Norn9: Var Commons](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Completed all paths and bonuses.  |
+| ![Norn9: Var Commons](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Completed all paths and bonuses.  |

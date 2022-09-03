@@ -10,4 +10,4 @@ permalink: PSV/PCSE00949/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Steins; Gate 0](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |
+| ![Steins; Gate 0](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |

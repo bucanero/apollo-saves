@@ -10,4 +10,4 @@ permalink: PSV/PCSB00798/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Ar nosurge Plus: Ode to an Unborn Star](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Roughly halfway through game  |
+| ![Ar nosurge Plus: Ode to an Unborn Star](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Roughly halfway through game  |

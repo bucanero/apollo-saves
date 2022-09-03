@@ -10,5 +10,5 @@ permalink: PSV/PCSE01282/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Fernz Gate](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Game & Game+  |
-| ![Fernz Gate](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Game & NewGame+  |
+| ![Fernz Gate](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Game & Game+  |
+| ![Fernz Gate](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Game & NewGame+  |

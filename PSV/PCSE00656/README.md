@@ -10,4 +10,4 @@ permalink: PSV/PCSE00656/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![XCOM®: Enemy Unknown Plus](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | xcom backup  |
+| ![XCOM®: Enemy Unknown Plus](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | xcom backup  |

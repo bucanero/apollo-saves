@@ -10,5 +10,5 @@ permalink: PSV/PCSE00085/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Zero Escape: Virtue's Last Reward](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% Save (All hard mode files).  |
-| ![Zero Escape: Virtue's Last Reward](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Story Complete Need One More Trophie for 100% Completion This is My frist Upload  |
+| ![Zero Escape: Virtue's Last Reward](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% Save (All hard mode files).  |
+| ![Zero Escape: Virtue's Last Reward](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Story Complete Need One More Trophie for 100% Completion This is My frist Upload  |

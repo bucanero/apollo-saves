@@ -10,4 +10,4 @@ permalink: PSV/PCSE00880/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![World of Final Fantasy](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | chapter 21  |
+| ![World of Final Fantasy](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | chapter 21  |

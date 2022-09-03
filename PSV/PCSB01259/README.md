@@ -10,4 +10,4 @@ permalink: PSV/PCSB01259/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Punch Line](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Game completed  |
+| ![Punch Line](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Game completed  |

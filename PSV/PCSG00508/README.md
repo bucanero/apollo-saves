@@ -10,4 +10,4 @@ permalink: PSV/PCSG00508/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Grisaia no Rakuen: Le Eden de la Grisaia](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |
+| ![Grisaia no Rakuen: Le Eden de la Grisaia](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |

@@ -10,4 +10,4 @@ permalink: PSV/PCSG00550/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Omega Labyrinth](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All cgs unlocked, full bestiary, all story scenes, and full item list complete.  |
+| ![Omega Labyrinth](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All cgs unlocked, full bestiary, all story scenes, and full item list complete.  |

@@ -10,4 +10,4 @@ permalink: PSV/PCSE00850/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Risk of Rain](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | finished a couple of times, about 2 races unlocked  |
+| ![Risk of Rain](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | finished a couple of times, about 2 races unlocked  |

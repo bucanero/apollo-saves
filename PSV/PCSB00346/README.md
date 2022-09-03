@@ -10,4 +10,4 @@ permalink: PSV/PCSB00346/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Danganronpa: Trigger Happy Havoc](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | My first play-through of the game  |
+| ![Danganronpa: Trigger Happy Havoc](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | My first play-through of the game  |

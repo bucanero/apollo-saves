@@ -10,4 +10,4 @@ permalink: PSV/PCSB01068/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Oceanhorn - Monster of Uncharted Seas](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% complete  |
+| ![Oceanhorn - Monster of Uncharted Seas](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% complete  |

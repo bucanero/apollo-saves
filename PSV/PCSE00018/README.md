@@ -10,4 +10,4 @@ permalink: PSV/PCSE00018/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![BlazBlue: Continuum Shift EXTEND](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% story, arcade and gallery. lvl 500 abyss.  |
+| ![BlazBlue: Continuum Shift EXTEND](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% story, arcade and gallery. lvl 500 abyss.  |

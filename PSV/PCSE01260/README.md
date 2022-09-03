@@ -10,4 +10,4 @@ permalink: PSV/PCSE01260/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Muv-Luv Alternative](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |
+| ![Muv-Luv Alternative](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All routes completed.  |

@@ -10,4 +10,4 @@ permalink: PSV/PCSE00950/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Shantae: Half-Genie Hero](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All character story at  100%  |
+| ![Shantae: Half-Genie Hero](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | All character story at  100%  |

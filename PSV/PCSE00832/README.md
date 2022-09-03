@@ -10,4 +10,4 @@ permalink: PSV/PCSE00832/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![MegaTagmension Blanc + Neptune VS Zombies](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | all event unlock, all part processor , all upgrade ability, 90% complete (not yet all lv 99 , all lily lv 10, thursday challenge)  |
+| ![MegaTagmension Blanc + Neptune VS Zombies](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | all event unlock, all part processor , all upgrade ability, 90% complete (not yet all lv 99 , all lily lv 10, thursday challenge)  |

@@ -10,4 +10,4 @@ permalink: PSV/PCSE00436/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![The Treasures of Montezuma 4](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100%  |
+| ![The Treasures of Montezuma 4](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100%  |

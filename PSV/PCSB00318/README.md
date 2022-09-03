@@ -10,4 +10,4 @@ permalink: PSV/PCSB00318/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Hotline Miami](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | story mode and all extra levels finished.  |
+| ![Hotline Miami](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | story mode and all extra levels finished.  |

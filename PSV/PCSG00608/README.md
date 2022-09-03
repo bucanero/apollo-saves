@@ -10,4 +10,4 @@ permalink: PSV/PCSG00608/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Tokyo Xanadu](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | main story finished, around 40~ gameplay. no true ending. normal mode.  |
+| ![Tokyo Xanadu](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | main story finished, around 40~ gameplay. no true ending. normal mode.  |

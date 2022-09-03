@@ -10,4 +10,4 @@ permalink: PSV/PCSE00024/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Ben 10™ Galactic Racing](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | full complete on creziey modeu  |
+| ![Ben 10™ Galactic Racing](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | full complete on creziey modeu  |

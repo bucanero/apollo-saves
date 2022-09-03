@@ -10,4 +10,4 @@ permalink: PSV/PCSE00781/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Zero Escape: Zero Time Dilemma](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% save file.  |
+| ![Zero Escape: Zero Time Dilemma](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | 100% save file.  |

@@ -10,4 +10,4 @@ permalink: PSV/PCSG00681/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Criminal Girls 2: Party Favors](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Has all art and scenes unlocked. Save 1 is before the final final boss, so it can get either harem or final endings.  Save 2 is before the first final boss, for the normal endings with the girls.  |
+| ![Criminal Girls 2: Party Favors](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Has all art and scenes unlocked. Save 1 is before the final final boss, so it can get either harem or final endings.  Save 2 is before the first final boss, for the normal endings with the girls.  |

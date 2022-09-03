@@ -10,4 +10,4 @@ permalink: PSV/PCSG00302/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Minecraft: PlayStation®Vita Edition](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | textures  |
+| ![Minecraft: PlayStation®Vita Edition](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | textures  |

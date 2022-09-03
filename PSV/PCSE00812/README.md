@@ -10,4 +10,4 @@ permalink: PSV/PCSE00812/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Attack on Titan](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Story complete, all expeditions finished  |
+| ![Attack on Titan](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Story complete, all expeditions finished  |

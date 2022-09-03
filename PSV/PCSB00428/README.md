@@ -10,4 +10,4 @@ permalink: PSV/PCSB00428/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![The Amazing Spiderman](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Main Story 100% Save.  |
+| ![The Amazing Spiderman](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Main Story 100% Save.  |

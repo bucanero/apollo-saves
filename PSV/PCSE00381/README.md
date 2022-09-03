@@ -10,4 +10,4 @@ permalink: PSV/PCSE00381/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Toukiden: The Age of Demons](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | savedata.psvimg savedata.psvinf savedata.psvmd  |
+| ![Toukiden: The Age of Demons](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | savedata.psvimg savedata.psvinf savedata.psvmd  |

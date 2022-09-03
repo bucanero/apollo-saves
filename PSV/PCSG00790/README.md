@@ -10,4 +10,4 @@ permalink: PSV/PCSG00790/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Wand of Fortune R](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Saves for all endings. Mission list and Gallery complete.  |
+| ![Wand of Fortune R](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Saves for all endings. Mission list and Gallery complete.  |

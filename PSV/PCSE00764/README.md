@@ -10,5 +10,5 @@ permalink: PSV/PCSE00764/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Persona 4: Dancing All Night](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Story completed  |
-| ![Persona 4: Dancing All Night](https://github.com/bucanero/apollo-vita/raw/main/sce_sys/icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Story finished, all dancing partners unlocked for all songs,  all accessories and customs, King Crazy on all songs on All Night difficulty (including DLC).  |
+| ![Persona 4: Dancing All Night](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Story completed  |
+| ![Persona 4: Dancing All Night](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Story finished, all dancing partners unlocked for all songs,  all accessories and customs, King Crazy on all songs on All Night difficulty (including DLC).  |
