@@ -1,0 +1,2 @@
+00000001.zip=100% Savegame (Profile) 1.000.000.000 Money, Max R Level, Unlock All Cars, Unlock All Tuning Items
+00000002.zip=100% Savegame (Auto-save)

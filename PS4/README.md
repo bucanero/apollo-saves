@@ -9,7 +9,9 @@ has_toc: false
 
 | Game | Title ID |
 |------|----------|
+| [A Plague Tale](CUSA10812/) | CUSA10812 |
 | [Alan Wake](CUSA24653/) | CUSA24653 |
+| [Asterix & Obelix XXL 2 - Roman Rumble in Las Vegum](CUSA13367/) | CUSA13367 |
 | [Borderlands 3](CUSA07823/) | CUSA07823 |
 | [Cars 3: Driven to Win](CUSA07027/) | CUSA07027 |
 | [Catherine Full Body](CUSA14836/) | CUSA14836 |
@@ -41,6 +43,7 @@ has_toc: false
 | [Hoa](CUSA28687/) | CUSA28687 |
 | [Horizon Chase Turbo](CUSA11275/) | CUSA11275 |
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
+| [Hot Wheels Unleashed](CUSA25502/) | CUSA25502 |
 | [Kingdom Hearts 1.5/2.5 Final Mix](CUSA05786/) | CUSA05786 |
 | [Kingdoms of Amalur: Re-Reckoning](CUSA17245/) | CUSA17245 |
 | [Marvel's Spider Man](CUSA02299/) | CUSA02299 |
@@ -50,15 +53,21 @@ has_toc: false
 | [Minecraft](CUSA00265/) | CUSA00265 |
 | [Minecraft](CUSA00744/) | CUSA00744 |
 | [NEO: The World Ends with You](CUSA26377/) | CUSA26377 |
+| [Need for Speed Heat](CUSA15090/) | CUSA15090 |
+| [New Super Luckys Tale](CUSA20302/) | CUSA20302 |
 | [Persona 5 Royal](CUSA17419/) | CUSA17419 |
 | [Persona 5 Strikers](CUSA19640/) | CUSA19640 |
+| [Ratchet & Clank](CUSA01073/) | CUSA01073 |
 | [Red Dead Redemption 2](CUSA08519/) | CUSA08519 |
 | [Saints Row Reboot](CUSA26457/) | CUSA26457 |
 | [Saints Row Reboot](CUSA26458/) | CUSA26458 |
 | [SCARLET NEXUS](CUSA25132/) | CUSA25132 |
 | [Shadow of the Colossus](CUSA08809/) | CUSA08809 |
+| [Sonic Colours Ultimate](CUSA19351/) | CUSA19351 |
 | [Sonic Mania](CUSA07010/) | CUSA07010 |
+| [Spyro Reignited Trilogy](CUSA12085/) | CUSA12085 |
 | [Star Wars Jedi: Fallen Order](CUSA12529/) | CUSA12529 |
+| [Thief](CUSA00250/) | CUSA00250 |
 | [Yakuza: Like a Dragon](CUSA16734/) | CUSA16734 |
 | [YS IX Monstrum NOX](CUSA20414/) | CUSA20414 |
 | [YS VIII Lacrimosa of Dana](CUSA08570/) | CUSA08570 |

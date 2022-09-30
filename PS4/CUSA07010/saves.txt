@@ -1,1 +1,2 @@
 00000001.zip=Everything Finished. The game is in Spanish (1.04)
+00000002.zip=100% Savegame, 99 Lives, All Emeralds, All Medals, Super Sonic can be activated, Debug Mode unlocked, All Game Options unlocked, All Extras unlocked
