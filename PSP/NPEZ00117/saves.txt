@@ -1,2 +1,1 @@
-00000017.zip=
-Game cleared
+00000017.zip=Game cleared
