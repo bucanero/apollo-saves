@@ -1,2 +1,1 @@
-00000003.zip=
-Before Final Boss
+00000003.zip=Before Final Boss
