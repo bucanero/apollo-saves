@@ -1,0 +1,2 @@
+00000159.zip=Max Ril Start of Game
+00000160.zip=Clear save

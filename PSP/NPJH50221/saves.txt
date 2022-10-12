@@ -1,0 +1,4 @@
+00000179.zip=Game Completed
+00000180.zip=All characters and movesets unlocked. 83% complete in story mode.
+00000181.zip=84% Story Mode Completion, Burning Mode Unlocked, All Characters Unlocked, All Skills for Characters Unlocked, Tsuna Lv.5 Compatibility with All Characters, Almost All Lv.5 D-Boxes, Almost All Museum
+00000182.zip=100% Save Data
