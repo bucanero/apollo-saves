@@ -9,6 +9,7 @@ NPUZ00121=Forest Puzzle
 ULUS10159=Ford Bold Moves Street Racing
 ULJM05258=For Symphony: With All One's Heart Portable
 NPUZ00108=Fly Fu
+ULJS00046=Kinnikuman Muscle Generations
 NPUZ00044=Flick Fishing
 NPJH50505=Fate/Extra CCC 
 NPEZ00417=Farm Frenzy 2: Pizza Party
