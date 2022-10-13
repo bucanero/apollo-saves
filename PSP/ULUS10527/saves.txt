@@ -1,0 +1,4 @@
+00000279.zip=New Game After 1st Battle. Maxed WP,GP,EP, and PP.
+00000280.zip=Save point right before deciding a route; 1) Go to old road for bad end. 2) Go to trace route for normal end. 3) Go to abyssal gate and finish floor 46 to 50 for true end.
+00000281.zip=New Game+, After the first Battle, 10k pp, 2k wp, 450k+ep and gold, lots of good equip.
+00000282.zip=New Game After 1st Battle. Maxed WP,GP,EP, and PP
