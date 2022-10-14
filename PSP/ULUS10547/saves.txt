@@ -1,0 +1,4 @@
+00000353.zip=Ys I - Easy difficulty, Lvl. 9, start of Darm Tower
+00000354.zip=Ys I - Easy difficulty, Lvl. 9, before final boss
+00000355.zip=Ys I & II Chronicles - Ys I LVL10 - Nightmare - Start Of Game
+00000356.zip=Ys I & II Chronicles - Ys II LVL94 - Nightmare - Start Of Game
