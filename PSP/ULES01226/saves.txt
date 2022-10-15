@@ -1,0 +1,4 @@
+00000366.zip=100% Complete-Hard
+00000368.zip=game save at the location where wolverine fights agent zero
+00000369.zip=All Costumes
+00000370.zip=Hard Game Completed
