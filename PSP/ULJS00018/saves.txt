@@ -1,0 +1,11 @@
+00000621.zip=Custom Mission "Shadows of Vengeance, Pt. 1: Corruption" - a 1player assassinate mission in the bamboo forest
+00000622.zip=Punishment - This is a remake of Punish the Evil Merchant from Tenchu:Stealth Assassins. Enjoy!
+00000623.zip=Custom mission - News of an invasion of a town in Godha's realm was causing a stir among the citizens of Godha. Find the truth behind this supposed invasion plot and do what is necessary to prevent it.
+00000624.zip=Mission Title: JOHN WEST. Contributor: RAI-ON. Description: B-Side mission set in the City, Tileset. Inspired by the game Manhunt. Expose Starkweather's diabolical schemes involving the staff and animals in the local Zoo.(slot 14)
+00000625.zip=Custom mission "Grey Fox", MGS-Tenchu crossover boss battle
+00000626.zip=New Custom Mission: Shinigami no Yoru (Night of the Death Gods)
+00000627.zip=All mission clear
+00000628.zip=Custom mission "Revenge", backup your own missions before saving (My first custom mission)
+00000630.zip=This is a demo level to display difficult jumps that can be used in the editor. The North path makes use of the bear's climbing ability, where the main path requires double-jumping and the wallkick for extra distance. Folder 03
+00000632.zip=My custom mission: "Autumn Night - A Woman's Tears"
+00000634.zip=New Tenchu story I made. The story takes place after the Onikage incident. Echigoya Lee was kindnapping girls and killing them. The stage is a remix of Tenchu 1 and Tenchu 3's Punish the Evil Merchant

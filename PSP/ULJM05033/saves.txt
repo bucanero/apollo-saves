@@ -1,0 +1,2 @@
+00000448.zip=Updated option file for Japanese WE9UE. Includes Jan 06 transfers and English roster where possible.
+00000449.zip=Save with updated transfers and English translations (where appropriate)

@@ -1,0 +1,6 @@
+00000493.zip=All 99
+00000494.zip=All abilities obtained, all characters' 4th weapons obtained, some Personal Items unlocked
+00000495.zip=All Characters Unlocked with nothing else completed.
+00000496.zip=Absolutely 100% Save File for Warriors Orochi
+00000497.zip=All 4th Weapons Obtained for every character. Some characters buffed up to level 99 with some Personal Items Obtained.
+00000498.zip=Everything unlocked/maxed. 78/79 personal items collected.

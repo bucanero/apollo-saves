@@ -1,0 +1,3 @@
+00000804.zip=CODA finished. Every character recruited, all scenes for all routes available in Warren's Report, all Order Titles collected.
+00000805.zip=Post game WORLD system unlocked, all characters recruited except Deneb and Diego
+00000806.zip=W.O.R.L.D. system unlock
