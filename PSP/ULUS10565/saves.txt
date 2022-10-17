@@ -1,0 +1,5 @@
+00000808.zip=Maxed items only - untouched Levels and Chaos Frame
+00000810.zip=End game with all characters. 50% of classes at level 50, 50% at level 25, all items in the game. Slot 2 starts at "real" ending, Slot 3 starts just after with WORLD.
+00000811.zip=CH1 All items/Classmarks x99 Max Valeria Chaos Frame
+00000812.zip=Chapter 1 All items x99
+00000814.zip=Maxed items+Levels Chapter 1 Save

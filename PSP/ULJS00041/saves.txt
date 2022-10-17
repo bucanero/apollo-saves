@@ -1,0 +1,2 @@
+00000844.zip=Start WITH 99,999,999 money and 99 items?
+00000845.zip=Max money, 9999 PP, all item x99

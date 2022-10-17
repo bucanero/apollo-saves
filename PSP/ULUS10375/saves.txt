@@ -1,0 +1,6 @@
+00000908.zip=RENA LVL 225 Max Stats, Items, Max Money, Sacred Forest UNIVERSE Mode.
+00000909.zip=CLAUDE LVL 225 Max Stats, Items, Max Money, Milokeenia UNIVERSE Mode.
+00000910.zip=Begging of Game with Claude. Max Money
+00000911.zip=Load from these (instead of starting a New Game) to begin with no Talents except Nimble Fingers (and Blessing of Mana). Also unlocks all difficulties. 6 saves, 1 for each character/difficulty combo.
+00000912.zip=Battle party consists of Claude, Precis, Rena and Ashton in their lv. 200's with the best equipment. Bonus dungeon cleared, saved right before final boss with limiter off. Difficulty modes unlocked.
+00000913.zip=Universe Mode enabled, for those who wants to start a new game with different modes.

@@ -1,0 +1,4 @@
+00000553.zip=End Game, 3 stock characters that cannot be deleted, and 251,197 Gold.
+00000554.zip=Beginning of game with all job cards, 16,000 Gold, and Male character Escart.
+00000555.zip=Beginning of game. Main Character with max stats.
+00000556.zip=All 8 Classes with respective Ultimate gears, Best Machine Gears, All Spells, and 100K+ Gold

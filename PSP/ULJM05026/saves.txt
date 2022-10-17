@@ -1,0 +1,5 @@
+00000899.zip=Boss on Parade unlocked
+00000900.zip=Unlocked Boss on Parade and StageSelect
+00000901.zip=Unlocked All (Stage Select, Boss on Parade, Sound Test and God)
+00000902.zip=Unlocked All + 9 lives option
+00000903.zip=Unlocked everything including fourth ship

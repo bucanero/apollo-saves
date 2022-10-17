@@ -1,0 +1,4 @@
+00000782.zip=Second Playthrough
+00000784.zip=Outside Nereid's Labyrinth in Mania, with 1036k Gald and all characters at Level 250
+00000785.zip=1st save point. Level 61 Rid(4270 HPs & 437 TPs) in Mania Mode. About 598k Gald, and 18k Encounts. Also, Max Hit at 18, Play Time at 254 Hours. Rid has 6 Titles and 21 Techs.
+00000790.zip=Outside of Nereid's Labryninth, most of recipes learned

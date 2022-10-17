@@ -1,0 +1,4 @@
+00000509.zip=All courts, clothes and accesoires. All tournaments won except last (special) one. Ranking both men and women: 2 + $1400k
+00000517.zip=1st place Big Server
+00000510.zip=Male:BJORN BORG / Female:STEFFI GRAF created to real life spec. Ranked 1 in world for both. Both character lvl MAX'ed. King & Queen unlocked. All courts & accessories. King & Queen lvl 22. PAL
+00000511.zip=Male and Female both have max stats and ranked number 1, King and Queen both unlocked, all items bought from shop, all courts unlocked and some hidden raquets

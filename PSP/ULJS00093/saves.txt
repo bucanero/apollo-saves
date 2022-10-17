@@ -1,0 +1,3 @@
+00000711.zip=First few missions completed.
+00000712.zip=On the second town, Fencer class level 27, Thief class level 28
+00000713.zip=At very beginning of game with a level 63 Fighter (no cheats used)
