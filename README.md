@@ -1,10 +1,19 @@
-# Uploading your saves to the Online Database
+# Apollo Save Game Database
 
 [![License][img_license]][app_license]
+![PS1 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS1?label=PS1%20Games&type=dir)
+![PS2 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS2?label=PS2%20Games&type=dir)
+![PS3 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS3?label=PS3%20Games&type=dir)
+![PS4 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS4?label=PS4%20Games&type=dir)
+![PSP Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PSP?label=PSP%20Games&type=dir)
+![PSV Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PSV?label=PS%20Vita%20Games&type=dir)
 
 ## Introduction
 
-The online save database project is part of [Apollo Save Tool](https://github.com/bucanero/apollo-ps3) for the PlayStation 3 and PlayStation 4.
+The online save database project is part of [Apollo Save Tool](https://github.com/bucanero/apollo-ps3):
+ - [PlayStation 3](https://github.com/bucanero/apollo-ps3) version
+ - [PlayStation 4](https://github.com/bucanero/apollo-ps4) version
+ - [PlayStation Vita](https://github.com/bucanero/apollo-vita) version
 
 #### Contents:
 
@@ -99,10 +108,10 @@ If you're an advanced GitHub user, you can also:
 ## License
 
 
-[Apollo Save Tool](https://github.com/bucanero/apollo-saves/) Online Database - Copyright (C) 2020-2022  Damian Parrino
+[Apollo Save Tool](https://github.com/bucanero/apollo-saves/) Online Database - Copyright (C) 2020-2022  [Damian Parrino](https://twitter.com/dparrino)
 
 This program is free software: you can redistribute it and/or modify
-it under the terms of the [GNU General Public License](LICENSE) as published by
+it under the terms of the [GNU General Public License][app_license] as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 

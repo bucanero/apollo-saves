@@ -1,4 +1,7 @@
 NPJH50412=Akiba's Trip
+ULJM05503=Blaze Union: Story To Reach The Future
+ULJM05510=Hakuouki Portable
+ULUS10317=Spider-Man 3
 ULJM05813=Gloria Union
 ULJM06016=Gift: Prism
 UCES01563=Geronimo Stilton: Return to the Kingdom of Fantasy
@@ -96,7 +99,6 @@ UCES01420=Everybody's Tennis
 ULJS00517=Kenka Banchou Bros. Tokyo Battle Royale
 ULUS10566=Dissidia 012 Final Fantasy
 ULES00789=Dragon Ball Z: Shin Budokai - Another Road
-ULJS00517=喧嘩番長Bros. トーキョーバトルロイヤル
 ULJS00107=Dragon Ball Z: Shin Budokai - Another Road
 ULUS10234=Dragon Ball Z: Shin Budokai - Another Road 
 ULUS10273=Crazy Taxi: Fare Wars

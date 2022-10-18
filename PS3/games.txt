@@ -149,7 +149,6 @@ BLUS30835=Hitman: Absolution
 NPUB30781=Hitman: Blood Money
 NPUA80864=Hot Shots Golf - World Invitational
 NPUB31200=Hotline Miami
-NPUB31200=Hustle Kings
 BLES01788=Hyperdimension Neptunia Victory
 NPUB30383=I Am Alive
 NPEB00476=I Am Alive

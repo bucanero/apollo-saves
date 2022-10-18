@@ -160,7 +160,6 @@ has_toc: false
 | [Hitman: Blood Money](NPUB30781/) | NPUB30781 |
 | [Hot Shots Golf - World Invitational](NPUA80864/) | NPUA80864 |
 | [Hotline Miami](NPUB31200/) | NPUB31200 |
-| [Hustle Kings](NPUB31200/) | NPUB31200 |
 | [Hyperdimension Neptunia Victory](BLES01788/) | BLES01788 |
 | [I Am Alive](NPUB30383/) | NPUB30383 |
 | [I Am Alive](NPEB00476/) | NPEB00476 |
