@@ -317,6 +317,7 @@ has_toc: false
 | [X-Men Arcade](NPUB30320/) | NPUB30320 |
 | [X-Men Origins Wolverine](BLUS30268/) | BLUS30268 |
 | [X-Men: Destiny](BLUS30746/) | BLUS30746 |
+| [Yaiba: Ninja Gaiden Z](BLUS31203/) | BLUS31203 |
 | [YAKUZA 3](BLES00834/) | BLES00834 |
 | [YAKUZA 4](BLES01081/) | BLES01081 |
 | [YAKUZA 4](BLUS30643/) | BLUS30643 |
