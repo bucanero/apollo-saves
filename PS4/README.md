@@ -44,6 +44,7 @@ has_toc: false
 | [HiQ Ace](CUSA10659/) | CUSA10659 |
 | [Hoa](CUSA28687/) | CUSA28687 |
 | [Horizon Chase Turbo](CUSA11275/) | CUSA11275 |
+| [Horizon Forbidden West](CUSA24705/) | CUSA24705 |
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
 | [Hot Wheels Unleashed](CUSA25502/) | CUSA25502 |
 | [Kingdom Hearts 1.5/2.5 Final Mix](CUSA05786/) | CUSA05786 |

@@ -33,6 +33,7 @@ CUSA04943=Gravity Rush 2
 CUSA10659=HiQ Ace
 CUSA28687=Hoa
 CUSA11275=Horizon Chase Turbo
+CUSA24705=Horizon Forbidden West
 CUSA07320=Horizon Zero Dawn™
 CUSA25502=Hot Wheels Unleashed
 CUSA05786=Kingdom Hearts 1.5/2.5 Final Mix
