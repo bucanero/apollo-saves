@@ -235,6 +235,7 @@ NPEA00356=Ratchet & Clank - All 4 One
 BLES01386=Rayman® Origins
 BLUS30881=Record Of Agarest War 2
 BLES00680=Red Dead Redemption
+BLUS30418=Red Dead Redemption
 BLES01701=Remember Me™
 NPEB00342=Resident Evil 4
 BLES00485=Resident Evil 5

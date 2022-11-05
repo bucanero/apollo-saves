@@ -246,6 +246,7 @@ has_toc: false
 | [Rayman® Origins](BLES01386/) | BLES01386 |
 | [Record Of Agarest War 2](BLUS30881/) | BLUS30881 |
 | [Red Dead Redemption](BLES00680/) | BLES00680 |
+| [Red Dead Redemption](BLUS30418/) | BLUS30418 |
 | [Remember Me™](BLES01701/) | BLES01701 |
 | [Resident Evil 4](NPEB00342/) | NPEB00342 |
 | [Resident Evil 5](BLES00485/) | BLES00485 |
