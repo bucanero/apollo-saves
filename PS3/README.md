@@ -21,6 +21,8 @@ has_toc: false
 | [Aliens vs Predator](BLES00585/) | BLES00585 |
 | [Alone in the Dark: Inferno](BLES00422/) | BLES00422 |
 | [Alone in the Dark: Inferno](BLUS30232/) | BLUS30232 |
+| [Army of Two: The 40th Day](BLUS30408/) | BLUS30408 |
+| [Army of Two: The Devil's Cartel](BLUS31069/) | BLUS31069 |
 | [Assassin's Creed III](BLES01667/) | BLES01667 |
 | [ASURA'S WRATH](BLUS30721/) | BLUS30721 |
 | [Atelier Ayesha - The Alchemist Of Dusk](NPUB31115/) | NPUB31115 |
@@ -172,6 +174,7 @@ has_toc: false
 | [JoJo's Bizarre Adventure: All Star Battle](NPUB31391/) | NPUB31391 |
 | [Kane & Lynch 2 - Dog Days](BLES00604/) | BLES00604 |
 | [Killzone 2](BCES00081/) | BCES00081 |
+| [Killzone 2](BCUS98116/) | BCUS98116 |
 | [Kingdom Hearts HD 1.5 ReMIX](BLUS31212/) | BLUS31212 |
 | [Kingdom Hearts HD 2.5 ReMIX](BLUS31460/) | BLUS31460 |
 | [Kingdoms of Amalur - Reckoning](BLES01251/) | BLES01251 |
