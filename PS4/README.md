@@ -13,10 +13,12 @@ has_toc: false
 | [Alan Wake](CUSA24653/) | CUSA24653 |
 | [Assassin's Creed: Origins](CUSA05625/) | CUSA05625 |
 | [Asterix & Obelix XXL 2 - Roman Rumble in Las Vegum](CUSA13367/) | CUSA13367 |
+| [Batman: Arkham Knight](CUSA00135/) | CUSA00135 |
 | [Borderlands 3](CUSA07823/) | CUSA07823 |
 | [Cars 3: Driven to Win](CUSA07027/) | CUSA07027 |
 | [Catherine Full Body](CUSA14836/) | CUSA14836 |
 | [Code Vein](CUSA09824/) | CUSA09824 |
+| [Code Vein](CUSA10246/) | CUSA10246 |
 | [Crash™ Team Racing Nitro-Fueled](CUSA13795/) | CUSA13795 |
 | [Crash™ Team Racing Nitro-Fueled](CUSA14876/) | CUSA14876 |
 | [CRYSTAR](CUSA15175/) | CUSA15175 |
@@ -27,6 +29,7 @@ has_toc: false
 | [Disciples Liberation](CUSA19493/) | CUSA19493 |
 | [Disciples Liberation](CUSA19521/) | CUSA19521 |
 | [DJMAX RESPECT](CUSA08621/) | CUSA08621 |
+| [Doraemon - Story of Seasons](CUSA18501/) | CUSA18501 |
 | [DRAGON BALL Z: KAKAROT](CUSA14655/) | CUSA14655 |
 | [DYNASTY WARRIORS 9](CUSA10421/) | CUSA10421 |
 | [FIFA 22](CUSA27109/) | CUSA27109 |
@@ -39,9 +42,11 @@ has_toc: false
 | [Five Nights at Freddy's 4](CUSA17982/) | CUSA17982 |
 | [Five Nights at Freddy's Sister Location](CUSA17983/) | CUSA17983 |
 | [Ghost of Tsushima](CUSA11456/) | CUSA11456 |
+| [God Eater Resurrection](CUSA03525/) | CUSA03525 |
 | [God of War](CUSA07408/) | CUSA07408 |
 | [Grand Theft Auto V](CUSA00411/) | CUSA00411 |
 | [Gravity Rush 2](CUSA04943/) | CUSA04943 |
+| [Gundam Breaker 3 - Break Edition](CUSA07651/) | CUSA07651 |
 | [HiQ Ace](CUSA10659/) | CUSA10659 |
 | [Hoa](CUSA28687/) | CUSA28687 |
 | [Horizon Chase Turbo](CUSA11275/) | CUSA11275 |
