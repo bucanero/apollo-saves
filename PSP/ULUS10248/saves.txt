@@ -2,3 +2,7 @@
 00000272.zip=2 Billion Gold, Gift Shop Unlocked On 3rd LVL
 00000269.zip=Story 100% complete. Game: 96% complete.
 00000270.zip=All Levels Complete
+00001045.zip=2 Billion Gold, Gift Shop Unlocked On 3rd LVL
+00001046.zip=Story 100% Completed, Game 67% Completed
+00001043.zip=Story 100% complete. Game: 96% complete.
+00001044.zip=All Levels Complete

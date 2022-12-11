@@ -1,0 +1,4 @@
+00001144.zip=Finished All Tours except Max Tours. Almost everything unlocked
+00001146.zip=100% Complete save for European version
+00001147.zip=All tours completed, Everything unlocked!
+00001148.zip=Basic, Pro, Expert Tour finished - All Prices unlocked - Max tour open for honour :)

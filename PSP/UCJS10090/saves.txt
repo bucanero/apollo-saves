@@ -1,0 +1,4 @@
+00001163.zip=Game finished
+00001164.zip=game finished in normal mode, all weapons unlocked, skill points 100% (gantxx)
+00001165.zip=Resistance Retribution 100% Complete
+00001167.zip=Story Mode Finished, all non infected intel, all weapons

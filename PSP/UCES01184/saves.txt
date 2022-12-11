@@ -1,0 +1,4 @@
+00001159.zip=Game Completed Naturally. [100% Skill Points | 76% Intel (Never Infected)]
+00001160.zip=Everything unlocked. 100% Skill points and 100% Intel with all Infected intel too.
+00001161.zip=Completed Campaign, 100% Non-Infected + Infected intel, 42% Skill Points. Done on 5.50 Official Firmware
+00001162.zip=Game finished

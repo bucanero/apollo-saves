@@ -1,0 +1,4 @@
+00001373.zip=Remix Songs For Stage 1
+00001374.zip=Remix Songs For Stages 2, 3, 4, and 5
+00001375.zip=All stages completed with a COOL rating! Now you can watch 'KT & THE SUNNY FUNNY BAND'!
+00001376.zip=Game Completed 100%
