@@ -1,2 +1,1 @@
-00000655.zip=
-Complete game except Nancy bonus round
+00000655.zip=Complete game except Nancy bonus round

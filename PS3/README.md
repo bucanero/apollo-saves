@@ -21,6 +21,8 @@ has_toc: false
 | [Aliens vs Predator](BLES00585/) | BLES00585 |
 | [Alone in the Dark: Inferno](BLES00422/) | BLES00422 |
 | [Alone in the Dark: Inferno](BLUS30232/) | BLUS30232 |
+| [Army of Two: The 40th Day](BLUS30408/) | BLUS30408 |
+| [Army of Two: The Devil's Cartel](BLUS31069/) | BLUS31069 |
 | [Assassin's Creed III](BLES01667/) | BLES01667 |
 | [ASURA'S WRATH](BLUS30721/) | BLUS30721 |
 | [Atelier Ayesha - The Alchemist Of Dusk](NPUB31115/) | NPUB31115 |
@@ -160,7 +162,6 @@ has_toc: false
 | [Hitman: Blood Money](NPUB30781/) | NPUB30781 |
 | [Hot Shots Golf - World Invitational](NPUA80864/) | NPUA80864 |
 | [Hotline Miami](NPUB31200/) | NPUB31200 |
-| [Hustle Kings](NPUB31200/) | NPUB31200 |
 | [Hyperdimension Neptunia Victory](BLES01788/) | BLES01788 |
 | [I Am Alive](NPUB30383/) | NPUB30383 |
 | [I Am Alive](NPEB00476/) | NPEB00476 |
@@ -173,6 +174,7 @@ has_toc: false
 | [JoJo's Bizarre Adventure: All Star Battle](NPUB31391/) | NPUB31391 |
 | [Kane & Lynch 2 - Dog Days](BLES00604/) | BLES00604 |
 | [Killzone 2](BCES00081/) | BCES00081 |
+| [Killzone 2](BCUS98116/) | BCUS98116 |
 | [Kingdom Hearts HD 1.5 ReMIX](BLUS31212/) | BLUS31212 |
 | [Kingdom Hearts HD 2.5 ReMIX](BLUS31460/) | BLUS31460 |
 | [Kingdoms of Amalur - Reckoning](BLES01251/) | BLES01251 |
@@ -247,6 +249,7 @@ has_toc: false
 | [Rayman® Origins](BLES01386/) | BLES01386 |
 | [Record Of Agarest War 2](BLUS30881/) | BLUS30881 |
 | [Red Dead Redemption](BLES00680/) | BLES00680 |
+| [Red Dead Redemption](BLUS30418/) | BLUS30418 |
 | [Remember Me™](BLES01701/) | BLES01701 |
 | [Resident Evil 4](NPEB00342/) | NPEB00342 |
 | [Resident Evil 5](BLES00485/) | BLES00485 |
@@ -318,6 +321,7 @@ has_toc: false
 | [X-Men Arcade](NPUB30320/) | NPUB30320 |
 | [X-Men Origins Wolverine](BLUS30268/) | BLUS30268 |
 | [X-Men: Destiny](BLUS30746/) | BLUS30746 |
+| [Yaiba: Ninja Gaiden Z](BLUS31203/) | BLUS31203 |
 | [YAKUZA 3](BLES00834/) | BLES00834 |
 | [YAKUZA 4](BLES01081/) | BLES01081 |
 | [YAKUZA 4](BLUS30643/) | BLUS30643 |
