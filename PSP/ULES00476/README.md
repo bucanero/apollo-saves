@@ -10,4 +10,5 @@ permalink: PSP/ULES00476/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Winning Eleven: Pro Evolution Soccer 2007](ICON0.PNG) | [00000476.zip](00000476.zip){: .btn .btn-purple } | All clubs and players real name; update to 7/7/200 |
+| ![Winning Eleven: Pro Evolution Soccer 2007](ICON0.PNG) | [00000476.zip](00000476.zip){: .btn .btn-purple } | All clubs and players real name; update to 7/7/2007 |
+| ![Winning Eleven: Pro Evolution Soccer 2007](ICON0.PNG) | [00001228.zip](00001228.zip){: .btn .btn-purple } | Names, clubs all correc |

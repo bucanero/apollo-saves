@@ -19,7 +19,7 @@ has_toc: false
 | [Genso Suikoden: Tsumugareshi Hyakunen no Toki ](NPJH50535/) | NPJH50535 |
 | [Funky Punch ](NPEZ00004/) | NPEZ00004 |
 | [Fortix](NPEZ00096/) | NPEZ00096 |
-| [Forest Puzzle ](NPUZ00121/) | NPUZ00121 |
+| [Forest Puzzle](NPUZ00121/) | NPUZ00121 |
 | [Ford Bold Moves Street Racing](ULUS10159/) | ULUS10159 |
 | [For Symphony: With All One's Heart Portable](ULJM05258/) | ULJM05258 |
 | [Fly Fu](NPUZ00108/) | NPUZ00108 |
@@ -194,7 +194,7 @@ has_toc: false
 | [WORLD TOUR SOCCER 06](UCES00206/) | UCES00206 |
 | [World Tour Soccer](UCES00003/) | UCES00003 |
 | [World Tour Soccer](UCUS98613/) | UCUS98613 |
-| [World Soccer Winning Eleven 9](ULES00160/) | ULES00160 |
+| [Pro Evolution Soccer 5](ULES00160/) | ULES00160 |
 | [World Soccer Winning Eleven 9](ULJM05033/) | ULJM05033 |
 | [World Soccer Winning Eleven 9](ULUS10056/) | ULUS10056 |
 | [World Series of Poker: Tournament of Champions](ULUS10162/) | ULUS10162 |
@@ -352,4 +352,143 @@ has_toc: false
 | [Sonic Rivals 2](ULUS10323/) | ULUS10323 |
 | [Test Drive Unlimited](ULES00637/) | ULES00637 |
 | [Tales of the Heroes - Twin Brave](NPJH50501/) | NPJH50501 |
+| [Sonic Rivals](ULUS10195/) | ULUS10195 |
+| [SOCOM: U.S. Navy SEALs Fireteam Bravo 3](UCES01242/) | UCES01242 |
+| [SOCOM: U.S. Navy SEALs Fireteam Bravo 3](NPJG00035/) | NPJG00035 |
+| [SOCOM: U.S. Navy SEALs Fireteam Bravo 3](UCUS98716/) | UCUS98716 |
+| [SOCOM: U.S. Navy SEALs Fireteam Bravo 2](UCES00543/) | UCES00543 |
+| [SOCOM: U.S. Navy SEALs Fireteam Bravo 2](UCUS98645/) | UCUS98645 |
+| [SOCOM: U.S. Navy SEALs Fireteam Bravo](UCES00038/) | UCES00038 |
+| [SOCOM: U.S. Navy SEALs Fireteam Bravo](UCUS98615/) | UCUS98615 |
+| [Snow Portable](ULJM05214/) | ULJM05214 |
+| [Snoopy vs. the Red Baron](ULUS10189/) | ULUS10189 |
+| [SNK Arcade Classics Vol. 1](ULUS10338/) | ULUS10338 |
+| [Smash Court Tennis 3](UCES00758/) | UCES00758 |
+| [Smart Bomb](ULUS10016/) | ULUS10016 |
+| [Skate Park City](ULES00957/) | ULES00957 |
+| [Sims 2: Castaway](ULUS10296/) | ULUS10296 |
+| [The Sims 2](ULES00211/) | ULES00211 |
+| [The Sims 2](ULUS10031/) | ULUS10031 |
+| [The Sims 2](ULAS42029/) | ULAS42029 |
+| [Simpsons Game](ULES00975/) | ULES00975 |
+| [Silverfall](ULES00808/) | ULES00808 |
+| [Silent Hill: Origins](ULES00869/) | ULES00869 |
+| [Silent Hill: Origins](ULUS10285/) | ULUS10285 |
+| [Shrek Smash n' Crash Racing](ULUS10194/) | ULUS10194 |
+| [Shinseiki GPX Cyber Formula VS](ULJS00142/) | ULJS00142 |
+| [Shinobido Homura: Soul of the Ninja](UCES00421/) | UCES00421 |
+| [Shin Sangoku Musou 6 Special](ULJM05938/) | ULJM05938 |
+| [Shin Sangoku Musou 5 Special](ULJM05524/) | ULJM05524 |
+| [Shin Megami Tensei: Persona 3 Portable](ULES01523/) | ULES01523 |
+| [Shin Megami Tensei: Persona 3 Portable](NPJH50040/) | NPJH50040 |
+| [Shin Megami Tensei: Persona 3 Portable](ULUS10512/) | ULUS10512 |
+| [Shin Megami Tensei: Persona 2](ULUS10584/) | ULUS10584 |
+| [Shin Megami Tensei: Persona](ULUS10432/) | ULUS10432 |
+| [Shaun White Snowboarding](ULES01185/) | ULES01185 |
+| [Sensha](ULJS00058/) | ULJS00058 |
+| [Senjou no Valkyria 3](NPJH50343/) | NPJH50343 |
+| [Sengoku Musou 3 Z Special](ULJM06024/) | ULJM06024 |
+| [Sega Rally Revo](ULES00910/) | ULES00910 |
+| [Sega Genesis Collection](ULES00556/) | ULES00556 |
+| [Sega Genesis Collection](ULUS10192/) | ULUS10192 |
+| [Secret Agent Clank](UCES00942/) | UCES00942 |
+| [Secret Agent Clank](UCUS98697/) | UCUS98697 |
+| [SD Gundam G Generation World](ULJS00363/) | ULJS00363 |
+| [SD Gundam G Generation Portable](ULJS00065/) | ULJS00065 |
+| [SD Gundam G Generation Overworld](NPJH50681/) | NPJH50681 |
+| [Scarface: Money. Power. Respect.](ULUS10148/) | ULUS10148 |
+| [Saru Get You: SaruSaru Daisakusen](UCAS40154/) | UCAS40154 |
+| [Samurai Warriors: State of War](ULES00297/) | ULES00297 |
+| [Samurai Warriors: State of War](ULUS10089/) | ULUS10089 |
+| [Saint Seiya Omega: Ultimate Cosmo](ULJS00554/) | ULJS00554 |
+| [Rush](ULUS10174/) | ULUS10174 |
+| [Rurouni Kenshin: Meiji Kenkaku Romantan Saisen](ULJS00360/) | ULJS00360 |
+| [Rocky Balboa](ULES00670/) | ULES00670 |
+| [Rocky Balboa](ULUS10233/) | ULUS10233 |
+| [RockMan Dash 2](ULJM05037/) | ULJM05037 |
+| [Rock Band Unplugged](ULUS10418/) | ULUS10418 |
+| [Riviera: The Promised Land](ULJM05283/) | ULJM05283 |
+| [Riviera: The Promised Land](ULUS10286/) | ULUS10286 |
+| [Ridge Racer 2](UCES00422/) | UCES00422 |
+| [Ridge Racer 2](ULJS00080/) | ULJS00080 |
+| [Ridge Racer](ULUS10001/) | ULUS10001 |
+| [Rezel Cross](UCAS40140/) | UCAS40140 |
+| [Resistance: Retribution](UCES01184/) | UCES01184 |
+| [Resistance: Retribution](UCJS10090/) | UCJS10090 |
+| [Resistance: Retribution](UCUS98668/) | UCUS98668 |
+| [Rengoku: The Tower of Purgatory](ULUS10013/) | ULUS10013 |
+| [Rengoku II: The Stairway to H.E.A.V.E.N.](ULUS10127/) | ULUS10127 |
+| [Rengoku II: The Stairway to H.E.A.V.E.N.](ULES00437/) | ULES00437 |
+| [Reel Fishing: The Great Outdoors](ULUS10166/) | ULUS10166 |
+| [Red Star](NPUH10040/) | NPUH10040 |
+| [Real Rode Portable](ULJM05657/) | ULJM05657 |
+| [Ratchet & Clank: Size Matters](UCES00420/) | UCES00420 |
+| [Ratchet & Clank: Size Matters](UCUS98633/) | UCUS98633 |
+| [Rapala Trophies](ULUS10137/) | ULUS10137 |
+| [Ragnarok Tactics](ULUS10594/) | ULUS10594 |
+| [R-Type Command](ULJS00111/) | ULJS00111 |
+| [R-Type Command](ULUS10343/) | ULUS10343 |
+| [Queen's Gate: Spiral Chaos](ULJS00377/) | ULJS00377 |
+| [Puzzle Bobble Pocket](ULJM05011/) | ULJM05011 |
+| [Pursuit Force: Extreme Justice](UCES00694/) | UCES00694 |
+| [Pursuit Force: Extreme Justice](UCUS98703/) | UCUS98703 |
+| [Pursuit Force](UCET00007/) | UCET00007 |
+| [Pursuit Force](UCES00019/) | UCES00019 |
+| [Pursuit Force](UCUS98640/) | UCUS98640 |
+| [Pump It Up: Exceed Portable](ULKS46146/) | ULKS46146 |
+| [Pump It Up: Exceed Portable](ULKS46042/) | ULKS46042 |
+| [Pro Evolution Soccer 5](ULES00160/) | ULES00160 |
+| [Pro Evolution Soccer 2013](ULES01575/) | ULES01575 |
+| [Pro Evolution Soccer 2012](ULES01540/) | ULES01540 |
+| [Pro Evolution Soccer 2011](ULES01467/) | ULES01467 |
+| [Pro Evolution Soccer 2011](ULUS10554/) | ULUS10554 |
+| [Pro Evolution Soccer 2010](ULES01354/) | ULES01354 |
+| [Pro Evolution Soccer 2010](ULES01353/) | ULES01353 |
+| [Pro Evolution Soccer 2009](ULES01176/) | ULES01176 |
+| [Pro Evolution Soccer 2008](ULES00880/) | ULES00880 |
+| [Pro Evolution Soccer 2008](ULJM05270/) | ULJM05270 |
+| [Prinny: Can I Really Be the Hero?](ULES01278/) | ULES01278 |
+| [Prinny: Can I Really Be the Hero?](ULUS10407/) | ULUS10407 |
+| [Prinny 2: Toukou Yuugi! Akatsuki no Pantsu Daisakusenss!!](ULUS10561/) | ULUS10561 |
+| [Princess Crown](ULJM05040/) | ULJM05040 |
+| [Prince of Persia: The Forgotten Sands](ULUS10480/) | ULUS10480 |
+| [Prince of Persia Rival Swords](ULES00579/) | ULES00579 |
+| [Prince of Persia Rival Swords](ULUS10240/) | ULUS10240 |
+| [Prince of Persia Revelations](ULES00223/) | ULES00223 |
+| [Prince of Persia Revelations](ULUS10063/) | ULUS10063 |
+| [Power Stone Collection](ULES00496/) | ULES00496 |
+| [Power Stone Collection](ULUS10171/) | ULUS10171 |
+| [PoPoLoCrois](ULES00291/) | ULES00291 |
+| [PoPoLoCrois](UCJS10005/) | UCJS10005 |
+| [PoPoLoCrois](ULUS10018/) | ULUS10018 |
+| [Pop'n Music Portable 2](ULJM05959/) | ULJM05959 |
+| [Pocket Racers](ULUS10163/) | ULUS10163 |
+| [Pocket Pool](ULUS10151/) | ULUS10151 |
+| [Platypus](ULUS10203/) | ULUS10203 |
+| [PixelJunk Monsters Deluxe](ULJM05383/) | ULJM05383 |
+| [PixelJunk Monsters Deluxe](NPUG80248/) | NPUG80248 |
+| [Pirates of the Caribbean: Dead Man's Chest](ULES00366/) | ULES00366 |
+| [Phantom Brave: The Hermuda Triangle](ULUS10572/) | ULUS10572 |
+| [Phantom Brave: The Hermuda Triangle](NPEH00104/) | NPEH00104 |
+| [Phantasy Star Portable 2](ULES01439/) | ULES01439 |
+| [Phantasy Star Portable 2](NPJH50043/) | NPJH50043 |
+| [Phantasy Star Portable 2](ULUS10529/) | ULUS10529 |
+| [Phantasy Star Portable](ULES01218/) | ULES01218 |
+| [Phantasy Star Portable](ULJM05309/) | ULJM05309 |
+| [Phantasy Star Portable](ULUS10410/) | ULUS10410 |
+| [Peter Jackson's King Kong](ULES00225/) | ULES00225 |
+| [Peter Jackson's King Kong](ULUS10072/) | ULUS10072 |
+| [Patapon 3](UCES01421/) | UCES01421 |
+| [Patapon 3](UCUS98751/) | UCUS98751 |
+| [Patapon 2](UCES01177/) | UCES01177 |
+| [Patapon 2](UCJS10089/) | UCJS10089 |
+| [Patapon 2](UCUS98732/) | UCUS98732 |
+| [Patapon](UCES00995/) | UCES00995 |
+| [Patapon](UCUS98711/) | UCUS98711 |
+| [Parodius Portable](ULJM05220/) | ULJM05220 |
+| [PaRappa the Rapper](UCUS98702/) | UCUS98702 |
+| [Pangya Fantasy Golf](ULUS10438/) | ULUS10438 |
+| [Sid Meier's Pirates!](ULUS10224/) | ULUS10224 |
+| [Shaun White Snowboarding](ULUS10399/) | ULUS10399 |
+| [Sengoku Ace Episode III](ULJM05021/) | ULJM05021 |
 | [SpongeBob Squarepants: The Yellow Avenger](ULES00280/) | ULES00280 |

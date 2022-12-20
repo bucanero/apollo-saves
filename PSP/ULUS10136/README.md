@@ -17,4 +17,5 @@ permalink: PSP/ULUS10136/
 | ![Yu-Gi-Oh! GX Tag Force](ICON0.PNG) | [00000321.zip](00000321.zip){: .btn .btn-purple } | All cards (including the new downloadable cards,deck recipes,march2007 ban list alot of decks |
 | ![Yu-Gi-Oh! GX Tag Force](ICON0.PNG) | [00000322.zip](00000322.zip){: .btn .btn-purple } | all the packs unlocked, 100% cards from packs, so-so deck (I used mainly deck name 'New Idea'), there are a lot of tag duel partners, and around 95% album completion |
 | ![Yu-Gi-Oh! GX Tag Force](ICON0.PNG) | [00000323.zip](00000323.zip){: .btn .btn-purple } | 100% cards finished with Jaden,Syrus,Chumley,Alexis,Camula,And Tania,Most of the dads Unlocked.A very good Deck. |
-| ![Yu-Gi-Oh! GX Tag Force](ICON0.PNG) | [00000324.zip](00000324.zip){: .btn .btn-purple } | Have all cards, everyone can be your partner, finished the game with all seven characters, Day 1 of Part  |
+| ![Yu-Gi-Oh! GX Tag Force](ICON0.PNG) | [00000324.zip](00000324.zip){: .btn .btn-purple } | Have all cards, everyone can be your partner, finished the game with all seven characters, Day 1 of Part 1 |
+| ![Yu-Gi-Oh! GX Tag Force](ICON0.PNG) | [00001210.zip](00001210.zip){: .btn .btn-purple } | yu gi oh gx tagfroc |
