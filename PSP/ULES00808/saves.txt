@@ -1,0 +1,4 @@
+00001028.zip=name:chester,money:9billion level 54,nature
+00001029.zip=1 Billion Gold | LVL 3 Human Male
+00001030.zip=CLEAN Lvl 100 Intelligence Max Human Female 100% Nature (Start From Refugee Camp)
+00001031.zip=Save right before UFO ending.

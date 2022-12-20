@@ -1,0 +1,5 @@
+00001258.zip=dawning of a new fate , ending 1 (without water sword)
+00001259.zip=Chapter : the warrior within , saved at hourglass chamber , before the final battle with the empress for the second time
+00001260.zip=Chapter : the warrior within , saved at hourglass chamber , before the final battle against dahaka
+00001261.zip=Chapter : mirrored fates , Saved at Library , after statues chamber , water sword acquired
+00001263.zip=Chapter : dawning of a new fate , ending 2 (with water sword)

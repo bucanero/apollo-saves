@@ -1,0 +1,3 @@
+00001074.zip=all characters
+00001075.zip=All chars, all 4th rare weapon, all galeries, some abilities unlocked
+00001076.zip=all gallery all weapon all costume changes some abilities unlocked

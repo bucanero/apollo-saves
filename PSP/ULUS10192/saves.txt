@@ -1,0 +1,7 @@
+00001084.zip=sonic the hedgehog save with all chaos emeralds start in the death egg with 48000 points
+00001085.zip=Golden Axe III - The Scorching Sands - 3 Magic+Credits
+00001086.zip=Sonic 1 Save - Marble Zone
+00001087.zip=Ristar: Score 9600, 5 Lives
+00001088.zip=Sonic Ending Complete with all chaos emeralds
+00001089.zip=Sonic 2 save. All 7 emeralds. Hold down square at title screen for level select. At level select hold down square while selecting level for debug.
+00001090.zip=Everything Unlocked(All the Extras section). Enjoy.

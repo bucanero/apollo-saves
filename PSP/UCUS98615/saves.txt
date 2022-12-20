@@ -1,0 +1,9 @@
+00001000.zip=Finished the campaign Ensign, Commander and Admiral. Some unlockables are unlocked.
+00001001.zip=Brand new game.
+00001003.zip=Completed on Commander. All PSP cross talk objectives complete. Most of Socom 3 cross talk material transfered.
+00001004.zip=All main missions complete
+00001005.zip=Game beat on Ensign: unlocks STG-77, IW-80, Front Grip, Medium Scope, and 3 multiplayer Skins (only unlockable with psp) on Socom 3.
+00001006.zip=Elite Seal Unlocked 100%
+00001007.zip=100% finished
+00001008.zip=All instant action missions and campaign missions beat on ensign, commander, and admiral. All characters and weapons unlocked. All cross talk objectives complete.
+00001002.zip=Single Player Completed. 23 out of 25 cross-talk objective completed.
