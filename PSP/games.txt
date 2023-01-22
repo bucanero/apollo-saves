@@ -426,7 +426,6 @@ UCES00019=Pursuit Force
 UCUS98640=Pursuit Force
 ULKS46146=Pump It Up: Exceed Portable
 ULKS46042=Pump It Up: Exceed Portable
-ULES00160=Pro Evolution Soccer 5
 ULES01575=Pro Evolution Soccer 2013
 ULES01540=Pro Evolution Soccer 2012
 ULES01467=Pro Evolution Soccer 2011

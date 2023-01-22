@@ -53,8 +53,10 @@ has_toc: false
 | [Horizon Forbidden West](CUSA24705/) | CUSA24705 |
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
 | [Hot Wheels Unleashed](CUSA25502/) | CUSA25502 |
+| [It Takes Two](CUSA16746/) | CUSA16746 |
 | [Kingdom Hearts 1.5/2.5 Final Mix](CUSA05786/) | CUSA05786 |
 | [Kingdoms of Amalur: Re-Reckoning](CUSA17245/) | CUSA17245 |
+| [Kingdoms of Amalur: Re-Reckoning](CUSA17271/) | CUSA17271 |
 | [Marvel's Spider Man](CUSA02299/) | CUSA02299 |
 | [Marvel's Spider-Man](CUSA11993/) | CUSA11993 |
 | [Marvel's Spider-Man: Miles Morales](CUSA17722/) | CUSA17722 |
