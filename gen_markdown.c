@@ -29,6 +29,7 @@ void save_main(char* path, char* title)
     while ((read = getline(&line, &len, fp)) != -1) {
 		line[read-1] = 0;
 		pos = strchr(line, '=');
+		if (!pos) continue;
 		*pos = 0;
 		
         fprintf(out, "| ![%s](ICON0.PNG) | [%s](%s){: .btn .btn-purple } | %s |\n", title, line, line, ++pos);
