@@ -21,6 +21,7 @@ has_toc: false
 | [Aliens vs Predator](BLES00585/) | BLES00585 |
 | [Alone in the Dark: Inferno](BLES00422/) | BLES00422 |
 | [Alone in the Dark: Inferno](BLUS30232/) | BLUS30232 |
+| [Altered Beast](NPUB30459/) | NPUB30459 |
 | [Army of Two: The 40th Day](BLUS30408/) | BLUS30408 |
 | [Army of Two: The Devil's Cartel](BLUS31069/) | BLUS31069 |
 | [Assassin's Creed III](BLES01667/) | BLES01667 |
@@ -30,6 +31,7 @@ has_toc: false
 | [Batman: Arkham Asylum](BLUS30279/) | BLUS30279 |
 | [Batman: Arkham City](BLUS30538/) | BLUS30538 |
 | [Batman: Arkham Origins](BLUS31147/) | BLUS31147 |
+| [Battle Los Angeles](NPUB30470/) | NPUB30470 |
 | [Battlefield: Bad Company 2](BLUS30458/) | BLUS30458 |
 | [Bayonetta](BLES00599/) | BLES00599 |
 | [Bayonetta](BLUS30367/) | BLUS30367 |
@@ -66,6 +68,7 @@ has_toc: false
 | [Catherine](BLES01459/) | BLES01459 |
 | [Crazy Taxi](NPEB00303/) | NPEB00303 |
 | [Cross Edge](BLUS30348/) | BLUS30348 |
+| [Crysis HD](NPUB30302/) | NPUB30302 |
 | [Crystal Defenders](NPEB00110/) | NPEB00110 |
 | [Dante's Inferno](BLES00713/) | BLES00713 |
 | [Dante's Inferno](BLUS30405/) | BLUS30405 |
@@ -75,6 +78,7 @@ has_toc: false
 | [DARK VOID](BLES00723/) | BLES00723 |
 | [Darksiders](BLES00705/) | BLES00705 |
 | [Darksiders II](BLES01597/) | BLES01597 |
+| [Daytona USA](NPUB30493/) | NPUB30493 |
 | [Dead Island](BLUS30790/) | BLUS30790 |
 | [Dead Island - Riptide](BLES01739/) | BLES01739 |
 | [Dead Island - Riptide](BLUS31052/) | BLUS31052 |
@@ -103,6 +107,8 @@ has_toc: false
 | [Dishonored](BLUS30501/) | BLUS30501 |
 | [DmC: Devil May Cry](BLES01698/) | BLES01698 |
 | [DmC: Devil May Cry](BLUS30723/) | BLUS30723 |
+| [Doodle God](NPUB30954/) | NPUB30954 |
+| [Doom 3 BFG Edition](BLUS31024/) | BLUS31024 |
 | [Dragon Age™: Inquisition](BLUS30997/) | BLUS30997 |
 | [Dragon Ball Xenoverse](NPUB31619/) | NPUB31619 |
 | [Dragon Ball Z: Battle of Z](NPUB31322/) | NPUB31322 |
@@ -112,6 +118,7 @@ has_toc: false
 | [Dragons Dogma - Dark Arisen](BLES01794/) | BLES01794 |
 | [Drakengard 3](NPUB31251/) | NPUB31251 |
 | [DuckTales: Remastered](NPUB31126/) | NPUB31126 |
+| [Duke Nukem 3D Megaton Edition](NPUB31378/) | NPUB31378 |
 | [Dungeon Siege 3](BLES01161/) | BLES01161 |
 | [Dynasty Warriors: Gundam](BLES00147/) | BLES00147 |
 | [Dynasty Warriors: Gundam](BLUS30058/) | BLUS30058 |
@@ -245,7 +252,9 @@ has_toc: false
 | [PlayStation All Stars - Battle Royale](BCES01435/) | BCES01435 |
 | [Racket Sports](BLES01000/) | BLES01000 |
 | [Rapala Pro Bass Fishing](BLES00957/) | BLES00957 |
+| [Ratchet & Clank](NPUA80643/) | NPUA80643 |
 | [Ratchet & Clank - All 4 One](NPEA00356/) | NPEA00356 |
+| [Ratchet & Clank: Going Commando](NPEA00386/) | NPEA00386 |
 | [Rayman® Origins](BLES01386/) | BLES01386 |
 | [Record Of Agarest War 2](BLUS30881/) | BLUS30881 |
 | [Red Dead Redemption](BLES00680/) | BLES00680 |
