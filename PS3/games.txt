@@ -59,6 +59,7 @@ NPEB00303=Crazy Taxi
 BLUS30348=Cross Edge
 NPUB30302=Crysis HD
 NPEB00110=Crystal Defenders
+NPJB00520=Dai-3-Ji Super Robot Taisen Z Jigoku-hen
 BLES00713=Dante's Inferno
 BLUS30405=Dante's Inferno
 BLUS30116=Dark Sector

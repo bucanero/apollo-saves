@@ -70,6 +70,7 @@ has_toc: false
 | [Cross Edge](BLUS30348/) | BLUS30348 |
 | [Crysis HD](NPUB30302/) | NPUB30302 |
 | [Crystal Defenders](NPEB00110/) | NPEB00110 |
+| [Dai-3-Ji Super Robot Taisen Z Jigoku-hen](NPJB00520/) | NPJB00520 |
 | [Dante's Inferno](BLES00713/) | BLES00713 |
 | [Dante's Inferno](BLUS30405/) | BLUS30405 |
 | [Dark Sector](BLUS30116/) | BLUS30116 |
