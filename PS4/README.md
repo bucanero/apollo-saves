@@ -44,6 +44,8 @@ has_toc: false
 | [Ghost of Tsushima](CUSA11456/) | CUSA11456 |
 | [God Eater Resurrection](CUSA03525/) | CUSA03525 |
 | [God of War](CUSA07408/) | CUSA07408 |
+| [GOD OF WAR RAGNARÖK](CUSA34384/) | CUSA34384 |
+| [GOD OF WAR RAGNARÖK](CUSA34386/) | CUSA34386 |
 | [Grand Theft Auto V](CUSA00411/) | CUSA00411 |
 | [Gravity Rush 2](CUSA04943/) | CUSA04943 |
 | [Gundam Breaker 3 - Break Edition](CUSA07651/) | CUSA07651 |
@@ -54,6 +56,7 @@ has_toc: false
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
 | [Hot Wheels Unleashed](CUSA25502/) | CUSA25502 |
 | [It Takes Two](CUSA16746/) | CUSA16746 |
+| [Kimetsu no Yaiba Hinokami Keppūtan](CUSA27305/) | CUSA27305 |
 | [Kingdom Hearts 1.5/2.5 Final Mix](CUSA05786/) | CUSA05786 |
 | [Kingdoms of Amalur: Re-Reckoning](CUSA17245/) | CUSA17245 |
 | [Kingdoms of Amalur: Re-Reckoning](CUSA17271/) | CUSA17271 |
@@ -63,6 +66,7 @@ has_toc: false
 | [Marvel's Spider-Man: Miles Morales](CUSA17776/) | CUSA17776 |
 | [Minecraft](CUSA00265/) | CUSA00265 |
 | [Minecraft](CUSA00744/) | CUSA00744 |
+| [NARUTO STORM 4 ROAD TO BORUTO](CUSA06381/) | CUSA06381 |
 | [NEO: The World Ends with You](CUSA26377/) | CUSA26377 |
 | [Need for Speed Heat](CUSA15090/) | CUSA15090 |
 | [New Super Luckys Tale](CUSA20302/) | CUSA20302 |
@@ -71,6 +75,7 @@ has_toc: false
 | [Persona 5 Strikers](CUSA19640/) | CUSA19640 |
 | [Ratchet & Clank](CUSA01073/) | CUSA01073 |
 | [Red Dead Redemption 2](CUSA08519/) | CUSA08519 |
+| [Resident Evil 4 REMAKE](CUSA33388/) | CUSA33388 |
 | [Saints Row Reboot](CUSA26457/) | CUSA26457 |
 | [Saints Row Reboot](CUSA26458/) | CUSA26458 |
 | [SCARLET NEXUS](CUSA25132/) | CUSA25132 |
@@ -81,6 +86,7 @@ has_toc: false
 | [Star Wars Jedi: Fallen Order](CUSA12529/) | CUSA12529 |
 | [Thief](CUSA00250/) | CUSA00250 |
 | [WARRIORS OROCHI 4](CUSA12641/) | CUSA12641 |
+| [WWE 2K23](CUSA34179/) | CUSA34179 |
 | [Yakuza: Like a Dragon](CUSA16734/) | CUSA16734 |
 | [YS IX Monstrum NOX](CUSA20414/) | CUSA20414 |
 | [YS VIII Lacrimosa of Dana](CUSA08570/) | CUSA08570 |
