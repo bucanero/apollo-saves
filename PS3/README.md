@@ -24,6 +24,7 @@ has_toc: false
 | [Altered Beast](NPUB30459/) | NPUB30459 |
 | [Army of Two: The 40th Day](BLUS30408/) | BLUS30408 |
 | [Army of Two: The Devil's Cartel](BLUS31069/) | BLUS31069 |
+| [ARSLAN: THE WARRIORS OF LEGEND](NPUB31797/) | NPUB31797 |
 | [Assassin's Creed III](BLES01667/) | BLES01667 |
 | [ASURA'S WRATH](BLUS30721/) | BLUS30721 |
 | [Atelier Ayesha - The Alchemist Of Dusk](NPUB31115/) | NPUB31115 |
@@ -120,6 +121,7 @@ has_toc: false
 | [Dragons Dogma](BLUS30720/) | BLUS30720 |
 | [Dragons Dogma - Dark Arisen](BLES01794/) | BLES01794 |
 | [Drakengard 3](NPUB31251/) | NPUB31251 |
+| [Driver San Francisco](BLES00891/) | BLES00891 |
 | [DuckTales: Remastered](NPUB31126/) | NPUB31126 |
 | [Duke Nukem 3D Megaton Edition](NPUB31378/) | NPUB31378 |
 | [Dungeon Siege 3](BLES01161/) | BLES01161 |
@@ -263,6 +265,7 @@ has_toc: false
 | [Ratchet & Clank](NPUA80643/) | NPUA80643 |
 | [Ratchet & Clank - All 4 One](NPEA00356/) | NPEA00356 |
 | [Ratchet & Clank: Going Commando](NPEA00386/) | NPEA00386 |
+| [Ratchet & Clank: Up Your Arsenal](NPEA00387/) | NPEA00387 |
 | [Rayman® Origins](BLES01386/) | BLES01386 |
 | [Record Of Agarest War 2](BLUS30881/) | BLUS30881 |
 | [Red Dead Redemption](BLES00680/) | BLES00680 |
