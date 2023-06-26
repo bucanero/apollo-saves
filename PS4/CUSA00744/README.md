@@ -11,3 +11,4 @@ permalink: PS4/CUSA00744/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![Minecraft](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Trophy World 1.0 By Echo Stretch (2.35) |
+| ![Minecraft](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Trophy World 2.4 By Echo Stretch (2.66) |
