@@ -112,6 +112,8 @@ has_toc: false
 | [Doom 3 BFG Edition](BLUS31024/) | BLUS31024 |
 | [Dragon Age™: Inquisition](BLUS30997/) | BLUS30997 |
 | [Dragon Ball Xenoverse](NPUB31619/) | NPUB31619 |
+| [Dragon Ball: Raging Blast](BLES00693/) | BLES00693 |
+| [Dragon Ball: Raging Blast 2](BLES00978/) | BLES00978 |
 | [Dragon Ball Z: Battle of Z](NPUB31322/) | NPUB31322 |
 | [Dragon Ball Z: Ultimate Tenkaichi](BLES01401/) | BLES01401 |
 | [Dragon Ball Z: Ultimate Tenkaichi](BLUS30823/) | BLUS30823 |
@@ -131,9 +133,11 @@ has_toc: false
 | [Far Cry 2](BLUS30178/) | BLUS30178 |
 | [Far Cry 3](BLES01138/) | BLES01138 |
 | [Far Cry 3](NPEB01096/) | NPEB01096 |
+| [Far Cry 3](NPUB30825/) | NPUB30825 |
 | [Farming Simulator 15](BLES02108/) | BLES02108 |
 | [Fat Princess](NPEA00111/) | NPEA00111 |
 | [Fat Princess](NPUA80139/) | NPUA80139 |
+| [FIFA Street 3](BLES00188/) | BLES00188 |
 | [FINAL FANTASY X & X-2 HD Remaster](BLES01880/) | BLES01880 |
 | [FINAL FANTASY X & X-2 HD Remaster](BLUS31211/) | BLUS31211 |
 | [Final Fantasy XIII](MRTC00003/) | MRTC00003 |
@@ -153,7 +157,10 @@ has_toc: false
 | [Gran Turismo 5 Prologue](BCES00104/) | BCES00104 |
 | [Gran Turismo 6](BCJS37016/) | BCJS37016 |
 | [Gran Turismo HD Concept](NPEA90002/) | NPEA90002 |
+| [Grand Theft Auto IV](BLUS30127/) | BLUS30127 |
 | [Grand Theft Auto V](BLUS31156/) | BLUS31156 |
+| [Grand Theft Auto V](BLES01807/) | BLES01807 |
+| [Grand Theft Auto: San Andreas](BLUS31584/) | BLUS31584 |
 | [Grand Theft Auto: San Andreas](NPEB02369/) | NPEB02369 |
 | [Green Lantern - Rise of the Manhunters](BLES01116/) | BLES01116 |
 | [Green Lantern - Rise of the Manhunters](BLUS30674/) | BLUS30674 |
