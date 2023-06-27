@@ -266,6 +266,7 @@ has_toc: false
 | [Ratchet & Clank](NPUA80643/) | NPUA80643 |
 | [Ratchet & Clank - All 4 One](NPEA00356/) | NPEA00356 |
 | [Ratchet & Clank: Going Commando](NPEA00386/) | NPEA00386 |
+| [Ratchet & Clank: Tools of destruction](BCES00052/) | BCES00052 |
 | [Ratchet & Clank: Up Your Arsenal](NPEA00387/) | NPEA00387 |
 | [Rayman® Origins](BLES01386/) | BLES01386 |
 | [Record Of Agarest War 2](BLUS30881/) | BLUS30881 |
@@ -283,6 +284,7 @@ has_toc: false
 | [RESIDENT EVIL THE DARKSIDE CHRONICLES](NPUB30648/) | NPUB30648 |
 | [RESIDENT EVIL THE UMBRELLA CHRONICLES](NPUB30650/) | NPUB30650 |
 | [RESIDENT EVIL™ Operation Raccoon City](BLUS30750/) | BLUS30750 |
+| [Resistance 2™](BCES00226/) | BCES00226 |
 | [Resistance 3](BCES01118/) | BCES01118 |
 | [Resistance 3](BCUS98176/) | BCUS98176 |
 | [RIDGE RACER 7](BLJS10001/) | BLJS10001 |
@@ -333,10 +335,12 @@ has_toc: false
 | [Uncharted 2: Among Thieves™](BCUS98123/) | BCUS98123 |
 | [Uncharted 3: Drake's Deception™](BCUS98233/) | BCUS98233 |
 | [Uncharted: Drake's Fortune™](BCUS98103/) | BCUS98103 |
+| [Uncharted: Drake's Fortune™](BCES00065/) | BCES00065 |
 | [Under Defeat HD](BLUS31077/) | BLUS31077 |
 | [Valiant Hearts: The Great War](NPEB01909/) | NPEB01909 |
 | [Way Of The Samurai 4](BLES01682/) | BLES01682 |
 | [Wet](BLES00707/) | BLES00707 |
+| [White Knight Chronicles™](BCES00225/) | BCES00225 |
 | [White Knight Chronicles II](BCES01085/) | BCES01085 |
 | [WipEout® HD](NPEA00057/) | NPEA00057 |
 | [X-COM - Enemy Unknown](BLES01711/) | BLES01711 |

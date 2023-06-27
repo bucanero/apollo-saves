@@ -1,0 +1,2 @@
+00000001.zip=game completed, new game plus, best armor and equipment unlocked
+00000002.zip=new game plus, seetings options, try to use it with current profile data
