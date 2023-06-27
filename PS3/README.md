@@ -261,6 +261,7 @@ has_toc: false
 | [Pirates of the Caribbean At World's End](BLUS30029/) | BLUS30029 |
 | [PlayStation All Stars - Battle Royale](BCES01435/) | BCES01435 |
 | [Racket Sports](BLES01000/) | BLES01000 |
+| [Ragnarok Odyssey ACE](NPUB31406/) | NPUB31406 |
 | [Rapala Pro Bass Fishing](BLES00957/) | BLES00957 |
 | [Ratchet & Clank](NPUA80643/) | NPUA80643 |
 | [Ratchet & Clank - All 4 One](NPEA00356/) | NPEA00356 |
@@ -317,6 +318,7 @@ has_toc: false
 | [Terminator Salvation](BLES00537/) | BLES00537 |
 | [The Elder Scrolls V: Skyrim](BLES01329/) | BLES01329 |
 | [The Elder Scrolls V: Skyrim](BLUS30778/) | BLUS30778 |
+| [The Evil Within](NPUB31392/) | NPUB31392 |
 | [The ICO & Shadow of the Colossus Collection](BCES01097/) | BCES01097 |
 | [The Last of Us](BCUS98174/) | BCUS98174 |
 | [The Last Of Us](BCES01585/) | BCES01585 |

@@ -1,0 +1,2 @@
+00000001.zip=system data from 100% completed savegame
+00000002.zip=100% completed savegame, all missions unlocked, good equipment adquired
