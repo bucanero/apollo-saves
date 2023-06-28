@@ -76,7 +76,6 @@ PCSE00661=Hyperdimension Neptunia ReBirth3: V Generation
 PCSE00588=Hyperdimension Neptunia U: Action Unleashed
 PCSE00400=HYPERDIMENSION NEPTUNIA: PRODUCING PERFECTION
 PCSG00355=IA/VT Colorful
-PCSE00271=Injustice: Gods Among Us Ultimate Edition
 PCSE00595=J-STARS Victory VS+
 PCSG00675=Kamen Rider: Battride War Sousei
 PCSG00684=Kan Colle Kai

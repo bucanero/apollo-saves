@@ -87,7 +87,6 @@ has_toc: false
 | [Hyperdimension Neptunia U: Action Unleashed](PCSE00588/) | PCSE00588 |
 | [HYPERDIMENSION NEPTUNIA: PRODUCING PERFECTION](PCSE00400/) | PCSE00400 |
 | [IA/VT Colorful](PCSG00355/) | PCSG00355 |
-| [Injustice: Gods Among Us Ultimate Edition](PCSE00271/) | PCSE00271 |
 | [J-STARS Victory VS+](PCSE00595/) | PCSE00595 |
 | [Kamen Rider: Battride War Sousei](PCSG00675/) | PCSG00675 |
 | [Kan Colle Kai](PCSG00684/) | PCSG00684 |
