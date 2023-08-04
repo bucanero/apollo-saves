@@ -24,6 +24,7 @@ has_toc: false
 | [CRYSTAR](CUSA15175/) | CUSA15175 |
 | [Dark Thrones](CUSA27656/) | CUSA27656 |
 | [Days Gone](CUSA08966/) | CUSA08966 |
+| [Dead Or Alive 6](CUSA12153/) | CUSA12153 |
 | [Digimon Survive](CUSA18242/) | CUSA18242 |
 | [Digimon Survive](CUSA18223/) | CUSA18223 |
 | [Disciples Liberation](CUSA19493/) | CUSA19493 |

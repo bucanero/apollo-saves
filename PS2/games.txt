@@ -1,7 +1,8 @@
-SCUS97328=Gran Turismo 4
-SLUS20949=Street Fighter Anniversary Collection
-SCES50294=Gran Turismo 3: A-Spec
-SCES53372=Tourist Trophy
-SCES55573=MotorStorm: Arctic Edge
 SLES52585=Burnout 3: Takedown
 SLES53976=Corvette Evolution GT
+SCES50294=Gran Turismo 3: A-Spec
+SCUS97328=Gran Turismo 4
+SCES55573=MotorStorm: Arctic Edge
+SLUS20949=Street Fighter Anniversary Collection
+SLES51897=The Simpsons Hit & Run
+SCES53372=Tourist Trophy
