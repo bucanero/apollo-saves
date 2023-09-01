@@ -1,5 +1,6 @@
 CUSA10812=A Plague Tale
 CUSA24653=Alan Wake
+CUSA09303=Assassin's Creed® Odyssey
 CUSA05625=Assassin's Creed: Origins
 CUSA13367=Asterix & Obelix XXL 2 - Roman Rumble in Las Vegum
 CUSA00135=Batman: Arkham Knight
