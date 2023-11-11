@@ -1,0 +1,2 @@
+00017366.zip=all memory blocks completed saved after credits no penalty when replaying all assassin flags collected.
+00018361.zip=100% complete - All Flags, templars, memories collected, saved after credits.

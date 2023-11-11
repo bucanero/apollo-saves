@@ -25,6 +25,9 @@ has_toc: false
 | [Army of Two: The 40th Day](BLUS30408/) | BLUS30408 |
 | [Army of Two: The Devil's Cartel](BLUS31069/) | BLUS31069 |
 | [ARSLAN: THE WARRIORS OF LEGEND](NPUB31797/) | NPUB31797 |
+| [Assassin's Creed](BLES00158/) | BLES00158 |
+| [Assassin's Creed](BLUS30089/) | BLUS30089 |
+| [Assassin's Creed II](BLUS30364/) | BLUS30364 |
 | [Assassin's Creed III](BLES01667/) | BLES01667 |
 | [ASURA'S WRATH](BLUS30721/) | BLUS30721 |
 | [Atelier Ayesha - The Alchemist Of Dusk](NPUB31115/) | NPUB31115 |
@@ -65,6 +68,7 @@ has_toc: false
 | [Castlevania Lords of Shadow 2](BLUS30999/) | BLUS30999 |
 | [Castlevania Lords of Shadow™](BLES01047/) | BLES01047 |
 | [Castlevania Lords of Shadow™](BLUS30339/) | BLUS30339 |
+| [Castlevania Lords of Shadow: Mirror of Fate](NPEB01441/) | NPEB01441 |
 | [Catherine](BLUS30428/) | BLUS30428 |
 | [Catherine](BLES01459/) | BLES01459 |
 | [Crazy Taxi](NPEB00303/) | NPEB00303 |

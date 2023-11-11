@@ -1,0 +1,2 @@
+00018058.zip=game beaten, flags and templars not all killed and collected, eagle vision usable without full synchronosation and innocents can be killed without penalty
+00016439.zip=Saved after the credits, 100% Complete. All objectives cleared, all flags obtained and all Templars killed. Full access to replay the game with no innocent killing limit.

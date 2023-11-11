@@ -437,7 +437,6 @@ has_toc: false
 | [Pursuit Force](UCUS98640/) | UCUS98640 |
 | [Pump It Up: Exceed Portable](ULKS46146/) | ULKS46146 |
 | [Pump It Up: Exceed Portable](ULKS46042/) | ULKS46042 |
-| [Pro Evolution Soccer 5](ULES00160/) | ULES00160 |
 | [Pro Evolution Soccer 2013](ULES01575/) | ULES01575 |
 | [Pro Evolution Soccer 2012](ULES01540/) | ULES01540 |
 | [Pro Evolution Soccer 2011](ULES01467/) | ULES01467 |
@@ -492,3 +491,4 @@ has_toc: false
 | [Shaun White Snowboarding](ULUS10399/) | ULUS10399 |
 | [Sengoku Ace Episode III](ULJM05021/) | ULJM05021 |
 | [SpongeBob Squarepants: The Yellow Avenger](ULES00280/) | ULES00280 |
+| [Monster Hunter Portable 3rd](ULJM05800/) | ULJM05800 |

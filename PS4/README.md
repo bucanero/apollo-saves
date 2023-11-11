@@ -32,6 +32,7 @@ has_toc: false
 | [Disciples Liberation](CUSA19521/) | CUSA19521 |
 | [DJMAX RESPECT](CUSA08621/) | CUSA08621 |
 | [Doraemon - Story of Seasons](CUSA18501/) | CUSA18501 |
+| [Dragon Age: Inquisition](CUSA00220/) | CUSA00220 |
 | [DRAGON BALL Z: KAKAROT](CUSA14655/) | CUSA14655 |
 | [DYNASTY WARRIORS 9](CUSA10421/) | CUSA10421 |
 | [FIFA 22](CUSA27109/) | CUSA27109 |
