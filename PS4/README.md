@@ -11,6 +11,7 @@ has_toc: false
 |------|----------|
 | [A Plague Tale](CUSA10812/) | CUSA10812 |
 | [Alan Wake](CUSA24653/) | CUSA24653 |
+| [Assassin's Creed® Mirage](CUSA33151/) | CUSA33151 |
 | [Assassin's Creed® Odyssey](CUSA09303/) | CUSA09303 |
 | [Assassin's Creed: Origins](CUSA05625/) | CUSA05625 |
 | [Asterix & Obelix XXL 2 - Roman Rumble in Las Vegum](CUSA13367/) | CUSA13367 |

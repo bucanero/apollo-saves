@@ -1,0 +1,3 @@
+00000001.zip=Game completed, 51% of challenges (options)
+00000002.zip=Game completed, 51% of challenges (autosave)
+00000003.zip=Game completed, 51% of challenges (manual save)

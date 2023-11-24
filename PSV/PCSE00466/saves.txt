@@ -1,1 +1,2 @@
 00000001.zip=Game finished, ready for new game +. 
+00000466.zip=Game Completed (NG+ Unlocked)

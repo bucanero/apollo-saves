@@ -17,8 +17,15 @@ has_toc: false
 | [Ar nosurge Plus: Ode to an Unborn Star](PCSE00707/) | PCSE00707 |
 | [Asphalt: Injection](PCSB00040/) | PCSB00040 |
 | [Assassin's Creed® III Liberation](PCSB00074/) | PCSB00074 |
+| [Atelier Ayesha Plus](PCSE00584/) | PCSE00584 |
 | [Atelier Escha & Logy Plus ~Alchemists of the Dusk Sky~](PCSE00826/) | PCSE00826 |
+| [Atelier Firis](PCSE01044/) | PCSE01044 |
+| [Atelier Lydie & Suelle](PCSG01116/) | PCSG01116 |
+| [Atelier Meruru Plus](PCSE00296/) | PCSE00296 |
 | [Atelier Rorona Plus: The Alchemist of Arland](PCSE00466/) | PCSE00466 |
+| [Atelier Shallie Plus: Alchemists of the Dusk Sea](PCSE00998/) | PCSE00998 |
+| [Atelier Sophie](PCSE00892/) | PCSE00892 |
+| [Atelier Totori Plus](PCSE00231/) | PCSE00231 |
 | [Attack on Titan](PCSE00812/) | PCSE00812 |
 | [Axiom Verge](PCSB00779/) | PCSB00779 |
 | [Axiom Verge](PCSE00651/) | PCSE00651 |

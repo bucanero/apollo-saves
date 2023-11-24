@@ -11,8 +11,10 @@
 ## Introduction
 
 The online save database project is part of [Apollo Save Tool](https://github.com/bucanero/apollo-ps3):
+ - [PlayStation 2](https://github.com/bucanero/apollo-ps2) version
  - [PlayStation 3](https://github.com/bucanero/apollo-ps3) version
  - [PlayStation 4](https://github.com/bucanero/apollo-ps4) version
+ - [PlayStation Portable](https://github.com/bucanero/apollo-psp) version
  - [PlayStation Vita](https://github.com/bucanero/apollo-vita) version
 
 #### Contents:
@@ -68,39 +70,11 @@ The database structure is simple:
 **Note:** if the explanation is a bit confusing, please [browse the database](https://github.com/bucanero/apollo-saves/) and it should be self-explanatory.
 
 
-### Exporting a save manually
-
-To start, I'll assume you already have your saves copied to your computer (if not, just try to copy the files with the XMB browser to USB, or download it via FTP). I'll do an example with a _Yakuza 4_ save (`BLES01081`)
-
-once I have my save copied to USB, I should have a folder:
-`\PS3\SAVEDATA\BLES01081L03`
-
-I need to create a `.zip` file, with only the `BLES01081L03/` folder inside. (don't use the full path)
-For this example, I'll use `12345678.zip` as the filename.
-
-There are many ways to create a zip file, on Windows you can use a tool like WinZip, [7-zip](http://www.7-zip.org/), [WinRar](http://www.rarlab.com/), etc. As an example, a command line way using Info-Zip:
-```bash
-zip -r 12345678.zip BLES01081L03/
-```
-
-If I check the compressed `12345678.zip` file, I would see something like:
-```
-unzip -t 12345678.zip 
-Archive:  12345678.zip
-    testing: BLES01081L03/            OK
-    testing: BLES01081L03/USER01      OK
-    testing: BLES01081L03/PARAM.PFD   OK
-    testing: BLES01081L03/ICON0.PNG   OK
-    testing: BLES01081L03/PIC1.PNG    OK
-    testing: BLES01081L03/PARAM.SFO   OK
-No errors detected in compressed data of 12345678.zip.
-```
-
 ### Uploading a save by pull request
 
 If you're an advanced GitHub user, you can also:
  - Fork the project https://github.com/bucanero/apollo-saves
- - Add the `12345678.zip` to the `BLES00000` folder
+ - Add your save `12345678.zip` to the `BLES00000` folder
  - Edit `saves.txt` in the folder, adding `12345678.zip` with a short description
  - Submit the changes with a Pull Request
  - Then I'll merge the changes and the saves will be available to every user.
@@ -108,7 +82,7 @@ If you're an advanced GitHub user, you can also:
 ## License
 
 
-[Apollo Save Tool](https://github.com/bucanero/apollo-saves/) Online Database - Copyright (C) 2020-2022  [Damian Parrino](https://twitter.com/dparrino)
+[Apollo Save Tool](https://github.com/bucanero/apollo-saves/) Online Database - Copyright (C) 2020-2023 [Damian Parrino](https://twitter.com/dparrino)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the [GNU General Public License][app_license] as published by
