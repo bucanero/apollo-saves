@@ -71,6 +71,7 @@ has_toc: false
 | [Castlevania Lords of Shadow: Mirror of Fate](NPEB01441/) | NPEB01441 |
 | [Catherine](BLUS30428/) | BLUS30428 |
 | [Catherine](BLES01459/) | BLES01459 |
+| [Condemned 2: Bloodshot](BLUS30115/) | BLUS30115 |
 | [Crazy Taxi](NPEB00303/) | NPEB00303 |
 | [Cross Edge](BLUS30348/) | BLUS30348 |
 | [Crysis HD](NPUB30302/) | NPUB30302 |
