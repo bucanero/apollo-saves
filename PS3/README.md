@@ -150,6 +150,7 @@ has_toc: false
 | [Final Fantasy XIII](MRTC00003/) | MRTC00003 |
 | [FINAL FANTASY XIII-2](BLES01269/) | BLES01269 |
 | [FINAL FANTASY XIII-2](BLUS30776/) | BLUS30776 |
+| [Fist of the North Star: Ken's Rage 2](BLES01801/) | BLES01801 |
 | [Fuse™](BLES01724/) | BLES01724 |
 | [God of War® III](BCES00510/) | BCES00510 |
 | [God Of War - Ascension](BCUS98232/) | BCUS98232 |

@@ -129,9 +129,11 @@ has_toc: false
 | [One Piece Burning Blood](PCSB00893/) | PCSB00893 |
 | [One Piece Pirate Warriors 3](PCSB00717/) | PCSB00717 |
 | [One Piece: Pirate Warriors 3](PCSE00638/) | PCSE00638 |
+| [Persona 3: Dancing In Moonlight](PCSE01274/) | PCSE01274 |
 | [Persona 4 Golden](PCSB00245/) | PCSB00245 |
 | [Persona 4: Dancing All Night](PCSE00764/) | PCSE00764 |
 | [Persona®4 Golden™](PCSE00120/) | PCSE00120 |
+| [Persona 5: Dancing In Starlight](PCSE01275/) | PCSE01275 |
 | [PixelJunk™ Shooter Ultimate](PCSE00451/) | PCSE00451 |
 | [Plastic Memories](PCSG00931/) | PCSG00931 |
 | [Punch Line](PCSB01259/) | PCSB01259 |

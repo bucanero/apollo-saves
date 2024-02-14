@@ -1,0 +1,2 @@
+00000001.zip=Trophy unlock #1. Play the "Legend" mode by selecting chapters to unlock the related trophies.
+00000002.zip=Trophy unlock #2. Go to "Dream" mode and select Toki, go to "Scrolls," remove any one of them and reequip it to unlock the "Ultimate Nexus Master" trophy.
