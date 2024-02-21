@@ -132,6 +132,7 @@ has_toc: false
 | [Kenka Banchou Bros. Tokyo Battle Royale](ULJS00517/) | ULJS00517 |
 | [Kinnikuman Muscle Generations](ULJS00046/) | ULJS00046 |
 | [Legacy of Ys: Books I & II](ULJM05474/) | ULJM05474 |
+| [Monster Hunter Freedom Unite](ULUS10391/) | ULUS10391 |
 | [Monster Hunter Portable 3rd](ULJM05800/) | ULJM05800 |
 | [N+ US ](ULUS10340/) | ULUS10340 |
 | [Need for Speed Shift ](ULUS10462/) | ULUS10462 |

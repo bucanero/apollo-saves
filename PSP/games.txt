@@ -121,6 +121,7 @@ ULJS00157=Katekyoo Hitman Reborn! Battle Arena
 ULJS00517=Kenka Banchou Bros. Tokyo Battle Royale
 ULJS00046=Kinnikuman Muscle Generations
 ULJM05474=Legacy of Ys: Books I & II
+ULUS10391=Monster Hunter Freedom Unite
 ULJM05800=Monster Hunter Portable 3rd
 ULUS10340=N+ US 
 ULUS10462=Need for Speed Shift 
