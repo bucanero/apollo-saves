@@ -21,6 +21,7 @@ has_toc: false
 | [50 Cent: Bulletproof G Unit Edition](ULUS10128/) | ULUS10128 |
 | [77: Beyond the Milky Way ](ULJM05877/) | ULJM05877 |
 | [7th Dragon 2020](NPJH50459/) | NPJH50459 |
+| [7th Dragon 2020-II](NPJH50716/) | NPJH50716 |
 | [A Space Shooter for 2 Buck](NPUZ00190/) | NPUZ00190 |
 | [Abunai: Koi no Sousa Shitsu](ULJM06050/) | ULJM06050 |
 | [Ace Combat X Skies of Deception](ULUS10176/) | ULUS10176 |
@@ -56,7 +57,6 @@ has_toc: false
 | [Boku no Natsuyasumi Portable: Mushi Mushi Hakase to Teppen-yama no Himitsu!!](UCJS10038/) | UCJS10038 |
 | [Brave Story: New Traveler](UCJS10024/) | UCJS10024 |
 | [Brave Story: New Traveler](ULUS10279/) | ULUS10279 |
-| [C&C 4 Tiberium Twilight](NPJH50716/) | NPJH50716 |
 | [Chikyuu Boueigun 2 Portable](ULJS00374/) | ULJS00374 |
 | [Cladun](NPUH10072/) | NPUH10072 |
 | [ClaDun x2 ](NPUH10114/) | NPUH10114 |

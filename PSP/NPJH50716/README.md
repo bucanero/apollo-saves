@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "C&C 4 Tiberium Twilight"
+title: "7th Dragon 2020-II"
 parent: PSP Saves
 permalink: PSP/NPJH50716/
 ---
-# C&C 4 Tiberium Twilight
+# 7th Dragon 2020-II
 
 ## PSP Saves - NPJH50716
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![C&C 4 Tiberium Twilight](ICON0.PNG) | [00000125.zip](00000125.zip){: .btn .btn-purple } | The game passed by 100% |
+| ![7th Dragon 2020-II](ICON0.PNG) | [00000125.zip](00000125.zip){: .btn .btn-purple } | The game passed by 100% |

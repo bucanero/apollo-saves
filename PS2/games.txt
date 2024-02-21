@@ -3,6 +3,7 @@ SLES53976=Corvette Evolution GT
 SCES50294=Gran Turismo 3: A-Spec
 SCUS97328=Gran Turismo 4
 SCES55573=MotorStorm: Arctic Edge
+SLUS21621=Shin Megami Tensei: Persona 3 FES
 SLUS20949=Street Fighter Anniversary Collection
 SLES51897=The Simpsons Hit & Run
 SCES53372=Tourist Trophy
