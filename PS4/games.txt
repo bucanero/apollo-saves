@@ -16,6 +16,7 @@ CUSA15175=CRYSTAR
 CUSA27656=Dark Thrones
 CUSA08966=Days Gone
 CUSA12153=Dead Or Alive 6
+CUSA18937=Diablo® II: Resurrected™
 CUSA18242=Digimon Survive
 CUSA18223=Digimon Survive
 CUSA19493=Disciples Liberation

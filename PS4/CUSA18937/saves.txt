@@ -1,0 +1,5 @@
+00000001.zip=Storage-runes/gems
+00000002.zip=kk-lvl 40 lightning sorceress
+00000003.zip=datboi-lvl 30 barbarian
+00000004.zip=Boots-lvl 88 paladin-already beaten hell
+00000005.zip=assassassin-lvl 15 assassin
