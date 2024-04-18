@@ -19,7 +19,7 @@ has_toc: false
 | [5-in-1 Solitaire](NPUZ00086/) | NPUZ00086 |
 | [50 Cent: Bulletproof G Unit Edition](ULES00451/) | ULES00451 |
 | [50 Cent: Bulletproof G Unit Edition](ULUS10128/) | ULUS10128 |
-| [77: Beyond the Milky Way ](ULJM05877/) | ULJM05877 |
+| [77: Beyond the Milky Way](ULJM05877/) | ULJM05877 |
 | [7th Dragon 2020](NPJH50459/) | NPJH50459 |
 | [7th Dragon 2020-II](NPJH50716/) | NPJH50716 |
 | [A Space Shooter for 2 Buck](NPUZ00190/) | NPUZ00190 |
@@ -59,53 +59,53 @@ has_toc: false
 | [Brave Story: New Traveler](ULUS10279/) | ULUS10279 |
 | [Chikyuu Boueigun 2 Portable](ULJS00374/) | ULJS00374 |
 | [Cladun](NPUH10072/) | NPUH10072 |
-| [ClaDun x2 ](NPUH10114/) | NPUH10114 |
-| [Clover no Kuni no Alice ](ULJM05856/) | ULJM05856 |
-| [Coconut Dodge ](NPEZ00164/) | NPEZ00164 |
-| [Cohort Chess ](NPUZ00250/) | NPUZ00250 |
-| [Conception: Ore no Kodomo o Unde Kure!! ](NPJH50583/) | NPJH50583 |
+| [ClaDun x2](NPUH10114/) | NPUH10114 |
+| [Clover no Kuni no Alice](ULJM05856/) | ULJM05856 |
+| [Coconut Dodge](NPEZ00164/) | NPEZ00164 |
+| [Cohort Chess](NPUZ00250/) | NPUZ00250 |
+| [Conception: Ore no Kodomo o Unde Kure!!](NPJH50583/) | NPJH50583 |
 | [Corpse Party: The Anthology - Sachiko no Renai Yuugi - Hysteric Birthday 2](ULJM06114/) | ULJM06114 |
 | [Crazy Taxi: Fare Wars](ULUS10273/) | ULUS10273 |
-| [Crime Spree ](NPEZ00136/) | NPEZ00136 |
-| [Crimson Empire: Circumstances to Serve a Noble ](ULJM05932/) | ULJM05932 |
+| [Crime Spree](NPEZ00136/) | NPEZ00136 |
+| [Crimson Empire: Circumstances to Serve a Noble](ULJM05932/) | ULJM05932 |
 | [Crisis Core Final Fantasy VII](ULUS10336/) | ULUS10336 |
-| [D-Cube Planet ](NPEZ00008/) | NPEZ00008 |
-| [Daiya no Kuni no Alice: Wonderful Wonder World ](ULJM06216/) | ULJM06216 |
-| [Danball Senki ](ULJS00361/) | ULJS00361 |
-| [Danball Senki Boost ](ULJM05990/) | ULJM05990 |
-| [Dariusburst ](NPJH50053/) | NPJH50053 |
-| [Dave Mirra BMX Challenge ](ULUS10204/) | ULUS10204 |
-| [Death Jr. ](ULUS10027/) | ULUS10027 |
-| [Deflector ](NPUZ00040/) | NPUZ00040 |
-| [Densha de Go! Pocket Toukaidousen Hen ](ULJM05152/) | ULJM05152 |
-| [Densha de Go! Pocket: Osaka Kanjousen Hen ](ULJM05120/) | ULJM05120 |
-| [Derby Time ](UCJS10006/) | UCJS10006 |
-| [Desi Adda: Games of India ](UCES01279/) | UCES01279 |
-| [Digi-Tiles ](NPUX80407/) | NPUX80407 |
+| [D-Cube Planet](NPEZ00008/) | NPEZ00008 |
+| [Daiya no Kuni no Alice: Wonderful Wonder World](ULJM06216/) | ULJM06216 |
+| [Danball Senki](ULJS00361/) | ULJS00361 |
+| [Danball Senki Boost](ULJM05990/) | ULJM05990 |
+| [Dariusburst](NPJH50053/) | NPJH50053 |
+| [Dave Mirra BMX Challenge](ULUS10204/) | ULUS10204 |
+| [Death Jr.](ULUS10027/) | ULUS10027 |
+| [Deflector](NPUZ00040/) | NPUZ00040 |
+| [Densha de Go! Pocket Toukaidousen Hen](ULJM05152/) | ULJM05152 |
+| [Densha de Go! Pocket: Osaka Kanjousen Hen](ULJM05120/) | ULJM05120 |
+| [Derby Time](UCJS10006/) | UCJS10006 |
+| [Desi Adda: Games of India](UCES01279/) | UCES01279 |
+| [Digi-Tiles](NPUX80407/) | NPUX80407 |
 | [Dissidia 012 Final Fantasy](ULUS10566/) | ULUS10566 |
-| [Doodle Fit ](NPEZ00391/) | NPEZ00391 |
-| [Doodle Pool ](NPEZ00342/) | NPEZ00342 |
-| [Double Cast ](UCJS10012/) | UCJS10012 |
-| [Dr. MiniGames ](NPUZ00201/) | NPUZ00201 |
+| [Doodle Fit](NPEZ00391/) | NPEZ00391 |
+| [Doodle Pool](NPEZ00342/) | NPEZ00342 |
+| [Double Cast](UCJS10012/) | UCJS10012 |
+| [Dr. MiniGames](NPUZ00201/) | NPUZ00201 |
 | [Dragon Ball Z - Shin Budokai](ULUS10081/) | ULUS10081 |
 | [Dragon Ball Z: Shin Budokai - Another Road](ULES00789/) | ULES00789 |
 | [Dragon Ball Z: Shin Budokai - Another Road](ULJS00107/) | ULJS00107 |
-| [Dragon Ball Z: Shin Budokai - Another Road ](ULUS10234/) | ULUS10234 |
-| [Dragon Dance ](ULJM05407/) | ULJM05407 |
-| [Dream C Club Portable ](ULJS00333/) | ULJS00333 |
-| [DreamWorks Megamind: The Blue Defender ](ULUS10520/) | ULUS10520 |
+| [Dragon Ball Z: Shin Budokai - Another Road](ULUS10234/) | ULUS10234 |
+| [Dragon Dance](ULJM05407/) | ULJM05407 |
+| [Dream C Club Portable](ULJS00333/) | ULJS00333 |
+| [DreamWorks Megamind: The Blue Defender](ULUS10520/) | ULUS10520 |
 | [DreamWorks Shrek the Third](ULUS10248/) | ULUS10248 |
 | [Duael Invaders](NPUZ00212/) | NPUZ00212 |
 | [Dungeon Siege: Throne of Agony Allister](UCJS10110/) | UCJS10110 |
 | [Dungeon Siege: Throne of Agony Allister](ULUS10177/) | ULUS10177 |
-| [Dungeons & Dragons Tactics ](ULUS10232/) | ULUS10232 |
+| [Dungeons & Dragons Tactics](ULUS10232/) | ULUS10232 |
 | [Dynogems](NPEZ00117/) | NPEZ00117 |
 | [Enigmo](NPUZ00197/) | NPUZ00197 |
-| [Everybody's Tennis ](UCES01420/) | UCES01420 |
+| [Everybody's Tennis](UCES01420/) | UCES01420 |
 | [Family Games: Pen & Paper Edition](NPUZ00180/) | NPUZ00180 |
 | [Farm Frenzy 2](NPEZ00416/) | NPEZ00416 |
 | [Farm Frenzy 2: Pizza Party](NPEZ00417/) | NPEZ00417 |
-| [Fate/Extra CCC ](NPJH50505/) | NPJH50505 |
+| [Fate/Extra CCC](NPJH50505/) | NPJH50505 |
 | [Final Fantasy II: Anniversary Edition](ULUS10263/) | ULUS10263 |
 | [FlatOut: Head On](ULES00968/) | ULES00968 |
 | [Flick Fishing](NPUZ00044/) | NPUZ00044 |
@@ -114,9 +114,9 @@ has_toc: false
 | [Ford Bold Moves Street Racing](ULUS10159/) | ULUS10159 |
 | [Forest Puzzle](NPUZ00121/) | NPUZ00121 |
 | [Fortix](NPEZ00096/) | NPEZ00096 |
-| [Funky Punch ](NPEZ00004/) | NPEZ00004 |
+| [Funky Punch](NPEZ00004/) | NPEZ00004 |
 | [Generation of Chaos: Pandora's Reflection](NPUH10184/) | NPUH10184 |
-| [Genso Suikoden: Tsumugareshi Hyakunen no Toki ](NPJH50535/) | NPJH50535 |
+| [Genso Suikoden: Tsumugareshi Hyakunen no Toki](NPJH50535/) | NPJH50535 |
 | [Geronimo Stilton: Return to the Kingdom of Fantasy](UCES01563/) | UCES01563 |
 | [Gift: Prism](ULJM06016/) | ULJM06016 |
 | [Gloria Union](ULJM05813/) | ULJM05813 |
@@ -126,16 +126,17 @@ has_toc: false
 | [Hakuouki Portable](ULJM05510/) | ULJM05510 |
 | [Harvest Moon: Hero of Leaf Valley](ULUS10458/) | ULUS10458 |
 | [Ikki Tousen: Eloquent Fist](ULJS00152/) | ULJS00152 |
-| [Katekyoo Hitman Reborn! ](ULJS00218/) | ULJS00218 |
-| [Katekyoo Hitman Reborn! ](NPJH50221/) | NPJH50221 |
+| [Invizimals](UCES01241/) | UCES01241 |
+| [Katekyoo Hitman Reborn!](ULJS00218/) | ULJS00218 |
+| [Katekyoo Hitman Reborn!](NPJH50221/) | NPJH50221 |
 | [Katekyoo Hitman Reborn! Battle Arena](ULJS00157/) | ULJS00157 |
 | [Kenka Banchou Bros. Tokyo Battle Royale](ULJS00517/) | ULJS00517 |
 | [Kinnikuman Muscle Generations](ULJS00046/) | ULJS00046 |
 | [Legacy of Ys: Books I & II](ULJM05474/) | ULJM05474 |
 | [Monster Hunter Freedom Unite](ULUS10391/) | ULUS10391 |
 | [Monster Hunter Portable 3rd](ULJM05800/) | ULJM05800 |
-| [N+ US ](ULUS10340/) | ULUS10340 |
-| [Need for Speed Shift ](ULUS10462/) | ULUS10462 |
+| [N+ US](ULUS10340/) | ULUS10340 |
+| [Need for Speed Shift](ULUS10462/) | ULUS10462 |
 | [Pac-Man World Rally](ULUS10149/) | ULUS10149 |
 | [Pangya Fantasy Golf](ULUS10438/) | ULUS10438 |
 | [PaRappa the Rapper](UCUS98702/) | UCUS98702 |
@@ -362,7 +363,7 @@ has_toc: false
 | [Test Drive Unlimited](ULUS10249/) | ULUS10249 |
 | [Test Drive Unlimited](ULES00637/) | ULES00637 |
 | [Tetris](NPUZ00003/) | NPUZ00003 |
-| [The Akuma Hunters: Exorsister ](ULJS00265/) | ULJS00265 |
+| [The Akuma Hunters: Exorsister](ULJS00265/) | ULJS00265 |
 | [The Sims 2](ULES00211/) | ULES00211 |
 | [The Sims 2](ULUS10031/) | ULUS10031 |
 | [The Sims 2](ULAS42029/) | ULAS42029 |
