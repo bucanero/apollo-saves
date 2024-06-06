@@ -16,6 +16,7 @@ has_toc: false
 | [Assassin's Creed: Origins](CUSA05625/) | CUSA05625 |
 | [Asterix & Obelix XXL 2 - Roman Rumble in Las Vegum](CUSA13367/) | CUSA13367 |
 | [Batman: Arkham Knight](CUSA00135/) | CUSA00135 |
+| [Bloodborne](CUSA00207/) | CUSA00207 |
 | [Borderlands 3](CUSA07823/) | CUSA07823 |
 | [Cars 3: Driven to Win](CUSA07027/) | CUSA07027 |
 | [Catherine Full Body](CUSA14836/) | CUSA14836 |
@@ -24,9 +25,13 @@ has_toc: false
 | [Crash™ Team Racing Nitro-Fueled](CUSA13795/) | CUSA13795 |
 | [Crash™ Team Racing Nitro-Fueled](CUSA14876/) | CUSA14876 |
 | [CRYSTAR](CUSA15175/) | CUSA15175 |
+| [Dark Souls Remastered](CUSA08495/) | CUSA08495 |
 | [Dark Thrones](CUSA27656/) | CUSA27656 |
 | [Days Gone](CUSA08966/) | CUSA08966 |
 | [Dead Or Alive 6](CUSA12153/) | CUSA12153 |
+| [Death Stranding](CUSA11260/) | CUSA11260 |
+| [Diablo® II: Resurrected™](CUSA18937/) | CUSA18937 |
+| [Diablo III: Reaper of Souls – Ultimate Evil Edition](CUSA00242/) | CUSA00242 |
 | [Digimon Survive](CUSA18242/) | CUSA18242 |
 | [Digimon Survive](CUSA18223/) | CUSA18223 |
 | [Disciples Liberation](CUSA19493/) | CUSA19493 |
@@ -75,6 +80,7 @@ has_toc: false
 | [NEO: The World Ends with You](CUSA26377/) | CUSA26377 |
 | [Need for Speed Heat](CUSA15090/) | CUSA15090 |
 | [New Super Luckys Tale](CUSA20302/) | CUSA20302 |
+| [No Man's Sky](CUSA04841/) | CUSA04841 |
 | [ONE PIECE: PIRATE WARRIORS 4](CUSA16648/) | CUSA16648 |
 | [Persona 5 Royal](CUSA17419/) | CUSA17419 |
 | [Persona 5 Strikers](CUSA19640/) | CUSA19640 |
@@ -90,6 +96,7 @@ has_toc: false
 | [Spyro Reignited Trilogy](CUSA12085/) | CUSA12085 |
 | [Star Wars Jedi: Fallen Order](CUSA12529/) | CUSA12529 |
 | [Thief](CUSA00250/) | CUSA00250 |
+| [Tiny Tina's Wonderlands](CUSA23766/) | CUSA23766 |
 | [WARRIORS OROCHI 4](CUSA12641/) | CUSA12641 |
 | [WWE 2K23](CUSA34179/) | CUSA34179 |
 | [Yakuza: Like a Dragon](CUSA16734/) | CUSA16734 |

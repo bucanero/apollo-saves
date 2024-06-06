@@ -246,6 +246,7 @@ has_toc: false
 | [Naruto Shippuden - Ultimate Ninja Storm Generations](BLUS30792/) | BLUS30792 |
 | [Naughty Bear - Panic in Paradise](NPUB30828/) | NPUB30828 |
 | [Need For Speed The Run](BLES01298/) | BLES01298 |
+| [Need for Speed: Carbon](SLUS21493/) | SLUS21493 |
 | [Need for Speed: Rivals](BLUS31201/) | BLUS31201 |
 | [Need for Speed: Undercover](BLES00450/) | BLES00450 |
 | [NeverDead](BLUS30654/) | BLUS30654 |

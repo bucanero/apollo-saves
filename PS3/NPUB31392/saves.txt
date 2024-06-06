@@ -1,3 +1,7 @@
 00000001.zip=system data from 100% completed savegame
 00000002.zip=100% completed savegame, all weapons and skills fully upgraded
 00000003.zip=autosave from 100% completed savegame
+00000004.zip=The Consequence (DLC) - all collectibles, completed in kurayami mode
+00000005.zip=The Assignment (DLC) - all collectibles, completed in kurayami mode
+00000006.zip=The Executioner (DLC) - Game completed 100%
+00000007.zip=Completed game in akumo, completed in less than five hours, completed without any improvement

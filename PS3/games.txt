@@ -235,6 +235,7 @@ BLUS31066=Naruto Shippuden™ Ultimate Ninja Storm 3 Full Burst
 BLUS30792=Naruto Shippuden - Ultimate Ninja Storm Generations
 NPUB30828=Naughty Bear - Panic in Paradise
 BLES01298=Need For Speed The Run
+SLUS21493=Need for Speed: Carbon
 BLUS31201=Need for Speed: Rivals
 BLES00450=Need for Speed: Undercover
 BLUS30654=NeverDead

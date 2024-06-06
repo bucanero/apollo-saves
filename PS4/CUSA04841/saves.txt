@@ -1,0 +1,2 @@
+00000001.zip=Completed story, unlocked lush galaxy. (PS#1)
+00000002.zip=Modified version of PS#1, big ups to zencq.github.io/NomNom/

@@ -1,0 +1,2 @@
+00000001.zip=Stash and Heroes-Act 4 crusader PLVL60, organic gear/lvls with max money.
+00000002.zip=Stash and Heroes-Heavily modified, big ups to github.com/Tonic-Box/D3Studio
