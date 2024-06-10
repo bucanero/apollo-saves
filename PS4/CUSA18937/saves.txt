@@ -1,5 +1,8 @@
-00000001.zip=Storage-runes/gems
-00000002.zip=kk-lvl 40 lightning sorceress
-00000003.zip=datboi-lvl 30 barbarian
-00000004.zip=Boots-lvl 88 paladin-already beaten hell
-00000005.zip=assassassin-lvl 15 assassin
+00000001.zip=Storage-Druid-runes/gems/modified items
+00000002.zip=kk-Sorceress-All char's are around lvl 80 with end game gear
+00000003.zip=datboi-Barbarian-All char's were modified by FalsePhilosopher
+00000004.zip=Boots-Paladin-Except Fisty who was modified by Fukk_U
+00000005.zip=assassassin-Assassin-Big ups to "JeffVanGorp"'s Hero-Editor-Assets github repo for the modded items/chars
+00000006.zip=long-bone-Necromancer-Big ups to d2runewizard's hero-editor
+00000007.zip=eattherich-Amazon-Big ups to bucanero for everything they do for the ps scene
+00000008.zip=Cheater-Fisty-Heavily modified char, epilepsy warning this char moves like sanic on crack fast!
