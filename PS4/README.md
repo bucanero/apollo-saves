@@ -86,7 +86,9 @@ has_toc: false
 | [Persona 5 Strikers](CUSA19640/) | CUSA19640 |
 | [Ratchet & Clank](CUSA01073/) | CUSA01073 |
 | [Red Dead Redemption 2](CUSA08519/) | CUSA08519 |
+| [Resident Evil 3 Remake](CUSA14168/) | CUSA14168 |
 | [Resident Evil 4 REMAKE](CUSA33388/) | CUSA33388 |
+| [Resident Evil Revelations](CUSA06314/) | CUSA06314 |
 | [Saints Row Reboot](CUSA26457/) | CUSA26457 |
 | [Saints Row Reboot](CUSA26458/) | CUSA26458 |
 | [SCARLET NEXUS](CUSA25132/) | CUSA25132 |
@@ -95,6 +97,7 @@ has_toc: false
 | [Sonic Mania](CUSA07010/) | CUSA07010 |
 | [Spyro Reignited Trilogy](CUSA12085/) | CUSA12085 |
 | [Star Wars Jedi: Fallen Order](CUSA12529/) | CUSA12529 |
+| [The Evil Within](CUSA00203/) | CUSA00203 |
 | [Thief](CUSA00250/) | CUSA00250 |
 | [Tiny Tina's Wonderlands](CUSA23766/) | CUSA23766 |
 | [WARRIORS OROCHI 4](CUSA12641/) | CUSA12641 |
