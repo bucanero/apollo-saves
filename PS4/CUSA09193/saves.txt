@@ -1,0 +1,3 @@
+00000001.zip=Complete game in Hardcore mode with S+ rank less than 2 and a half hours. Completed other survivors, dead end mode (infinite ammo obtained). Completed the surviving tofu with all characters. Leon picks up the third save before the battle with the Tyrant. Claire point the third save before the battle with G-Birkin in the elevator. (only on A routes).
+00000002.zip=Complete game in Hardcore mode with S+ rank less than 2 and a half hours
+00000005.zip=Completed the other survivors. Completed 4 survivor. Completed dead end mode (infinite ammo obtained). Completed the surviving tofu with all characters.

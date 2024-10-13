@@ -86,9 +86,12 @@ has_toc: false
 | [Persona 5 Strikers](CUSA19640/) | CUSA19640 |
 | [Ratchet & Clank](CUSA01073/) | CUSA01073 |
 | [Red Dead Redemption 2](CUSA08519/) | CUSA08519 |
+| [Resident Evil 2 Remake](CUSA09193/) | CUSA09193 |
 | [Resident Evil 3 Remake](CUSA14168/) | CUSA14168 |
 | [Resident Evil 4 REMAKE](CUSA33388/) | CUSA33388 |
+| [Resident Evil 7 Biohazard Gold Edition](CUSA03962/) | CUSA03962 |
 | [Resident Evil Revelations](CUSA06314/) | CUSA06314 |
+| [Resident Evil Revelations 2](CUSA01133/) | CUSA01133 |
 | [Saints Row Reboot](CUSA26457/) | CUSA26457 |
 | [Saints Row Reboot](CUSA26458/) | CUSA26458 |
 | [SCARLET NEXUS](CUSA25132/) | CUSA25132 |
