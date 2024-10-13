@@ -37,6 +37,7 @@ has_toc: false
 | [Disciples Liberation](CUSA19493/) | CUSA19493 |
 | [Disciples Liberation](CUSA19521/) | CUSA19521 |
 | [DJMAX RESPECT](CUSA08621/) | CUSA08621 |
+| [Doki Doki Literature Club Plus](CUSA27999/) | CUSA27999 |
 | [Doraemon - Story of Seasons](CUSA18501/) | CUSA18501 |
 | [Dragon Age: Inquisition](CUSA00220/) | CUSA00220 |
 | [DRAGON BALL Z: KAKAROT](CUSA14655/) | CUSA14655 |

@@ -166,6 +166,7 @@ PCSG00868=Sword Art Online: Hollow Realization
 PCSG00551=Taiko no Tatsujin V Version
 PCSE00317=Terraria
 PCSB00428=The Amazing Spiderman
+PCSE00333=The Amazing Spider-Man
 PCSB00676=The Binding of Isaac: Rebirth
 PCSE00507=The Binding of Isaac: Rebirth
 PCSG00677=The IdolM@ster Must Songs

@@ -177,6 +177,7 @@ has_toc: false
 | [Taiko no Tatsujin V Version](PCSG00551/) | PCSG00551 |
 | [Terraria](PCSE00317/) | PCSE00317 |
 | [The Amazing Spiderman](PCSB00428/) | PCSB00428 |
+| [The Amazing Spider-Man](PCSE00333/) | PCSE00333 |
 | [The Binding of Isaac: Rebirth](PCSB00676/) | PCSB00676 |
 | [The Binding of Isaac: Rebirth](PCSE00507/) | PCSE00507 |
 | [The IdolM@ster Must Songs](PCSG00677/) | PCSG00677 |
