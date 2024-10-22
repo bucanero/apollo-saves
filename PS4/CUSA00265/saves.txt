@@ -4,3 +4,8 @@
 00000004.zip=Minigame Lobby - World Data (Legacy)
 00000005.zip=Tutorial 1.00 (Legacy)
 00000006.zip=Tutorial 1.00 - World Data (Legacy)
+00000007.zip=Tutorial 1.75 (Legacy)
+00000008.zip=Tutorial 1.75 - World Data (Legacy)
+00000009.zip=Tutorial 1.95 (Legacy)
+00000010.zip=Tutorial 1.95 - World Data (Legacy)
+00000011.zip=Tutorial 1.95 - World Data 2 (Legacy)
