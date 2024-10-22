@@ -2,3 +2,5 @@
 00000002.zip=Trophy World 2.4 By Echo Stretch (2.66)
 00000003.zip=Minigame Lobby (Legacy)
 00000004.zip=Minigame Lobby - World Data (Legacy)
+00000005.zip=Tutorial 1.00 (Legacy)
+00000006.zip=Tutorial 1.00 - World Data (Legacy)
