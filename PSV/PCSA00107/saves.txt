@@ -1,1 +1,2 @@
-00000001.zip=story mode finished, normal difficulty. 
+00000001.zip=story mode finished, normal difficulty.
+00000002.zip=Campaign and multiplayer mode completed.

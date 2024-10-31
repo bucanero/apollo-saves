@@ -10,4 +10,5 @@ permalink: PSV/PCSA00107/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![Killzone™: Mercenary](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | story mode finished, normal difficulty.  |
+| ![Killzone™: Mercenary](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | story mode finished, normal difficulty. |
+| ![Killzone™: Mercenary](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | Campaign and multiplayer mode completed. |
