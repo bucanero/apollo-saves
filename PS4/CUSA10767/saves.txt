@@ -1,0 +1,2 @@
+00000001.zip=(Cleared Game Data) New Game +. It needs the clear game save data and the system save data.
+00000002.zip=(System data)

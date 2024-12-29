@@ -15,8 +15,16 @@ has_toc: false
 | [Assassin's Creed® Odyssey](CUSA09303/) | CUSA09303 |
 | [Assassin's Creed: Origins](CUSA05625/) | CUSA05625 |
 | [Asterix & Obelix XXL 2 - Roman Rumble in Las Vegum](CUSA13367/) | CUSA13367 |
+| [Atelier Lulua: The Scion of Arland](CUSA14544/) | CUSA14544 |
+| [Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings](CUSA10767/) | CUSA10767 |
+| [Atelier Marie Remake The Alchemist of Salburg](CUSA37564/) | CUSA37564 |
+| [Atelier Meruru: The Apprentice of Arland DX](CUSA14015/) | CUSA14015 |
+| [Atelier Rorona: The Alchemist of Arland DX](CUSA14011/) | CUSA14011 |
+| [Atelier Sophie 2: The Alchemist of the Mysterious Dream](CUSA28451/) | CUSA28451 |
+| [Atelier Totori: The Adventurer of Arland DX](CUSA14014/) | CUSA14014 |
 | [Batman: Arkham Knight](CUSA00135/) | CUSA00135 |
 | [Bloodborne](CUSA00207/) | CUSA00207 |
+| [BLUE REFLECTION: Second Light](CUSA25335/) | CUSA25335 |
 | [Borderlands 3](CUSA07823/) | CUSA07823 |
 | [Cars 3: Driven to Win](CUSA07027/) | CUSA07027 |
 | [Catherine Full Body](CUSA14836/) | CUSA14836 |
@@ -32,8 +40,10 @@ has_toc: false
 | [Death Stranding](CUSA11260/) | CUSA11260 |
 | [Diablo® II: Resurrected™](CUSA18937/) | CUSA18937 |
 | [Diablo III: Reaper of Souls – Ultimate Evil Edition](CUSA00242/) | CUSA00242 |
+| [Digimon Story Cyber Sleuth: Hacker's Memory](CUSA09923/) | CUSA09923 |
 | [Digimon Survive](CUSA18242/) | CUSA18242 |
 | [Digimon Survive](CUSA18223/) | CUSA18223 |
+| [Digimon World: Next Order](CUSA05392/) | CUSA05392 |
 | [Disciples Liberation](CUSA19493/) | CUSA19493 |
 | [Disciples Liberation](CUSA19521/) | CUSA19521 |
 | [DJMAX RESPECT](CUSA08621/) | CUSA08621 |
@@ -41,8 +51,11 @@ has_toc: false
 | [Doraemon - Story of Seasons](CUSA18501/) | CUSA18501 |
 | [Dragon Age: Inquisition](CUSA00220/) | CUSA00220 |
 | [DRAGON BALL Z: KAKAROT](CUSA14655/) | CUSA14655 |
+| [Dragon Star Varnir](CUSA15724/) | CUSA15724 |
 | [DYNASTY WARRIORS 9](CUSA10421/) | CUSA10421 |
 | [EA Sports FC 24](CUSA40325/) | CUSA40325 |
+| [Fairy Fencer F: Advent Dark Force](CUSA04853/) | CUSA04853 |
+| [FAIRY TAIL](CUSA17573/) | CUSA17573 |
 | [FIFA 22](CUSA27109/) | CUSA27109 |
 | [FIFA 22](CUSA27110/) | CUSA27110 |
 | [FIFA 23](CUSA31875/) | CUSA31875 |
@@ -71,6 +84,7 @@ has_toc: false
 | [Kingdom Hearts 1.5/2.5 Final Mix](CUSA05786/) | CUSA05786 |
 | [Kingdoms of Amalur: Re-Reckoning](CUSA17245/) | CUSA17245 |
 | [Kingdoms of Amalur: Re-Reckoning](CUSA17271/) | CUSA17271 |
+| [Märchen Forest](CUSA24278/) | CUSA24278 |
 | [Marvel's Spider Man](CUSA02299/) | CUSA02299 |
 | [Marvel's Spider-Man](CUSA11993/) | CUSA11993 |
 | [Marvel's Spider-Man: Miles Morales](CUSA17722/) | CUSA17722 |
@@ -83,6 +97,7 @@ has_toc: false
 | [New Super Luckys Tale](CUSA20302/) | CUSA20302 |
 | [No Man's Sky](CUSA04841/) | CUSA04841 |
 | [ONE PIECE: PIRATE WARRIORS 4](CUSA16648/) | CUSA16648 |
+| [Persona 3 Reload](CUSA37521/) | CUSA37521 |
 | [Persona 5 Royal](CUSA17419/) | CUSA17419 |
 | [Persona 5 Strikers](CUSA19640/) | CUSA19640 |
 | [Ratchet & Clank](CUSA01073/) | CUSA01073 |

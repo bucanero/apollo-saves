@@ -1,0 +1,2 @@
+00000001.zip=(Clear data) New Game Plus
+00000002.zip=(System data) New Game+: both saves are required.

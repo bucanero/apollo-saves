@@ -1,0 +1,2 @@
+00000001.zip=Main Game Cleared - Post game content
+00000002.zip=(System data) - game cleared
