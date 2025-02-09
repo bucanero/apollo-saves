@@ -1,1 +1,2 @@
 12345678.zip=100% Completion, no cheats.
+00000001.zip=100% save

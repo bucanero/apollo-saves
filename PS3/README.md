@@ -65,6 +65,7 @@ has_toc: false
 | [Call of Duty®: Black Ops II](BLES01717/) | BLES01717 |
 | [Call of Juarez: Bound in Blood](BLUS30347/) | BLUS30347 |
 | [Cars: Race-O-Rama](BLES00620/) | BLES00620 |
+| [Cars 2](BLUS30725/) | BLUS30725 |
 | [Castlevania Lords of Shadow 2](BLUS30999/) | BLUS30999 |
 | [Castlevania Lords of Shadow™](BLES01047/) | BLES01047 |
 | [Castlevania Lords of Shadow™](BLUS30339/) | BLUS30339 |
@@ -119,6 +120,7 @@ has_toc: false
 | [Dragon Age™: Inquisition](BLUS30997/) | BLUS30997 |
 | [Dragon Ball Xenoverse](NPUB31619/) | NPUB31619 |
 | [Dragon Ball: Raging Blast](BLES00693/) | BLES00693 |
+| [Dragon Ball: Raging Blast](BLUS30431/) | BLUS30431 |
 | [Dragon Ball: Raging Blast 2](BLES00978/) | BLES00978 |
 | [Dragon Ball Z: Battle of Z](NPUB31322/) | NPUB31322 |
 | [Dragon Ball Z: Ultimate Tenkaichi](BLES01401/) | BLES01401 |

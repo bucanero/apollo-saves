@@ -50,6 +50,7 @@ has_toc: false
 | [Doki Doki Literature Club Plus](CUSA27999/) | CUSA27999 |
 | [Doraemon - Story of Seasons](CUSA18501/) | CUSA18501 |
 | [Dragon Age: Inquisition](CUSA00220/) | CUSA00220 |
+| [ Dragon Ball FighterZ](CUSA09072/) | CUSA09072 |
 | [DRAGON BALL Z: KAKAROT](CUSA14655/) | CUSA14655 |
 | [Dragon Star Varnir](CUSA15724/) | CUSA15724 |
 | [DYNASTY WARRIORS 9](CUSA10421/) | CUSA10421 |
@@ -80,10 +81,14 @@ has_toc: false
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
 | [Hot Wheels Unleashed](CUSA25502/) | CUSA25502 |
 | [It Takes Two](CUSA16746/) | CUSA16746 |
+| [Just Sing](CUSA03483/) | CUSA03483 |
 | [Kimetsu no Yaiba Hinokami Keppūtan](CUSA27305/) | CUSA27305 |
 | [Kingdom Hearts 1.5/2.5 Final Mix](CUSA05786/) | CUSA05786 |
 | [Kingdoms of Amalur: Re-Reckoning](CUSA17245/) | CUSA17245 |
 | [Kingdoms of Amalur: Re-Reckoning](CUSA17271/) | CUSA17271 |
+| [LEGO Jurrasic World](CUSA01513/) | CUSA01513 |
+| [LEGO Marvel's Avengers](CUSA02122/) | CUSA02122 |
+| [LEGO Marvel's Avengers](CUSA02107/) | CUSA02107 |
 | [Märchen Forest](CUSA24278/) | CUSA24278 |
 | [Marvel's Spider Man](CUSA02299/) | CUSA02299 |
 | [Marvel's Spider-Man](CUSA11993/) | CUSA11993 |
@@ -108,6 +113,7 @@ has_toc: false
 | [Resident Evil 7 Biohazard Gold Edition](CUSA03962/) | CUSA03962 |
 | [Resident Evil Revelations](CUSA06314/) | CUSA06314 |
 | [Resident Evil Revelations 2](CUSA01133/) | CUSA01133 |
+| [Resident Evil Zero HD Remaster](CUSA01068/) | CUSA01068 |
 | [Saints Row Reboot](CUSA26457/) | CUSA26457 |
 | [Saints Row Reboot](CUSA26458/) | CUSA26458 |
 | [SCARLET NEXUS](CUSA25132/) | CUSA25132 |
@@ -117,6 +123,7 @@ has_toc: false
 | [Spyro Reignited Trilogy](CUSA12085/) | CUSA12085 |
 | [Star Wars Jedi: Fallen Order](CUSA12529/) | CUSA12529 |
 | [The Evil Within](CUSA00203/) | CUSA00203 |
+| [THE LAST REMNANT Remastered](CUSA11846/) | CUSA11846 |
 | [Thief](CUSA00250/) | CUSA00250 |
 | [Tiny Tina's Wonderlands](CUSA23766/) | CUSA23766 |
 | [WARRIORS OROCHI 4](CUSA12641/) | CUSA12641 |
