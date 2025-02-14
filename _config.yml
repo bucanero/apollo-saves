@@ -12,7 +12,7 @@ aux_links:
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release.
 # Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
-footer_content: "Copyright &copy; 2020-2022 <a href=\"https://github.com/bucanero\">Damian Parrino</a>. <a href=\"https://github.com/bucanero/apollo-saves/tree/master/LICENSE\">GPL-3.0 license</a>"
+footer_content: "Copyright &copy; 2020-2025 <a href=\"https://github.com/bucanero\">Damian Parrino</a>. <a href=\"https://github.com/bucanero/apollo-saves/tree/master/LICENSE\">GPL-3.0 license</a>"
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
@@ -21,3 +21,6 @@ gh_edit_repository: "https://github.com/bucanero/apollo-saves" # the github URL 
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+# Google Analytics Tracking (optional)
+ga_tracking: G-CWV4PF70LT
