@@ -75,6 +75,7 @@ has_toc: false
 | [Condemned 2: Bloodshot](BLUS30115/) | BLUS30115 |
 | [Crazy Taxi](NPEB00303/) | NPEB00303 |
 | [Cross Edge](BLUS30348/) | BLUS30348 |
+| [Crysis 2](BLES01060/) | BLES01060 |
 | [Crysis HD](NPUB30302/) | NPUB30302 |
 | [Crystal Defenders](NPEB00110/) | NPEB00110 |
 | [Dai-3-Ji Super Robot Taisen Z Jigoku-hen](NPJB00520/) | NPJB00520 |
@@ -204,6 +205,7 @@ has_toc: false
 | [Kingdom Hearts HD 2.5 ReMIX](BLUS31460/) | BLUS31460 |
 | [Kingdoms of Amalur - Reckoning](BLES01251/) | BLES01251 |
 | [Kung Fu Panda™](BLES00243/) | BLES00243 |
+| [L.A. Noire](BLES00933/) | BLES00933 |
 | [Lara Croft and the Guardian of Light](NPUB30225/) | NPUB30225 |
 | [LEGO Batman 2: DC Super Heroes](BLUS30837/) | BLUS30837 |
 | [LEGO Harry Potter: Years 1-4](BLES00720/) | BLES00720 |
