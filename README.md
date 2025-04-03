@@ -1,6 +1,7 @@
 # Z-SaveGame Online Database
 
 [![License][img_license]][app_license]
+![PS1 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS1?label=PS1%20Games&type=dir&color=cc1717)
 ![PS2 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS2?label=PS2%20Games&type=dir)
 ![PS3 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS3?label=PS3%20Games&type=dir)
 ![PS4 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS4?label=PS4%20Games&type=dir)
@@ -22,7 +23,6 @@ The online save database project is part of [Apollo Save Tool](https://github.co
  - [Exporting a save](#exporting-a-save)
  - [Advanced](#advanced)
     - [Database structure](#database-structure)
-    - [Uploading a save by pull request](#uploading-a-save-by-pull-request)
  - [License](#license)
 
 ## Exporting a save
@@ -55,16 +55,6 @@ The database structure is simple:
  - On the root, a file `games.txt` lists all the games/title-id's available.
 
 **Note:** if the explanation is a bit confusing, please [browse the database](https://z-jailbreak.github.io/Z-Saves/) and it should be self-explanatory.
-
-
-### Uploading a save by pull request
-
-If you're an advanced GitHub user, you can also:
- - Fork the project https://github.com/z-jailbreak/Z-Saves
- - Add your save `12345678.zip` to the `BLES00000` folder
- - Edit `saves.txt` in the folder, adding `12345678.zip` with a short description
- - Submit the changes with a Pull Request
- - Then I'll merge the changes and the saves will be available to every user.
 
 ## License
 
