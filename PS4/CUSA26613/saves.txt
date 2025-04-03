@@ -1,0 +1,5 @@
+00000001.zip=[v1.04] Z-100% Save: (Inf Health), All Collectionables, Story Mode (100%), Max Money, All Weapons with Infinite Ammo, [All Garages] Banshee Mod.
+00000002.zip=[v1.04] Z-100% Save: (No Inf Health), All Collectionables, Story Mode (100%), Max Money, All Weapons with Infinite Ammo, [All Garages] Banshee Mod.
+00000003.zip=[v1.04] Z-Starter Save: Max Money, [Initial Garage] Mafia Sentinel Mod.
+00000004.zip=[v1.04] Z-Starter Save: All Weapons (Infinite Ammo), [Initial Garage] Banshee Mod.
+00000005.zip=[v1.04] (Optional) Settings
