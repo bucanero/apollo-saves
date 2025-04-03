@@ -13,6 +13,7 @@ has_toc: false
 | [Alan Wake](CUSA24653/) | CUSA24653 |
 | [Assassin's Creed® Mirage](CUSA33151/) | CUSA33151 |
 | [Assassin's Creed® Odyssey](CUSA09303/) | CUSA09303 |
+| [Assassin's Creed® Rogue Remastered](CUSA10123/) | CUSA10123 |
 | [Assassin's Creed: Origins](CUSA05625/) | CUSA05625 |
 | [Asterix & Obelix XXL 2 - Roman Rumble in Las Vegum](CUSA13367/) | CUSA13367 |
 | [Atelier Lulua: The Scion of Arland](CUSA14544/) | CUSA14544 |
@@ -71,6 +72,9 @@ has_toc: false
 | [God of War](CUSA07408/) | CUSA07408 |
 | [GOD OF WAR RAGNARÖK](CUSA34384/) | CUSA34384 |
 | [GOD OF WAR RAGNARÖK](CUSA34386/) | CUSA34386 |
+| [Grand Theft Auto III - The Definitive Edition](CUSA26613/) | CUSA26613 |
+| [Grand Theft Auto Vice City - The Definitive Edition](CUSA26616/) | CUSA26616 |
+| [Grand Theft Auto San Andreas - The Definitive Edition](CUSA26619/) | CUSA26619 |
 | [Grand Theft Auto V](CUSA00411/) | CUSA00411 |
 | [Gravity Rush 2](CUSA04943/) | CUSA04943 |
 | [Gundam Breaker 3 - Break Edition](CUSA07651/) | CUSA07651 |
@@ -106,6 +110,9 @@ has_toc: false
 | [Persona 5 Royal](CUSA17419/) | CUSA17419 |
 | [Persona 5 Strikers](CUSA19640/) | CUSA19640 |
 | [Ratchet & Clank](CUSA01073/) | CUSA01073 |
+| [Red Dead Redemption](CUSA36843/) | CUSA36843 |
+| [Red Dead Redemption](CUSA36842/) | CUSA36842 |
+| [Red Dead Redemption (Mod)](PPSA99078/) | PPSA99078 |
 | [Red Dead Redemption 2](CUSA08519/) | CUSA08519 |
 | [Resident Evil 2 Remake](CUSA09193/) | CUSA09193 |
 | [Resident Evil 3 Remake](CUSA14168/) | CUSA14168 |
