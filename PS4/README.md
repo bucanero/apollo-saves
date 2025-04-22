@@ -50,7 +50,7 @@ has_toc: false
 | [Doki Doki Literature Club Plus](CUSA27999/) | CUSA27999 |
 | [Doraemon - Story of Seasons](CUSA18501/) | CUSA18501 |
 | [Dragon Age: Inquisition](CUSA00220/) | CUSA00220 |
-| [ Dragon Ball FighterZ](CUSA09072/) | CUSA09072 |
+| [Dragon Ball FighterZ](CUSA09072/) | CUSA09072 |
 | [DRAGON BALL Z: KAKAROT](CUSA14655/) | CUSA14655 |
 | [Dragon Star Varnir](CUSA15724/) | CUSA15724 |
 | [DYNASTY WARRIORS 9](CUSA10421/) | CUSA10421 |
