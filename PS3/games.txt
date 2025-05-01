@@ -44,6 +44,7 @@ BLES01487=BlazBlue: Continuum Shift Extend
 BLUS30769=BLEACH: Soul Resurreccion
 BLES00697=Borderlands
 BLUS30982=Borderlands 2
+BLES01952=Bound by Flame
 NPUB30040=Burnout Paradise
 BLES01031=Call Of Duty Black Ops
 BLUS30591=Call Of Duty Black Ops

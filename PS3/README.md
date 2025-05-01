@@ -55,6 +55,7 @@ has_toc: false
 | [BLEACH: Soul Resurreccion](BLUS30769/) | BLUS30769 |
 | [Borderlands](BLES00697/) | BLES00697 |
 | [Borderlands 2](BLUS30982/) | BLUS30982 |
+| [Bound by Flame](BLES01952/) | BLES01952 |
 | [Burnout Paradise](NPUB30040/) | NPUB30040 |
 | [Call Of Duty Black Ops](BLES01031/) | BLES01031 |
 | [Call Of Duty Black Ops](BLUS30591/) | BLUS30591 |
