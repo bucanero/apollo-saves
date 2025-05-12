@@ -16,3 +16,6 @@
 00000016.zip=Minigame Lobby Old World Data (Legacy)
 00000017.zip=Tutorial 1.16 (Legacy)
 00000018.zip=Tutorial 1.16 World Data (Legacy)
+00000019.zip=Tutorial 1.25 (Legacy)
+00000020.zip=Tutorial 1.25 World Data (Legacy)
+00000021.zip=Tutorial 1.25 World Data 2 (Legacy)
