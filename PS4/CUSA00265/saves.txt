@@ -14,3 +14,5 @@
 00000014.zip=Barrier item - World Data 2 (Legacy)
 00000015.zip=Minigame Lobby Old (Legacy)
 00000016.zip=Minigame Lobby Old World Data (Legacy)
+00000017.zip=Tutorial 1.16 (Legacy)
+00000018.zip=Tutorial 1.16 World Data (Legacy)
