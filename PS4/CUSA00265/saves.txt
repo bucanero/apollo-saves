@@ -9,3 +9,6 @@
 00000009.zip=Tutorial 1.95 (Legacy)
 00000010.zip=Tutorial 1.95 - World Data (Legacy)
 00000011.zip=Tutorial 1.95 - World Data 2 (Legacy)
+00000012.zip=Barrier item (Legacy)
+00000013.zip=Barrier item - World Data (Legacy)
+00000014.zip=Barrier item - World Data 2 (Legacy)
