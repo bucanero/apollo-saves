@@ -11,4 +11,4 @@ permalink: PS4/CUSA34386/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![GOD OF WAR RAGNARÖK](icon0.png) | [00000086.zip](00000086.zip){: .btn .btn-purple } | Game completed, everything unlocked |
-| ![GOD OF WAR RAGNARÖK](icon0.png) | [00000195.zip](00000086.zip){: .btn .btn-purple } | Game Completed, All Primary Equipables Level 9, NG+ Load Ongoing Godmode |
+| ![GOD OF WAR RAGNARÖK](icon0.png) | [00000195.zip](00000195.zip){: .btn .btn-purple } | Game Completed, All Primary Equipables Level 9, NG+ Load Ongoing Godmode |
