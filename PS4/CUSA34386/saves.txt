@@ -1,2 +1,4 @@
 00000086.zip=Game completed, everything unlocked
 00000195.zip=Game Completed, All Primary Equipables Level 9, NG+ Load Ongoing Godmode
+00000196.zip=GM Complete, Kratos lvl 10
+00000200.zip=Valhalla with Classic Kratos
