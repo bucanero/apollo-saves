@@ -1,1 +1,2 @@
-00000001.zip=just 91 % 
+00000001.zip=just 91 %
+00000010.zip=The "Beware the Batman" Batsuit is already unlocked. The save is about 25 minutes into the game.
