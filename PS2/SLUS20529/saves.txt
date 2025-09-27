@@ -1,0 +1,4 @@
+00000001.zip=BASLUS-20529TSett 1: Madden 2003 Settings Sett 1 (1_Madden_200_216046.max)
+00000002.zip=BASLUS-20529SLAX: Madden 2003 Exp Team LAX (3044_Madden_200_483105.max)
+00000003.zip=BASLUS-20529UEddy: Madden 2003 Profile Eddy (337_Madden_200_258404.max)
+00000004.zip=BASLUS-20529RDanamal: Madden 2003 Roster Danamal (1_Madden_200_611248.max)

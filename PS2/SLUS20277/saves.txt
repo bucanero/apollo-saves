@@ -1,0 +1,6 @@
+00000001.zip=BASLUS-20277XXXXXXXX: Dynasty Warriors 3 (5718_Dynasty_Wa_397579.max)
+00000002.zip=BASLUS-20277XXXXXXXX: Dynasty Warriors 3 (16163_Dynasty_Wa_812008.max)
+00000003.zip=BASLUS-20277XXXXXXXX: Dynasty Warriors 3 (1_Dynasty_Wa_6894.max)
+00000004.zip=BASLUS-20277XXXXXXXX: Dynasty Warriors 3 (1_Dynasty_Wa_748318.max)
+00000005.zip=BASLUS-20277XXXXXXXX: Dynasty Warriors 3 (1_Dynasty_Wa_727169.max)
+00000006.zip=BASLUS-20277XXXXXXXX: Dynasty Warriors 3 (14762_Dynasty_Wa_634075.max)

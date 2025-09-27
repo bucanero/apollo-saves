@@ -1,0 +1,4 @@
+00000001.zip=BASCUS-97199RATCHET: Ratchet & Clank (3195_Ratchet____493389.max)
+00000002.zip=BASCUS-97199RATCHET: Ratchet & Clank (1599_Ratchet____920101.max)
+00000003.zip=BASCUS-97199RATCHET: Ratchet & Clank (1_Ratchet____761852.max)
+00000004.zip=BASCUS-97199RATCHET: Ratchet & Clank (1193_Ratchet____698162.max)

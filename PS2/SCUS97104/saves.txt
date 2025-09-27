@@ -1,0 +1,4 @@
+00000001.zip=BASCUS-97104ATVFury: ATV Offroad Fury (1_ATV_Offroa_217053.max)
+00000002.zip=BASCUS-97104ATVFury: ATV Offroad Fury (1_ATV_Offroa_724377.max)
+00000003.zip=BASCUS-97104ATVFury: ATV Offroad Fury (1_ATV_Offroa_620098.max)
+00000004.zip=BASCUS-97104ATVFury: ATV Offroad Fury (0_ATV_Offroa_478848.max)

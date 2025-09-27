@@ -1,0 +1,5 @@
+00000001.zip=BASLUS-20636Settings: The Suffering Settings (1_The_Suffer_550625.max)
+00000002.zip=BASLUS-20636Settings: The Suffering Settings (1_The_Suffer_534207.max)
+00000003.zip=BASLUS-20636d8a: The Suffering Save Game(1) (1_The_Suffer_134442.max)
+00000004.zip=BASLUS-20636e0e: The Suffering Save Game(1) (9647_The_Suffer_944271.max)
+00000005.zip=BASLUS-20636d8a: The Suffering Save Game(1) (1_The_Suffer_679897.max)

@@ -1,0 +1,2 @@
+00000001.zip=BESLES-50771bo200004: Blood Omen 2Game 5 (1_Blood_Omen_893642.max)
+00000002.zip=BESLES-50771bo200009: Blood Omen 2Game 10 (1_Blood_Omen_5948.max)

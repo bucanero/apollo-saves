@@ -1,0 +1,7 @@
+00000001.zip=BASLUS-20770LOTRROTK: The Returnof the King (4707_The_Return_375042.max)
+00000002.zip=BASLUS-20770LOTRROTK: The Returnof the King (14451_The_Return_741924.max)
+00000003.zip=BASLUS-20770LOTRROTK: The Returnof the King (5356_The_Return_736767.max)
+00000004.zip=BASLUS-20770LOTRROTK: The Returnof the King (8029_The_Return_676403.max)
+00000005.zip=BASLUS-20770LOTRROTK: The Returnof the King (15618_The_Return_2743.max)
+00000006.zip=BASLUS-20770LOTRROTK: The Returnof the King (1_The_Return_238232.max)
+00000007.zip=BASLUS-20770LOTRROTK: The Returnof the King (15705_The_Return_248242.max)

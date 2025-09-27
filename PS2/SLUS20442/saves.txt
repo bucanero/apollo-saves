@@ -1,0 +1,5 @@
+00000001.zip=BASLUS-20442vol: Red Faction II (2274_Red_Factio_747402.max)
+00000002.zip=BASLUS-20442vol: Red Faction II (4710_Red_Factio_776913.max)
+00000003.zip=BASLUS-20442vol: Red Faction II (1_Red_Factio_439282.max)
+00000004.zip=BASLUS-20442vol: Red Faction II (1_Red_Factio_502194.max)
+00000005.zip=BASLUS-20442vol: Red Faction II (8754_Red_Factio_396115.max)

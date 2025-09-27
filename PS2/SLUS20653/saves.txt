@@ -1,0 +1,6 @@
+00000001.zip=BASLUS-20653: Dynasty Warriors 4 (1_Dynasty_Wa_371548.max)
+00000002.zip=BASLUS-20653: Dynasty Warriors 4 (1_Dynasty_Wa_6894.max)
+00000003.zip=BASLUS-20653: Dynasty Warriors 4 (1_Dynasty_Wa_816799.max)
+00000004.zip=BASLUS-20653: Dynasty Warriors 4 (5206_Dynasty_Wa_715908.max)
+00000005.zip=BASLUS-20653: Dynasty Warriors 4 (1909_Dynasty_Wa_448681.max)
+00000006.zip=BASLUS-20653: Dynasty Warriors 4 (6424_Dynasty_Wa_150555.max)

@@ -1,0 +1,3 @@
+00000001.zip=BASLUS-21488HACKGU2: .hack//G.U. Vol2 Reminisce (24448__hack__G_U_362377.max)
+00000002.zip=BASLUS-21488HACKGU2: .hack//G.U. Vol2 Reminisce (21090__hack__G_U_57065.max)
+00000003.zip=BASLUS-21488HACKGU2: .hack//G.U. Vol2 Reminisce (20813__hack__G_U_698299.max)

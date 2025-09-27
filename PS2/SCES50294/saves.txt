@@ -1,1 +1,9 @@
 00000001.zip=Every single car in garage with all available parts and upgrades purchased, gold in all licence tests, game 100% Completed
+00000011.zip=BESCES-50294GAMEDATA: Donnees de Jeu GT3 (357_Donnees_de_721630.max)
+00000002.zip=BESCES-50294GAMEDATA: GT3 Spieldaten (184_GT3_Spield_173794.max)
+00000003.zip=BESCES-50294RCBMwg2F: GT3 WiederholungARSOUILLE (364_GT3_REPLAY_272595.max)
+00000004.zip=BESCES-50294BiD1IZYa: Ral. Permis GT3AP (357_Ral__Permi_273816.max)
+00000005.zip=BESCES-50294GAMEDATA: Dati di gioco GT3 (406_GT3_100_10_706646.max)
+00000006.zip=BESCES-50294GAMEDATA: GT3 Spieldaten (125_GT3_Spield_797665.max)
+00000007.zip=BESCES-50294RrBwIA5Q: GT3 WiederholungCOOL (402_GT3_Wieder_443142.max)
+00000008.zip=BESCES-50294GAMEDATA: GT3 Spieldaten (305_GT3_Spield_572598.max)

@@ -1,0 +1,4 @@
+00000001.zip=BESLES-50672: Baldurs Gate Dark Alliance (1_Baldur_s_G_301678.max)
+00000002.zip=BESLES-50672: Baldur (8199_Baldur_s_G_71454.max)
+00000003.zip=BESLES-50672: Baldur (1_Baldur_804211.max)
+00000004.zip=BESLES-50672: Baldur (234_Baldur_s_G_718716.max)

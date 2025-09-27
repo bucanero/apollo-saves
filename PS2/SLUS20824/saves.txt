@@ -1,0 +1,2 @@
+00000001.zip=BASLUS-20824Profile1: NASCAR ThunderProfile-Profile1 (1396_NASCAR_Thu_750744.max)
+00000002.zip=BASLUS-20824Career1: NASCAR ThunderCareer-Career1 (3490_NASCAR_Thu_910488.max)

@@ -1,0 +1,2 @@
+00000001.zip=BESLES-52884Duel: Duel MastersDuelMaster (769_Duel_Maste_664715.max)
+00000002.zip=BESLES-52884Duel: Duel MastersKillervirus (3458_Duel_Maste_718792.max)

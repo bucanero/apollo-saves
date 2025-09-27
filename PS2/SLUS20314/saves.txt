@@ -1,0 +1,5 @@
+00000001.zip=BASLUS-20314-TS2-OPT: TimeSplitters 2(Game Settings) (15469_TimeSplitt_992565.max)
+00000002.zip=BASLUS-20314-TS2-MAP: TimeSplitters 2(Saved Maps) (135_TimeSplitt_992839.max)
+00000003.zip=BASLUS-20314-TS2-OPT: TimeSplitters 2(Game Settings) (1_TimeSplitt_122281.max)
+00000004.zip=BASLUS-20314-TS2-MAP: TimeSplitters 2(Saved Maps) (11477_TimeSplitt_236096.max)
+00000005.zip=BASLUS-20314-TS2-OPT: TimeSplitters 2(Game Settings) (6626_TimeSplitt_767193.max)

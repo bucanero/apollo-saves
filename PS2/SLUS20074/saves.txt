@@ -1,0 +1,2 @@
+00000001.zip=BASLUSP20074vol: Summoner (1_Summoner_712017.max)
+00000002.zip=BASLUSP20074vol: Summoner (8327_Summoner_616833.max)

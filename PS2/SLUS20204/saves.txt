@@ -1,0 +1,3 @@
+00000001.zip=BASLUS-20204SR Save: Smuggler (751_Smuggler_s_86011.max)
+00000002.zip=BASLUS-20204SR Save: Smuggler (1_Smuggler_551052.max)
+00000003.zip=BASLUS-20204SR Save: Smugglers Run 2HostileTerritory (1_Smuggler_s_377301.max)

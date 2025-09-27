@@ -1,0 +1,6 @@
+00000001.zip=BESLES-51133vol: Red Faction II (1143_Red_Factio_669796.max)
+00000002.zip=BESLES-51133vol: Red Faction II (1_Red_Factio_863537.max)
+00000003.zip=BESLES-51133vol: inspector gadget (1_inspector__485043.max)
+00000004.zip=BESLES-51133vol: Red Faction II (2781_Red_Factio_463482.max)
+00000005.zip=BESLES-51133vol: Red Faction II (7386_Red_Factio_369671.max)
+00000006.zip=BESLES-51133vol: Red Faction II (1_Red_Factio_956432.max)

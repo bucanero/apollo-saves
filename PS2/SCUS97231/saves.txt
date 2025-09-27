@@ -1,0 +1,4 @@
+00000001.zip=BASCUS-97231: Arc The Lad (1_Arc_The_La_213315.max)
+00000002.zip=BASCUS-97231: Arc The Lad (12116_Arc_The_La_420544.max)
+00000003.zip=BASCUS-97231: Exploit (1_Exploit_360577.max)
+00000004.zip=BASCUS-97231: Arc The Lad (1_Arc_The_La_880947.max)

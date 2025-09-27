@@ -1,0 +1,3 @@
+00000001.zip=BASLUS-20013joiswucb: THPS3 Skater:Chris (1110_THPS3_Skat_651791.max)
+00000002.zip=BASLUS-20013tbtpgjgb: THPS3 Skater:Custom Skater (1_THPS3_Skat_12265.max)
+00000003.zip=BASLUS-20013tbtpgjgb: THPS3 Skater:Custom Skater (1_THPS3_Skat_855083.max)

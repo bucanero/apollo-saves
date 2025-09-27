@@ -1,0 +1,8 @@
+00000001.zip=BASLUS-20550TC: True Crime:Streets of LA (1_True_Crime_187451.max)
+00000002.zip=BASLUS-20550TC: True Crime:Streets of LA (1_True_Crime_695583.max)
+00000003.zip=BASLUS-20550TC: True Crime:Streets of LA (13142_True_Crime_732250.max)
+00000004.zip=BASLUS-20550TC: True Crime:Streets of LA (8331_True_Crime_135144.max)
+00000005.zip=BASLUS-20550TC: True Crime:Streets of LA (1_True_Crime_314389.max)
+00000006.zip=BASLUS-20550TC: True Crime:Streets of LA (5097_True_Crime_436856.max)
+00000007.zip=BASLUS-20550TC: True Crime:Streets of LA (1_True_Crime_495907.max)
+00000008.zip=BASLUS-20550TC: True Crime:Streets of LA (1_True_Crime_884670.max)

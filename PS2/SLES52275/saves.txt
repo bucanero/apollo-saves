@@ -1,0 +1,4 @@
+00000001.zip=BESLES-52275: Way of the Samurai 2 (1_Way_of_the_467785.max)
+00000002.zip=BESLES-52275: Way of the Samurai 2 (1_Way_of_the_607205.max)
+00000003.zip=BESLES-52275: Way of the Samurai 2 (1_Way_of_the_653179.max)
+00000004.zip=BESLES-52275: Way of the Samurai 2 (1_Way_of_the_221508.max)

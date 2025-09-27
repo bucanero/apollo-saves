@@ -1,0 +1,3 @@
+00000001.zip=BASLUS-20459: Shinobi     data file (1_Shinobi____362789.max)
+00000002.zip=BASLUS-20459: Shinobi     data file (1392_Shinobi____888576.max)
+00000003.zip=BASLUS-20459: Shinobi     data file (5444_Shinobi____736095.max)

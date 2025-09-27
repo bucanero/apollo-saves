@@ -1,0 +1,5 @@
+00000001.zip=BESLES-52187: Baldur (6200_Baldur_s_G_86545.max)
+00000002.zip=BESLES-52187: Baldur (1_Baldur_416241.max)
+00000003.zip=BESLES-52187: Baldur (8848_Baldur_s_G_280758.max)
+00000004.zip=BESLES-52187: Baldur (1_Baldur_264904.max)
+00000005.zip=BESLES-52187: Baldur (869_Baldur_s_G_799602.max)

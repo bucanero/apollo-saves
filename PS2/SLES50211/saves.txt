@@ -1,0 +1,2 @@
+00000001.zip=BESLES-50211GDL:  Gauntlet Dark Legacy (1__Gauntlet__602612.max)
+00000002.zip=BESLES-50211GDL:     Gauntlet Dark Legacy (0_Gauntlet_D_507870.max)

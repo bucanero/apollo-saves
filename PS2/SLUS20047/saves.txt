@@ -1,0 +1,4 @@
+00000001.zip=BASLUS-20047GDL:     Gauntlet Dark Legacy (1_____Gauntl_690075.max)
+00000002.zip=BASLUS-20047GDL:     Gauntlet Dark Legacy (1_____Gauntl_582790.max)
+00000003.zip=BASLUS-20047GDL:     Gauntlet Dark Legacy (5331_Gauntlet_D_332669.max)
+00000004.zip=BASLUS-20047GDL:     Gauntlet Dark Legacy (13424_Gauntlet_D_564541.max)

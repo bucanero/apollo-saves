@@ -1,0 +1,3 @@
+00000001.zip=BASLUS-2066600: Disgaea(1) Ep.11 LV36 (1_Disgaea(1)_821270.max)
+00000002.zip=BASLUS-2066600: Disgaea(1) Ep.1 LV4 (1_Disgaea(1)_253201.max)
+00000003.zip=BASLUS-2066601: Disgaea(2) Ep.14 LV9999 (1_Disgaea(2)_266324.max)

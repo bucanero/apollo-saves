@@ -1,0 +1,5 @@
+00000001.zip=BASLUS-21134DATA01: 01 Resident Evil 4 - Many unloc (1_01_Residen_901485.max)
+00000002.zip=BASLUS-21134SYS: resident evil 4 SYSTEM DATA (1_resident_e_109219.max)
+00000003.zip=BASLUS-21134DATA01: 01 Resident evil 401 NEW ROUND (1_01_Residen_843380.max)
+00000004.zip=BASLUS-21134DATA02: resident evil 402 NEW ROUND (1_resident_e_154934.max)
+00000005.zip=BASLUS-21134SYS: 01 Resident evil 4 SYSTEM DATA (1_01_Residen_462567.max)

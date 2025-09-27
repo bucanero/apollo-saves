@@ -1,0 +1,5 @@
+00000001.zip=BASLUS-2084700: La Pucelle (1) Chapter7  LV363 (6590_La_Pucelle_637157.max)
+00000002.zip=BASLUS-2084700: La Pucelle (1) Chapter4  LV8 (11016_La_Pucelle_80609.max)
+00000003.zip=BASLUS-2084700: La Pucelle (1) Chapter5  LV29 (3512_La_Pucelle_237042.max)
+00000004.zip=BASLUS-2084700: La Pucelle (1) Chapter6  LV999 (7098_La_Pucelle_205883.max)
+00000005.zip=BASLUS-2084702: La Pucelle (3) Chapter12  LV80 (4181_La_Pucelle_164349.max)

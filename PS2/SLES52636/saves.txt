@@ -1,0 +1,3 @@
+00000001.zip=BESLES-52636: Colin McRae Rally 2005 (7696_Colin_McRa_85568.max)
+00000002.zip=BESLES-52636: Colin McRae Rally 2005 (2984_Colin_McRa_717800.max)
+00000003.zip=BESLES-52636: Colin McRae Rally 2005 (1727_Colin_McRa_455059.max)

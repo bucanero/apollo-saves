@@ -1,0 +1,4 @@
+00000001.zip=BASLUS-20238: Crash BandicootWrath of Cortex (1_Crash_Band_199536.max)
+00000002.zip=BASLUS-20238: Crash BandicootWrath of Cortex (8099_Crash_Band_497601.max)
+00000003.zip=BASLUS-20238: Crash BandicootWrath of Cortex (1_Crash_Band_468029.max)
+00000004.zip=BASLUS-20238: Crash BandicootWrath of Cortex (15100_Crash_Band_253567.max)

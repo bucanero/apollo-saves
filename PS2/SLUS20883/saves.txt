@@ -1,0 +1,3 @@
+00000001.zip=BASLUS-20883: RainbowSix 3 (3547_RainbowSix_438412.max)
+00000002.zip=BASLUS-20883: RainbowSix 3 (1392_RainbowSix_312909.max)
+00000003.zip=BASLUS-20883: RainbowSix 3 (1_RainbowSix_563686.max)

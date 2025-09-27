@@ -1,0 +1,4 @@
+00000001.zip=BASCUS-97130: HotShotsGolf3                   (6587_HotShotsGo_886501.max)
+00000002.zip=BASCUS-97130: HotShotsGolf3                   (1056_HotShotsGo_337933.max)
+00000003.zip=BASCUS-97130: HotShotsGolf3                   (2410_HotShotsGo_47497.max)
+00000004.zip=BASCUS-97130: HotShotsGolf3                   (1_HotShotsGo_327374.max)

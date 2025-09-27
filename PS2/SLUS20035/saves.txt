@@ -1,0 +1,3 @@
+00000001.zip=BASLUS-20035: Baldur Gate Dark Alliance (1_Baldur_Gat_294918.max)
+00000002.zip=BASLUS-20035: Baldur (1_Baldur_569485.max)
+00000003.zip=BASLUS-20035: Baldur (1_Baldur_518917.max)

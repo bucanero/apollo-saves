@@ -1,0 +1,2 @@
+00000001.zip=BASLUS-20702MF4PLAY0: Monster-Rancher4Play-Data(1) (1083_Monster_Ra_279599.max)
+00000002.zip=BASLUS-20702MF4PLAY5: Monster-Rancher4Play-Data(6) (14592_Monster_Ra_221722.max)

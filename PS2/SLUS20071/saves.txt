@@ -1,0 +1,5 @@
+00000001.zip=BASLUS-20071: DOA2 Hardcore SystemFile (7793_DOA2_Hardc_429241.max)
+00000002.zip=BASLUS-20071: DOA2 Hardcore SystemFile (14123_DOA2_Hardc_807705.max)
+00000003.zip=BASLUS-20071: DOA2 Hardcore SystemFile (4563_DOA2_Hardc_923946.max)
+00000004.zip=BASLUS-20071: DOA2 Hardcore SystemFile (1_DOA2_Hardc_601650.max)
+00000005.zip=BASLUS-20071: DOA2 Hardcore SystemFile (1_DOA2_Hardc_305371.max)

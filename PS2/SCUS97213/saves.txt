@@ -1,0 +1,4 @@
+00000001.zip=BASCUS-97213dc2album: Dark Cloud2 Album (3270_Dark_Cloud_167447.max)
+00000002.zip=BASCUS-97213dkcl0: Dark Cloud2[1] (20812_Dark_Cloud_426556.max)
+00000003.zip=BASCUS-97213dkcl0: Dark Cloud2[1] (8107_Before_End_516.max)
+00000004.zip=BASCUS-97213dkcl0: Dark Cloud2[1] (1_Dark_Cloud_827083.max)

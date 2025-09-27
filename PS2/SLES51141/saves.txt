@@ -1,0 +1,3 @@
+00000001.zip=BESLES-51141vol: Summoner 2 (1_Summoner_2_416256.max)
+00000002.zip=BESLES-51141vol: Summoner 2 (0_Summoner_2_215435.max)
+00000003.zip=BESLES-51141vol: Summoner 2 (0_Summoner_2_881679.max)

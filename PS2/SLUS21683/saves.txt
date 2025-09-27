@@ -1,0 +1,3 @@
+00000001.zip=BASLUS-21683system: Yu (26960_Yu_Gi_Oh!__327572.max)
+00000002.zip=BASLUS-21683system: Yu (27419_Yu_Gi_Oh!__887890.max)
+00000003.zip=BASLUS-21683system: Yu (26913_Yu_Gi_Oh!__440487.max)

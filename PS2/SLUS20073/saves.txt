@@ -1,0 +1,2 @@
+00000001.zip=BASLUS-20073vol: Red Faction (0_Red_Factio_914440.max)
+00000002.zip=BASLUS-20073vol: Red Faction (324_Red_Factio_65976.max)

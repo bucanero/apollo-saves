@@ -1,0 +1,3 @@
+00000001.zip=BASCUS-97279: Rise To Honor (3729_Rise_To_Ho_828121.max)
+00000002.zip=BASCUS-97279: Rise To Honor (8532_Rise_To_Ho_812038.max)
+00000003.zip=BASCUS-97279: Rise To Honor (1526_Rise_To_Ho_157651.max)

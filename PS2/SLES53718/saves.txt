@@ -1,0 +1,3 @@
+00000001.zip=BESLES-53718: The Sims 2 (3659_The_Sims_2_260312.max)
+00000002.zip=BESLES-53718: Les Sims(tm) 2 (7691_Les_Sims(t_263302.max)
+00000003.zip=BESLES-53718: The Sims 2 (1_The_Sims_2_661022.max)

@@ -1,0 +1,5 @@
+00000001.zip=BASLUS-20906BBvladmr: Fight Night 2004HW Boxer vladmr (1809_Fight_Nigh_165112.max)
+00000002.zip=BASLUS-20906BFmitchl: Fight Night 2004LW Boxer mitchl (1809_Fight_Nigh_239407.max)
+00000003.zip=BASLUS-20906BGargllo: Fight Night 2004FW Boxer argllo (1809_Fight_Nigh_179059.max)
+00000004.zip=BASLUS-20906BBcreed: Fight Night 2004HW Boxer creed (1809_Fight_Nigh_238461.max)
+00000005.zip=BASLUS-20906BBclubbr: Fight Night 2004HW Boxer clubbr (1809_Fight_Nigh_112546.max)
