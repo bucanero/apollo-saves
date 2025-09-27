@@ -290,8 +290,6 @@ has_toc: false
 | [Need for Speed: Underground](SLES51967/) | SLES51967 |
 | [Need for Speed: Underground](SLUS20811/) | SLUS20811 |
 | [Need for Speed: Underground 2](SLES52725/) | SLES52725 |
-| [Network Adaptor Start-Up Disc](SCUS97097/) | SCUS97097 |
-| [Network Adaptor Start-Up Disc v2.0](SCUS97095/) | SCUS97095 |
 | [Rugrats: Royal Ransom](SLES51311/) | SLES51311 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom](SLUS20680/) | SLUS20680 |
 | [Ninja Assault](SLUS20492/) | SLUS20492 |
