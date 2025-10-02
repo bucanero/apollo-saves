@@ -5,3 +5,4 @@
 00000005.zip=BASLUS-20328Tekken-4: TEKKEN 4 (896_TEKKEN_4_782070.max)
 00000006.zip=BASLUS-20328Tekken-4: TEKKEN 4 (102_TEKKEN_4_39502.max)
 00000007.zip=BASLUS-20328Tekken-4: TEKKEN 4 (1_TEKKEN_4_426129.max)
+00000100.zip=Lots Unlocked. All Stages, All Characters, Theatre Mode and All Movies unlocked

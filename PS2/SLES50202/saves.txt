@@ -1,0 +1,5 @@
+00000100.zip=Before Final Boss.
+00000101.zip=End Of Stage 4.
+00000102.zip=End Of Stage 3.
+00000103.zip=End Of Stage 2.
+00000104.zip=End Of Stage 1.

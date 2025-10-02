@@ -4,3 +4,4 @@
 00000004.zip=BESLES-50386: Crash BandicootWrath of Cortex (1026_Crash_Band_691433.max)
 00000005.zip=BESLES-50386: Crash BandicootWrath of Cortex (1_Crash_Band_321133.max)
 00000006.zip=BESLES-50386: Crash BandicootWrath of Cortex (625_Crash_Band_316983.max)
+00000100.zip=All Levels, All Powers.

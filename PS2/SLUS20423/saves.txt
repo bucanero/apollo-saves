@@ -1,3 +1,4 @@
 00000001.zip=BASLUS-20423: Mortal KombatDeadly Alliance (7969_Mortal_Kom_934444.max)
 00000002.zip=BASLUS-20423: Mortal KombatDeadly Alliance (1_Mortal_Kom_352352.max)
 00000003.zip=BASLUS-20423: Mortal KombatDeadly Alliance (11625_Mortal_Kom_225750.max)
+00000100.zip=Millions Of Tokens!. The Password Is XXXXXX

@@ -1,2 +1,3 @@
 00000001.zip=BASCUS-97198YAOTWTD!: Sly Cooper (1_Sly_Cooper_458630.max)
 00000002.zip=BASCUS-97198YAOTWTD!: Sly Cooper (22263_Sly_Cooper_264752.max)
+00000100.zip=Everything Unlocked.

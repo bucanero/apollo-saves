@@ -1,0 +1,5 @@
+00000100.zip=Custom Sarah With Extra Items.
+00000101.zip=Custom Jeffry With Extra Items.
+00000102.zip=Custom Akira With Extra Items.
+00000103.zip=Custom Lau With Extra Items.
+00000104.zip=Custom Shun With Extra Items.

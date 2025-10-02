@@ -10,3 +10,4 @@
 00000010.zip=BESLES-51044: Burnout 2 (1_Burnout_2_788113.max)
 00000011.zip=BESLES-51044: Burnout 2 (1_Burnout_2_277432.max)
 00000012.zip=BESLES-51044: Burnout 2 (1_Burnout_2_877346.max)
+00000100.zip=All Cars, All Cheats.

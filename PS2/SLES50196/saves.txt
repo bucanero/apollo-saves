@@ -5,3 +5,7 @@
 00000005.zip=BESLES-501966557_1: SoulReaver2A (1160_SoulReaver_957927.max)
 00000006.zip=BESLES-501966557_2: SoulReaver2B (1_SoulReaver_456005.max)
 00000007.zip=BESLES-501966557_1: SoulReaver2A (521_SoulReaver_345089.max)
+00000100.zip=Sarafan Stronghold Final.
+00000101.zip=Wind And Fire Reaver.
+00000102.zip=Southern Lake 100 Years On.
+00000103.zip=Dark And Light Reaver.

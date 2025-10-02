@@ -3,3 +3,4 @@
 00000003.zip=BASLUS-20652: Splinter Cell (10227_Splinter_C_585049.max)
 00000004.zip=BASLUS-20652: Splinter Cell (9085_Splinter_C_268414.max)
 00000005.zip=BASLUS-20652: Splinter Cell (1_Splinter_C_800640.max)
+00000100.zip=Begin On Final Stage. (All Stages Unlocked)

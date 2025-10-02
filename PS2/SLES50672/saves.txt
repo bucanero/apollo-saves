@@ -2,3 +2,4 @@
 00000002.zip=BESLES-50672: Baldur (8199_Baldur_s_G_71454.max)
 00000003.zip=BESLES-50672: Baldur (1_Baldur_804211.max)
 00000004.zip=BESLES-50672: Baldur (234_Baldur_s_G_718716.max)
+00000100.zip=Loads Unlocked. Finished With All Characters, Unlocked Secret Character, Unlocked Extreme Mode, Stacks Of Cash, Stacks Of Weapons & Items, All Stats Maxed

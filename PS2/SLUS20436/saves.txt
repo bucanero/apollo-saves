@@ -1,2 +1,3 @@
 00000001.zip=BASLUS-20436GGXX: Guilty Gear X2System Data (5339_Guilty_Gea_915096.max)
 00000002.zip=BASLUS-20436GGXX: Guilty Gear X2System Data (1_Guilty_Gea_279156.max)
+00000100.zip=All Complete. Mission Mode, Arcade Mode and Story Mode

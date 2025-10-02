@@ -1,1 +1,5 @@
 00000001.zip=BESCES-50006Slot2: Drakan: TheAncients Gates 2 (1_Drakan__Th_442806.max)
+00000100.zip=1st Gate Open (Ravenshold).
+00000101.zip=2nd Gate Open (Shiverbane).
+00000102.zip=3rd Gate Open (Valley Of The Fallen).
+00000103.zip=Before Final Fight (Stratos).

@@ -1,2 +1,3 @@
 00000001.zip=BASLUS-20267DOTHACK: no name (1_no_name_81128.max)
 00000002.zip=BASLUS-20267DOTHACK: .hack INFECTION (1_A_Save_Des_798305.max)
+00000100.zip=All Characters, Max HP And Max Cash.

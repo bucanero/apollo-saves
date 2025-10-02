@@ -5,3 +5,4 @@
 00000005.zip=BESCES-51135643ef2d: PRIMAL  (3)Solum (0_Primal_Pow_165890.max)
 00000006.zip=BESCES-511357491f6d: PRIMAL  (1)Solum (4605_Primal_559811.max)
 00000007.zip=BESCES-511358bf9e91: PRIMAL  (12)Solum (609_PRIMAL_(12_570019.max)
+00000100.zip=Start With A Ton Of Gems And Loadstones.

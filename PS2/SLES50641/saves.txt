@@ -4,3 +4,4 @@
 00000004.zip=BESLES-50641XXXXXXXX: Dynasty Warriors 3 (609_Dynasty_Wa_608135.max)
 00000005.zip=BESLES-50641XXXXXXXX: Dynasty Warriors 3 (1_Dynasty_Wa_158658.max)
 00000006.zip=BESLES-50641XXXXXXXX: Dynasty Warriors 3 (1_Dynasty_Wa_220746.max)
+00000100.zip=All Characters, Levels, Weapons and Items.

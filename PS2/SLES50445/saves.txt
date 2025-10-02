@@ -2,3 +2,4 @@
 00000002.zip=BESLES-50445Crash000: Burnout Crash Replay 00 (424_Burnout_Cr_82883.max)
 00000003.zip=BESLES-50445Burn: Burnout (1_Burnout_656353.max)
 00000004.zip=BESLES-50445Crash000: Burnout Crash Replay 00 (3297_Burnout_Cr_348309.max)
+00000100.zip=All Tracks Open, All Cars Open, Championship Open, All Modes Open.

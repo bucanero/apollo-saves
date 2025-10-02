@@ -3,3 +3,5 @@
 00000003.zip=BESLES-50435naaproia: THPS3 Options and Pro Careers (735_THPS3_Opti_817211.max)
 00000004.zip=BESLES-50435naaproia: THPS3 Options and Pro Careers (5652_THPS3_Opti_492611.max)
 00000005.zip=BESLES-50435naaproia: THPS3 Options and Pro Careers (1_THPS3_Opti_976513.max)
+00000100.zip=All Characters, Cheats, Stats Maxed, Movies And Levels.
+00000101.zip=BESLES-50435tbtpgjgb: THPS3 Skater:Custom Skater (THPS3SKA.MAX)

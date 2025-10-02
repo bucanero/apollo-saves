@@ -7,3 +7,5 @@
 00000007.zip=BASLUS-20504mymdbdfc: THPS4 Park:kool huh???? (185_THPS4_Park_839931.max)
 00000008.zip=BASLUS-20504pnzkipka: THPS4 Career:CareerKyle (185_Tony_Hawk__630673.max)
 00000009.zip=BASLUS-20504roglgceb: THPS4 Skater:ActionReplay (751_THPS4_Skat_121426.max)
+00000100.zip=Career Boost. All Movies, Characters, Boards & Levels
+00000101.zip=Custom Skater.

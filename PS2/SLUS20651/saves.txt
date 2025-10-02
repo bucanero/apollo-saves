@@ -5,3 +5,4 @@
 00000005.zip=BASLUS-20651GAMEDATA:    NBA STREET        Vol. 2     (7729_NBA_STREET_923305.max)
 00000006.zip=BASLUS-20651GAMEDATA:    NBA STREET        Vol. 2     (2012_NBA_STREET_383480.max)
 00000007.zip=BASLUS-20651GAMEDATA:    NBA STREET        Vol. 2     (1____NBA_STR_295926.max)
+00000100.zip=Max Reward Points, All Rewards Unlocked And All Trophies.

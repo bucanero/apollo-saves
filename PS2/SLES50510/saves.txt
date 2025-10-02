@@ -1,0 +1,6 @@
+00000100.zip=Imohtep - Before Scorpion King Level Save.
+00000101.zip=Imohtep - Jungle Level Save.
+00000102.zip=Imohtep - Karnak Level Save.
+00000103.zip=Rick - Before Scorpion King Level Save.
+00000104.zip=Rick - Cairo Level Save.
+00000105.zip=Rick - Jungle Level Save.

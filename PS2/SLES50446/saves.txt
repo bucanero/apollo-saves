@@ -1,2 +1,3 @@
 00000001.zip=BESLES-50446: Shadowman2Save Game (9661_Shadowman2_384625.max)
 00000002.zip=BESLES-50446: Shadowman2Save Game (1160_Shadowman2_322476.max)
+00000100.zip=3 Level Saves. SAVE 1 - Start Of Ireland, Save 2 - Start Of Boneyard, Save 3 - Before Final Boss

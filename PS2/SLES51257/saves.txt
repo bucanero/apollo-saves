@@ -3,3 +3,4 @@
 00000003.zip=BESLES-51257SaKgfOKD: Sims life ENRIGHT (1195_Sims_life_372753.max)
 00000004.zip=BESLES-51257NoOHonbA: Sims save DATELSVILLE (1_Sims_save__424450.max)
 00000005.zip=BESLES-51257NPbNciIC: Die Sims speicheGERA (1_Die_Sims_s_198285.max)
+00000100.zip=Start With Stacks Of Cash And A Massive Mansion.

@@ -5,3 +5,4 @@
 00000005.zip=BASLUS-20484: Devil May Cry 2SAVE DATA (1_Devil_May__778164.max)
 00000006.zip=BASLUS-20484: Devil May Cry 2SAVE DATA (7969_Devil_May__744930.max)
 00000007.zip=BASLUS-20484: Devil May Cry 2SAVE DATA (1_Devil_May__195950.max)
+00000100.zip=Start Game with All Swords, Guns, And Max Orbs.

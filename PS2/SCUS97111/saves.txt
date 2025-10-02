@@ -4,3 +4,4 @@
 00000004.zip=BASCUS-97111dkcloud: Dark Cloud Data (1_Dark_Cloud_602444.max)
 00000005.zip=BASCUS-97111dkcloud: Dark Cloud Data (1_Dark_Cloud_690319.max)
 00000006.zip=BASCUS-97111dkcloud: Dark Cloud Data (10244_Dark_Cloud_796230.max)
+00000100.zip=All Village Parts.

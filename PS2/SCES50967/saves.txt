@@ -1,3 +1,16 @@
 00000001.zip=BESCES-50967-14: KINGDOMHEARTS/14World Terminus (0_Kingdom_He_621731.max)
 00000002.zip=BESCES-50967-12: KINGDOMHEARTS/12Library (0_Kingdom_He_866222.max)
 00000003.zip=BESCES-50967-13: KINGDOMHEARTS/13Clock Tower (0_Kingdom_He_817913.max)
+00000100.zip=Monstro Complete.
+00000101.zip=Start Of Traverse Town 1.
+00000102.zip=Wonderland Complete.
+00000103.zip=Traverse Town 1 Complete.
+00000104.zip=Traverse Town 2 Complete.
+00000105.zip=Agrobah Complete.
+00000106.zip=Olympus Complete.
+00000107.zip=Jungle Complete.
+00000108.zip=Before Final Bosses.
+00000109.zip=Neverland Complete.
+00000110.zip=Halloween Town Complete.
+00000111.zip=Hollow Bastian Complete.
+00000112.zip=All Side Quests Complete.

@@ -1,3 +1,4 @@
 00000001.zip=BESCES-50885: Ape Escape 2 (1_Ape_Escape_25952.max)
 00000002.zip=BESCES-50885: Ape Escape 2 (804_Ape_Escape_936977.max)
 00000003.zip=BESCES-50885: Ape Escape 2 (3271_Ape_Escape_493099.max)
+00000100.zip=Start With 999 Coins.
