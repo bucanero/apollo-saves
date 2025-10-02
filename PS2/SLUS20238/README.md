@@ -14,3 +14,4 @@ permalink: PS2/SLUS20238/
 | ![Crash Bandicoot: The Wrath of Cortex](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | BASLUS-20238: Crash BandicootWrath of Cortex (8099_Crash_Band_497601.max) |
 | ![Crash Bandicoot: The Wrath of Cortex](icon0.png) | [00000003.zip](00000003.zip){: .btn .btn-purple } | BASLUS-20238: Crash BandicootWrath of Cortex (1_Crash_Band_468029.max) |
 | ![Crash Bandicoot: The Wrath of Cortex](icon0.png) | [00000004.zip](00000004.zip){: .btn .btn-purple } | BASLUS-20238: Crash BandicootWrath of Cortex (15100_Crash_Band_253567.max) |
+| ![Crash Bandicoot: The Wrath of Cortex](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Powers And Levels Available. |

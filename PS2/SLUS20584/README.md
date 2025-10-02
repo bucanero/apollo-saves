@@ -11,3 +11,4 @@ permalink: PS2/SLUS20584/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![Speed Kings](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | BASLUS-20584: Speed Kings (1_Speed_King_58179.max) |
+| ![Speed Kings](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | License - All Gold. |

@@ -17,3 +17,4 @@ permalink: PS2/SLUS20328/
 | ![Tekken 4](icon0.png) | [00000005.zip](00000005.zip){: .btn .btn-purple } | BASLUS-20328Tekken-4: TEKKEN 4 (896_TEKKEN_4_782070.max) |
 | ![Tekken 4](icon0.png) | [00000006.zip](00000006.zip){: .btn .btn-purple } | BASLUS-20328Tekken-4: TEKKEN 4 (102_TEKKEN_4_39502.max) |
 | ![Tekken 4](icon0.png) | [00000007.zip](00000007.zip){: .btn .btn-purple } | BASLUS-20328Tekken-4: TEKKEN 4 (1_TEKKEN_4_426129.max) |
+| ![Tekken 4](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Lots Unlocked. All Stages, All Characters, Theatre Mode and All Movies unlocked |

@@ -32,3 +32,4 @@ permalink: PS2/SLUS20184/
 | ![Resident Evil: Code: Veronica X](icon0.png) | [00000020.zip](00000020.zip){: .btn .btn-purple } | BASLUS-20184: RESIDENT EVIL-CODE:Veronica-X (23989_RESIDENT_E_72461.max) |
 | ![Resident Evil: Code: Veronica X](icon0.png) | [00000021.zip](00000021.zip){: .btn .btn-purple } | BASLUS-20184: RESIDENT EVIL-CODE:Veronica-X (1_RESIDENT_E_628979.max) |
 | ![Resident Evil: Code: Veronica X](icon0.png) | [00000022.zip](00000022.zip){: .btn .btn-purple } | BASLUS-20184: RESIDENT EVIL-CODE:Veronica-X (23965_RESIDENT_E_570019.max) |
+| ![Resident Evil: Code: Veronica X](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Begin with Rocket Launcher And Infinite Ammo. (All Items In Crate) |

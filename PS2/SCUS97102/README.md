@@ -66,3 +66,4 @@ permalink: PS2/SCUS97102/
 | ![Gran Turismo 3: A-Spec](icon0.png) | [00000054.zip](00000054.zip){: .btn .btn-purple } | BASCUS-97102BEB55Byb: GT3 BEST LAP12.654sec. iNTeg (6605_12_6sec__I_312756.max) |
 | ![Gran Turismo 3: A-Spec](icon0.png) | [00000055.zip](00000055.zip){: .btn .btn-purple } | BASCUS-97102GAMEDATA: GT3 GAME DATA (1_GT3_GAME_D_561657.max) |
 | ![Gran Turismo 3: A-Spec](icon0.png) | [00000056.zip](00000056.zip){: .btn .btn-purple } | BASCUS-97102GAMEDATA: GT3 GAME DATA (6708_hybrids_309185.max) |
+| ![Gran Turismo 3: A-Spec](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Serious Funpack. Tons of bonus and AR MAX exclusive cars: Lamborghini Diablo, Porsche 911, F1 Cars & More |

@@ -17,3 +17,4 @@ permalink: PS2/SLUS20651/
 | ![NBA Street Vol. 2](icon0.png) | [00000005.zip](00000005.zip){: .btn .btn-purple } | BASLUS-20651GAMEDATA:    NBA STREET        Vol. 2     (7729_NBA_STREET_923305.max) |
 | ![NBA Street Vol. 2](icon0.png) | [00000006.zip](00000006.zip){: .btn .btn-purple } | BASLUS-20651GAMEDATA:    NBA STREET        Vol. 2     (2012_NBA_STREET_383480.max) |
 | ![NBA Street Vol. 2](icon0.png) | [00000007.zip](00000007.zip){: .btn .btn-purple } | BASLUS-20651GAMEDATA:    NBA STREET        Vol. 2     (1____NBA_STR_295926.max) |
+| ![NBA Street Vol. 2](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Max Reward Points, All Rewards Unlocked And All Trophies. |

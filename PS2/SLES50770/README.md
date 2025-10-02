@@ -11,3 +11,4 @@ permalink: PS2/SLES50770/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![Mad Maestro!](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | BESLES-50770GAME: MAD MAESTRO! GAME DATA (0_Mad_Maestr_573544.max) |
+| ![Mad Maestro!](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Everything Unlocked. |

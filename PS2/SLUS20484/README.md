@@ -17,3 +17,4 @@ permalink: PS2/SLUS20484/
 | ![Devil May Cry 2 (Disc 1)](icon0.png) | [00000005.zip](00000005.zip){: .btn .btn-purple } | BASLUS-20484: Devil May Cry 2SAVE DATA (1_Devil_May__778164.max) |
 | ![Devil May Cry 2 (Disc 1)](icon0.png) | [00000006.zip](00000006.zip){: .btn .btn-purple } | BASLUS-20484: Devil May Cry 2SAVE DATA (7969_Devil_May__744930.max) |
 | ![Devil May Cry 2 (Disc 1)](icon0.png) | [00000007.zip](00000007.zip){: .btn .btn-purple } | BASLUS-20484: Devil May Cry 2SAVE DATA (1_Devil_May__195950.max) |
+| ![Devil May Cry 2 (Disc 1)](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Start Game with All Swords, Guns, And Max Orbs. |

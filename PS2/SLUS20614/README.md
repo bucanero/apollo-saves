@@ -11,3 +11,4 @@ permalink: PS2/SLUS20614/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![Aero Elite: Combat Academy](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | BASLUS-20614ADSYS000: AeroElite-SystemHANS (4673_AeroElite__116437.max) |
+| ![Aero Elite: Combat Academy](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Everything Unlocked and Beaten. |

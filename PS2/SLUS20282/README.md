@@ -11,3 +11,4 @@ permalink: PS2/SLUS20282/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![Victorious Boxers: Ippo's Road to Glory](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | BASLUS-20282IPPO: VictoriousBoxers (0_Victorious_992092.max) |
+| ![Victorious Boxers: Ippo's Road to Glory](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Levels And Characters Unlocked. |

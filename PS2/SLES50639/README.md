@@ -11,3 +11,4 @@ permalink: PS2/SLES50639/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![Everblue](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | BESLES-50639ARKDIV00: EVERBLUE    NO.1Played 00:03:52 (0_Everblue_P_206173.max) |
+| ![Everblue](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Start With Stacks Of Cash. |

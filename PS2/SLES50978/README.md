@@ -15,3 +15,4 @@ permalink: PS2/SLES50978/
 | ![Onimusha 2: Samurai's Destiny](icon0.png) | [00000003.zip](00000003.zip){: .btn .btn-purple } | BESLES-50978: ONIMUSHA2 (9661_ONIMUSHA2_993465.max) |
 | ![Onimusha 2: Samurai's Destiny](icon0.png) | [00000004.zip](00000004.zip){: .btn .btn-purple } | BESLES-50978: ONIMUSHA2 (4104_ONIMUSHA2__682323.max) |
 | ![Onimusha 2: Samurai's Destiny](icon0.png) | [00000005.zip](00000005.zip){: .btn .btn-purple } | BESLES-50978: ONIMUSHA2 (1_ONIMUSHA2_413281.max) |
+| ![Onimusha 2: Samurai's Destiny](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Lots Unlocked. Pots Of Cash, Extra Enhancement Points, Best Weapon / Armour, All Jewellery, Massive Health Bar |

@@ -19,3 +19,5 @@ permalink: PS2/SLUS20504/
 | ![Tony Hawk's Pro Skater 4](icon0.png) | [00000007.zip](00000007.zip){: .btn .btn-purple } | BASLUS-20504mymdbdfc: THPS4 Park:kool huh???? (185_THPS4_Park_839931.max) |
 | ![Tony Hawk's Pro Skater 4](icon0.png) | [00000008.zip](00000008.zip){: .btn .btn-purple } | BASLUS-20504pnzkipka: THPS4 Career:CareerKyle (185_Tony_Hawk__630673.max) |
 | ![Tony Hawk's Pro Skater 4](icon0.png) | [00000009.zip](00000009.zip){: .btn .btn-purple } | BASLUS-20504roglgceb: THPS4 Skater:ActionReplay (751_THPS4_Skat_121426.max) |
+| ![Tony Hawk's Pro Skater 4](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Career Boost. All Movies, Characters, Boards & Levels |
+| ![Tony Hawk's Pro Skater 4](icon0.png) | [00000101.zip](00000101.zip){: .btn .btn-purple } | Custom Skater. |

@@ -38,3 +38,4 @@ permalink: PS2/SLES82011/
 | ![Devil May Cry 2 (Disc 1)](icon0.png) | [00000026.zip](00000026.zip){: .btn .btn-purple } | BESLES-82011: NEW_FILE (1_NEW_FILE_378735.max) |
 | ![Devil May Cry 2 (Disc 1)](icon0.png) | [00000027.zip](00000027.zip){: .btn .btn-purple } | BESLES-82011: BEDETA-SYSTEM (1_BEDETA_SYS_185025.max) |
 | ![Devil May Cry 2 (Disc 1)](icon0.png) | [00000028.zip](00000028.zip){: .btn .btn-purple } | BESLES-82011: BEDETA-SYSTEM (1_BEDETA_SYS_650723.max) |
+| ![Devil May Cry 2 (Disc 1)](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Start Juiced Up To The Max. |

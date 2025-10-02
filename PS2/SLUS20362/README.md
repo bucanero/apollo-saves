@@ -22,3 +22,4 @@ permalink: PS2/SLUS20362/
 | ![Need for Speed: Hot Pursuit 2](icon0.png) | [00000010.zip](00000010.zip){: .btn .btn-purple } | BASLUS-20362HP2: NFS:HP2 (8331_NFS_HP2_455548.max) |
 | ![Need for Speed: Hot Pursuit 2](icon0.png) | [00000011.zip](00000011.zip){: .btn .btn-purple } | BASLUS-20362HP2: NFS:HP2 (1392_NFS_HP2_65320.max) |
 | ![Need for Speed: Hot Pursuit 2](icon0.png) | [00000012.zip](00000012.zip){: .btn .btn-purple } | BASLUS-20362HP2: NFS:HP2 (1_NFS_HP2_284771.max) |
+| ![Need for Speed: Hot Pursuit 2](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Cars, Max NFS Points And More. |

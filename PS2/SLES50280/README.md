@@ -12,3 +12,4 @@ permalink: PS2/SLES50280/
 |------|----------|-------------|
 | ![Victorious Boxers: Ippo's Road to Glory](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | BESLES-50280IPPO: VictoriousBoxers (4139_Victorious_325924.max) |
 | ![Victorious Boxers: Ippo's Road to Glory](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | BESLES-50280IPPO: VictoriousBoxers (0_Victorious_46353.max) |
+| ![Victorious Boxers: Ippo's Road to Glory](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Characters and All Levels. |

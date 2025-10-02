@@ -20,3 +20,4 @@ permalink: PS2/SLES50306/
 | ![Resident Evil: Code: Veronica X](icon0.png) | [00000008.zip](00000008.zip){: .btn .btn-purple } | BESLES-50306: RESIDENT EVIL-CODE:Veronica-X (1_RESIDENT_E_258984.max) |
 | ![Resident Evil: Code: Veronica X](icon0.png) | [00000009.zip](00000009.zip){: .btn .btn-purple } | BESLES-50306: RESIDENT EVIL-CODE:Veronica-X (1_RESIDENT_E_614941.max) |
 | ![Resident Evil: Code: Veronica X](icon0.png) | [00000010.zip](00000010.zip){: .btn .btn-purple } | BESLES-50306: RESIDENT EVIL-CODE:Veronica-X (1_RESIDENT_E_941036.max) |
+| ![Resident Evil: Code: Veronica X](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Saves For Clare And Chris. |

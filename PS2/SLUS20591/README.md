@@ -21,3 +21,4 @@ permalink: PS2/SLUS20591/
 | ![Dragon Ball Z: Budokai](icon0.png) | [00000009.zip](00000009.zip){: .btn .btn-purple } | BASLUS-20591DBZ: DRAGON BALL ZGAME DATA (1_DRAGON_BAL_913524.max) |
 | ![Dragon Ball Z: Budokai](icon0.png) | [00000010.zip](00000010.zip){: .btn .btn-purple } | BASLUS-20591DBZ: DRAGON BALL ZGAME DATA (3349_Dragon_Bal_892147.max) |
 | ![Dragon Ball Z: Budokai](icon0.png) | [00000011.zip](00000011.zip){: .btn .btn-purple } | BASLUS-20591DBZ: DRAGON BALL ZGAME DATA (1_DRAGON_BAL_175351.max) |
+| ![Dragon Ball Z: Budokai](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Everything Unlocked. |

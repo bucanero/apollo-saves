@@ -17,3 +17,7 @@ permalink: PS2/SLES50196/
 | ![Legacy of Kain: Soul Reaver 2](icon0.png) | [00000005.zip](00000005.zip){: .btn .btn-purple } | BESLES-501966557_1: SoulReaver2A (1160_SoulReaver_957927.max) |
 | ![Legacy of Kain: Soul Reaver 2](icon0.png) | [00000006.zip](00000006.zip){: .btn .btn-purple } | BESLES-501966557_2: SoulReaver2B (1_SoulReaver_456005.max) |
 | ![Legacy of Kain: Soul Reaver 2](icon0.png) | [00000007.zip](00000007.zip){: .btn .btn-purple } | BESLES-501966557_1: SoulReaver2A (521_SoulReaver_345089.max) |
+| ![Legacy of Kain: Soul Reaver 2](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Sarafan Stronghold Final. |
+| ![Legacy of Kain: Soul Reaver 2](icon0.png) | [00000101.zip](00000101.zip){: .btn .btn-purple } | Wind And Fire Reaver. |
+| ![Legacy of Kain: Soul Reaver 2](icon0.png) | [00000102.zip](00000102.zip){: .btn .btn-purple } | Southern Lake 100 Years On. |
+| ![Legacy of Kain: Soul Reaver 2](icon0.png) | [00000103.zip](00000103.zip){: .btn .btn-purple } | Dark And Light Reaver. |

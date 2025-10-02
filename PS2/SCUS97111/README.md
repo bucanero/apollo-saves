@@ -16,3 +16,4 @@ permalink: PS2/SCUS97111/
 | ![Dark Cloud](icon0.png) | [00000004.zip](00000004.zip){: .btn .btn-purple } | BASCUS-97111dkcloud: Dark Cloud Data (1_Dark_Cloud_602444.max) |
 | ![Dark Cloud](icon0.png) | [00000005.zip](00000005.zip){: .btn .btn-purple } | BASCUS-97111dkcloud: Dark Cloud Data (1_Dark_Cloud_690319.max) |
 | ![Dark Cloud](icon0.png) | [00000006.zip](00000006.zip){: .btn .btn-purple } | BASCUS-97111dkcloud: Dark Cloud Data (10244_Dark_Cloud_796230.max) |
+| ![Dark Cloud](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Village Parts. |

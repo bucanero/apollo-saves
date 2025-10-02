@@ -11,3 +11,4 @@ permalink: PS2/SCES50408/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![PaRappa the Rapper 2](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | BESCES-50408LOG000: PARAPPA2/SYS-01L U K E (C 2) (3158_PaRappa_th_404721.max) |
+| ![PaRappa the Rapper 2](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Levels Complete, Yellow Hat Aquired, Doghouse Unlocked. |

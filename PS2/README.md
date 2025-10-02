@@ -15,6 +15,7 @@ has_toc: false
 | [007: Everything or Nothing](SLUS20751/) | SLUS20751 |
 | [007: Nightfire](SLUS20579/) | SLUS20579 |
 | [7 Blades](SLES50109/) | SLES50109 |
+| [Alpine Racer 3](SCES50887/) | SCES50887 |
 | [ATV Offroad Fury](SCUS97104/) | SCUS97104 |
 | [ATV Offroad Fury 2](SCUS97211/) | SCUS97211 |
 | [ATV Offroad: All Terrain Vehicle](SCES50293/) | SCES50293 |
@@ -158,6 +159,7 @@ has_toc: false
 | [FIFA Football 2004](SLES51963/) | SLES51963 |
 | [Fatal Frame II: Crimson Butterfly](SLUS20766/) | SLUS20766 |
 | [Fight Night 2004](SLUS20906/) | SLUS20906 |
+| [Final Fantasy X](SCES50490/) | SCES50490 |
 | [Final Fantasy X](SCES50492/) | SCES50492 |
 | [Final Fantasy X](SCES50493/) | SCES50493 |
 | [Final Fantasy X](SLUS20312/) | SLUS20312 |
@@ -207,6 +209,8 @@ has_toc: false
 | [Hot Wheels: World Race](SLUS20737/) | SLUS20737 |
 | [I-Ninja](SCES52099/) | SCES52099 |
 | [Ico](SCES50760/) | SCES50760 |
+| [Jak And Daxter](SCES50361/) | SCES50361 |
+| [Jak And Daxter](SCUS97124/) | SCUS97124 |
 | [Jak II](SCUS97265/) | SCUS97265 |
 | [Jak II: Renegade](SCES51608/) | SCES51608 |
 | [Jet Li: Rise to Honor](SCUS97279/) | SCUS97279 |
@@ -265,6 +269,7 @@ has_toc: false
 | [MotoGP 2](SLUS20285/) | SLUS20285 |
 | [MotoGP 3](SCES50982/) | SCES50982 |
 | [MotorStorm: Arctic Edge](SCES55573/) | SCES55573 |
+| [My Street](SCUS97212/) | SCUS97212 |
 | [NASCAR Thunder 2004](SLUS20824/) | SLUS20824 |
 | [NBA 2K9](SLUS21745/) | SLUS21745 |
 | [NBA Live 2003](SLUS20536/) | SLUS20536 |
@@ -300,6 +305,8 @@ has_toc: false
 | [Onimusha 3: Demon Siege](SLUS20694/) | SLUS20694 |
 | [Onimusha: Warlords](SLUS20018/) | SLUS20018 |
 | [PaRappa the Rapper 2](SCES50408/) | SCES50408 |
+| [PaRappa the Rapper 2](SCUS97167/) | SCUS97167 |
+| [Peter Pan: The Legend Of Neverland](SCES50522/) | SCES50522 |
 | [Police 24/7](SLES50285/) | SLES50285 |
 | [Primal](SCES51135/) | SCES51135 |
 | [Primal Image Vol. 1](SLPS20013/) | SLPS20013 |
@@ -324,6 +331,7 @@ has_toc: false
 | [Resident Evil: Outbreak](SLES51589/) | SLES51589 |
 | [Resident Evil: Outbreak](SLUS20765/) | SLUS20765 |
 | [Resident Evil: Outbreak: File #2](SLES53319/) | SLES53319 |
+| [Rez](SCES50501/) | SCES50501 |
 | [Rez](SLUS20344/) | SLUS20344 |
 | [Ridge Racer V](SLUS20002/) | SLUS20002 |
 | [Robot Alchemic Drive](SLUS20445/) | SLUS20445 |
@@ -346,6 +354,7 @@ has_toc: false
 | [Shadow Man: 2econd Coming](SLUS20413/) | SLUS20413 |
 | [Shin Megami Tensei: Persona 3 FES](SLUS21621/) | SLUS21621 |
 | [Shin Megami Tensei: Persona 4](SLUS21782/) | SLUS21782 |
+| [Shinobi](SCES51428/) | SCES51428 |
 | [Shinobi](SLUS20459/) | SLUS20459 |
 | [Shrek 2](SLUS20745/) | SLUS20745 |
 | [Silent Hill 2](SLUS20228/) | SLUS20228 |
@@ -453,6 +462,7 @@ has_toc: false
 | [WWE SmackDown vs. Raw 2009](SLES55251/) | SLES55251 |
 | [WWE SmackDown! Here Comes the Pain](SLUS20787/) | SLUS20787 |
 | [WWE SmackDown! Shut Your Mouth](SLUS20483/) | SLUS20483 |
+| [War of the Monsters](SCUS97197/) | SCUS97197 |
 | [Warhammer 40,000: Fire Warrior](SLES50958/) | SLES50958 |
 | [Warhammer 40,000: Fire Warrior](SLUS20597/) | SLUS20597 |
 | [Wave Rally](SLUS20313/) | SLUS20313 |
@@ -462,6 +472,7 @@ has_toc: false
 | [WipEout Fusion](SLUS20462/) | SLUS20462 |
 | [Woody Woodpecker](SLES50613/) | SLES50613 |
 | [World Destruction League: WarJetz](SLUS20007/) | SLUS20007 |
+| [World Rally Championship](SCES50139/) | SCES50139 |
 | [World Soccer Winning Eleven 7: International](SLUS20863/) | SLUS20863 |
 | [Worms 4: Mayhem](SLES53096/) | SLES53096 |
 | [X Squad](SLUS20094/) | SLUS20094 |

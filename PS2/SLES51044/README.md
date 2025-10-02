@@ -22,3 +22,4 @@ permalink: PS2/SLES51044/
 | ![Burnout 2: Point of Impact](icon0.png) | [00000010.zip](00000010.zip){: .btn .btn-purple } | BESLES-51044: Burnout 2 (1_Burnout_2_788113.max) |
 | ![Burnout 2: Point of Impact](icon0.png) | [00000011.zip](00000011.zip){: .btn .btn-purple } | BESLES-51044: Burnout 2 (1_Burnout_2_277432.max) |
 | ![Burnout 2: Point of Impact](icon0.png) | [00000012.zip](00000012.zip){: .btn .btn-purple } | BESLES-51044: Burnout 2 (1_Burnout_2_877346.max) |
+| ![Burnout 2: Point of Impact](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Cars, All Cheats. |

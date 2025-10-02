@@ -14,3 +14,4 @@ permalink: PS2/SCUS97104/
 | ![ATV Offroad Fury](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | BASCUS-97104ATVFury: ATV Offroad Fury (1_ATV_Offroa_724377.max) |
 | ![ATV Offroad Fury](icon0.png) | [00000003.zip](00000003.zip){: .btn .btn-purple } | BASCUS-97104ATVFury: ATV Offroad Fury (1_ATV_Offroa_620098.max) |
 | ![ATV Offroad Fury](icon0.png) | [00000004.zip](00000004.zip){: .btn .btn-purple } | BASCUS-97104ATVFury: ATV Offroad Fury (0_ATV_Offroa_478848.max) |
+| ![ATV Offroad Fury](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Everything Unlocked. |

@@ -16,3 +16,4 @@ permalink: PS2/SLUS20018/
 | ![Onimusha: Warlords](icon0.png) | [00000004.zip](00000004.zip){: .btn .btn-purple } | BASLUS-20018: ONIMUSHA (20960_ONIMUSHAA_75284.max) |
 | ![Onimusha: Warlords](icon0.png) | [00000005.zip](00000005.zip){: .btn .btn-purple } | BASLUS-20018: ONIMUSHA (1_ONIMUSHA_212826.max) |
 | ![Onimusha: Warlords](icon0.png) | [00000006.zip](00000006.zip){: .btn .btn-purple } | BASLUS-20018: ONIMUSHA (8107_After_Wate_348873.max) |
+| ![Onimusha: Warlords](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Begin Game With Everything. |

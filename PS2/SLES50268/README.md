@@ -14,3 +14,4 @@ permalink: PS2/SLES50268/
 | ![SpyHunter](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | BESLES-50268SPYHUNT:  SPY HUNTER (1__SPY_HUNTE_930263.max) |
 | ![SpyHunter](icon0.png) | [00000003.zip](00000003.zip){: .btn .btn-purple } | BESLES-50268SPYHUNT:  SPY HUNTER (1__SPY_HUNTE_226788.max) |
 | ![SpyHunter](icon0.png) | [00000004.zip](00000004.zip){: .btn .btn-purple } | BESLES-50268SPYHUNT:  SPY HUNTER (8616_SPY_HUNTER_367230.max) |
+| ![SpyHunter](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Levels Open, Super Spy Mode, Hover Car Mode. |

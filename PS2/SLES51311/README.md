@@ -11,3 +11,4 @@ permalink: PS2/SLES51311/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![Rugrats: Royal Ransom](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | BESLES-51311Rugr: Rugrats Royal Ransom (0_Rugrats_Ro_220929.max) |
+| ![Rugrats: Royal Ransom](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | 99 Batteries, Stacks Of Coins, Stacks Of 'Funny Money'. |

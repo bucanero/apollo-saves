@@ -16,3 +16,4 @@ permalink: PS2/SLES50386/
 | ![Crash Bandicoot: The Wrath of Cortex](icon0.png) | [00000004.zip](00000004.zip){: .btn .btn-purple } | BESLES-50386: Crash BandicootWrath of Cortex (1026_Crash_Band_691433.max) |
 | ![Crash Bandicoot: The Wrath of Cortex](icon0.png) | [00000005.zip](00000005.zip){: .btn .btn-purple } | BESLES-50386: Crash BandicootWrath of Cortex (1_Crash_Band_321133.max) |
 | ![Crash Bandicoot: The Wrath of Cortex](icon0.png) | [00000006.zip](00000006.zip){: .btn .btn-purple } | BESLES-50386: Crash BandicootWrath of Cortex (625_Crash_Band_316983.max) |
+| ![Crash Bandicoot: The Wrath of Cortex](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Levels, All Powers. |

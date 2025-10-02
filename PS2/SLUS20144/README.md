@@ -26,3 +26,4 @@ permalink: PS2/SLUS20144/
 | ![Metal Gear Solid 2: Sons of Liberty](icon0.png) | [00000014.zip](00000014.zip){: .btn .btn-purple } | BASLUS-20144000G000: MGS2    1:14:18Strut A Pump Rm (1_MGS2____1__81326.max) |
 | ![Metal Gear Solid 2: Sons of Liberty](icon0.png) | [00000015.zip](00000015.zip){: .btn .btn-purple } | BASLUS-20144000G000: MGS2    3:55:17Plant Cleared (14794_MGS2__3_55_982479.max) |
 | ![Metal Gear Solid 2: Sons of Liberty](icon0.png) | [00000016.zip](00000016.zip){: .btn .btn-purple } | BASLUS-20144000G001: MGS2   12:08:46Plant Cleared (14948_MGS2_______38464.max) |
+| ![Metal Gear Solid 2: Sons of Liberty](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Dog Tags, Start With All Items And Weapons. |

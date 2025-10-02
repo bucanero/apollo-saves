@@ -15,3 +15,5 @@ permalink: PS2/SLES50435/
 | ![Tony Hawk's Pro Skater 3](icon0.png) | [00000003.zip](00000003.zip){: .btn .btn-purple } | BESLES-50435naaproia: THPS3 Options and Pro Careers (735_THPS3_Opti_817211.max) |
 | ![Tony Hawk's Pro Skater 3](icon0.png) | [00000004.zip](00000004.zip){: .btn .btn-purple } | BESLES-50435naaproia: THPS3 Options and Pro Careers (5652_THPS3_Opti_492611.max) |
 | ![Tony Hawk's Pro Skater 3](icon0.png) | [00000005.zip](00000005.zip){: .btn .btn-purple } | BESLES-50435naaproia: THPS3 Options and Pro Careers (1_THPS3_Opti_976513.max) |
+| ![Tony Hawk's Pro Skater 3](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | All Characters, Cheats, Stats Maxed, Movies And Levels. |
+| ![Tony Hawk's Pro Skater 3](icon0.png) | [00000101.zip](00000101.zip){: .btn .btn-purple } | BESLES-50435tbtpgjgb: THPS3 Skater:Custom Skater (THPS3SKA.MAX) |

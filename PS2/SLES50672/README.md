@@ -14,3 +14,4 @@ permalink: PS2/SLES50672/
 | ![Baldur's Gate: Dark Alliance](icon0.png) | [00000002.zip](00000002.zip){: .btn .btn-purple } | BESLES-50672: Baldur (8199_Baldur_s_G_71454.max) |
 | ![Baldur's Gate: Dark Alliance](icon0.png) | [00000003.zip](00000003.zip){: .btn .btn-purple } | BESLES-50672: Baldur (1_Baldur_804211.max) |
 | ![Baldur's Gate: Dark Alliance](icon0.png) | [00000004.zip](00000004.zip){: .btn .btn-purple } | BESLES-50672: Baldur (234_Baldur_s_G_718716.max) |
+| ![Baldur's Gate: Dark Alliance](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Loads Unlocked. Finished With All Characters, Unlocked Secret Character, Unlocked Extreme Mode, Stacks Of Cash, Stacks Of Weapons & Items, All Stats Maxed |

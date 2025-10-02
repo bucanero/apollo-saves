@@ -58,3 +58,4 @@ permalink: PS2/SLUS20312/
 | ![Final Fantasy X](icon0.png) | [00000046.zip](00000046.zip){: .btn .btn-purple } | BASLUS-20312FF090600: FF10 [01]   0:52Ruins-UnderHall (1_FF10__01___718410.max) |
 | ![Final Fantasy X](icon0.png) | [00000047.zip](00000047.zip){: .btn .btn-purple } | BASLUS-20312FF090602: FF10 [03] 117:38Woods-South (4365_Final_Fant_385449.max) |
 | ![Final Fantasy X](icon0.png) | [00000048.zip](00000048.zip){: .btn .btn-purple } | BASLUS-20312FF090600: FF10 complete (1_FF10_compl_519207.max) |
+| ![Final Fantasy X](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Begin With Max Gil And Stats, All Items And Abilities. |

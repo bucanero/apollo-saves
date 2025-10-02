@@ -11,3 +11,4 @@ permalink: PS2/SLUS20173/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![Unison: Rebels of Rhythm & Dance](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | BISLUS-20173UNiSON: UNiSON (0_Unison_Pow_852627.max) |
+| ![Unison: Rebels of Rhythm & Dance](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Trill, Celia, Chilli (Stage 8) And All Songs Unlocked. |

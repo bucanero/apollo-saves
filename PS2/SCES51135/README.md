@@ -17,3 +17,4 @@ permalink: PS2/SCES51135/
 | ![Primal](icon0.png) | [00000005.zip](00000005.zip){: .btn .btn-purple } | BESCES-51135643ef2d: PRIMAL  (3)Solum (0_Primal_Pow_165890.max) |
 | ![Primal](icon0.png) | [00000006.zip](00000006.zip){: .btn .btn-purple } | BESCES-511357491f6d: PRIMAL  (1)Solum (4605_Primal_559811.max) |
 | ![Primal](icon0.png) | [00000007.zip](00000007.zip){: .btn .btn-purple } | BESCES-511358bf9e91: PRIMAL  (12)Solum (609_PRIMAL_(12_570019.max) |
+| ![Primal](icon0.png) | [00000100.zip](00000100.zip){: .btn .btn-purple } | Start With A Ton Of Gems And Loadstones. |
