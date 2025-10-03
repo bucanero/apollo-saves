@@ -379,6 +379,7 @@ has_toc: false
 | [Rez](SLUS20344/) | SLUS20344 |
 | [Ridge Racer V](SLUS20002/) | SLUS20002 |
 | [Robot Alchemic Drive](SLUS20445/) | SLUS20445 |
+| [Robot Warlords](SLES50136/) | SLES50136 |
 | [Robot Wars: Arenas of Destruction](SLES50572/) | SLES50572 |
 | [Robotech: Battlecry](SLUS20244/) | SLUS20244 |
 | [Romance of the Three Kingdoms IX](SLUS20879/) | SLUS20879 |

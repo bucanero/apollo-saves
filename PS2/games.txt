@@ -368,6 +368,7 @@ SCES50501=Rez
 SLUS20344=Rez
 SLUS20002=Ridge Racer V
 SLUS20445=Robot Alchemic Drive
+SLES50136=Robot Warlords
 SLES50572=Robot Wars: Arenas of Destruction
 SLUS20244=Robotech: Battlecry
 SLUS20879=Romance of the Three Kingdoms IX
