@@ -1,1 +1,2 @@
 00000001.zip=New Game+ save file. Maxed stats. Has every items/outfit/weapon including all items from Heka Chest and stuff from the store you would normally get with Helix Credits. (Hidden ones DLC need to be installed)
+00000002.zip=[v1.44] [1] Save Slot: 100% (With DLCs), All Items (With Heka/Helix Items), All Outfits, Max Level (55), Stats Modded (2k) [2] Save Slot: New Game + (all DLCs need to be installed)
