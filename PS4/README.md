@@ -98,6 +98,7 @@ has_toc: false
 | [Marvel's Spider-Man](CUSA11993/) | CUSA11993 |
 | [Marvel's Spider-Man: Miles Morales](CUSA17722/) | CUSA17722 |
 | [Marvel's Spider-Man: Miles Morales](CUSA17776/) | CUSA17776 |
+| [METAL GEAR SOLID V - THE PHANTOM PAIN](CUSA01154/) | CUSA01154 |
 | [Minecraft](CUSA00265/) | CUSA00265 |
 | [Minecraft](CUSA00744/) | CUSA00744 |
 | [NARUTO STORM 4 ROAD TO BORUTO](CUSA06381/) | CUSA06381 |

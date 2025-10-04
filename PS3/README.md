@@ -29,6 +29,7 @@ has_toc: false
 | [Assassin's Creed](BLUS30089/) | BLUS30089 |
 | [Assassin's Creed II](BLUS30364/) | BLUS30364 |
 | [Assassin's Creed III](BLES01667/) | BLES01667 |
+| [Assassin's Creed Rogue](BLUS31465/) | BLUS31465 |
 | [ASURA'S WRATH](BLUS30721/) | BLUS30721 |
 | [Atelier Ayesha - The Alchemist Of Dusk](NPUB31115/) | NPUB31115 |
 | [Batman: Arkham Asylum](BLES00503/) | BLES00503 |
@@ -318,6 +319,7 @@ has_toc: false
 | [Sonic & All Stars Racing Transformed](BLUS30839/) | BLUS30839 |
 | [Sonic & All Stars Racing Transformed](BLES01646/) | BLES01646 |
 | [Sonic & Sega All Stars Racing](BLES00750/) | BLES00750 |
+| [Soul Calibur IV](BLUS30160/) | BLUS30160 |
 | [Soul Calibur V](BLUS30736/) | BLUS30736 |
 | [Spider Man - Shattered Dimensions](BLUS30499/) | BLUS30499 |
 | [Splatterhouse](BLUS30335/) | BLUS30335 |
