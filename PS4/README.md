@@ -72,9 +72,9 @@ has_toc: false
 | [God of War](CUSA07408/) | CUSA07408 |
 | [GOD OF WAR RAGNARÖK](CUSA34384/) | CUSA34384 |
 | [GOD OF WAR RAGNARÖK](CUSA34386/) | CUSA34386 |
-| [Grand Theft Auto III - The Definitive Edition](CUSA26613/) | CUSA26613 |
-| [Grand Theft Auto Vice City - The Definitive Edition](CUSA26616/) | CUSA26616 |
-| [Grand Theft Auto San Andreas - The Definitive Edition](CUSA26619/) | CUSA26619 |
+| [Grand Theft Auto III (Definitive Edition)](CUSA26613/) | CUSA26613 |
+| [Grand Theft Auto Vice City (Definitive Edition)](CUSA26616/) | CUSA26616 |
+| [Grand Theft Auto San Andreas (Definitive Edition)](CUSA26619/) | CUSA26619 |
 | [Grand Theft Auto V](CUSA00411/) | CUSA00411 |
 | [Gravity Rush 2](CUSA04943/) | CUSA04943 |
 | [Gundam Breaker 3 - Break Edition](CUSA07651/) | CUSA07651 |
