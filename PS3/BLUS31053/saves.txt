@@ -1,1 +1,4 @@
 00000001.zip=100% completed, all weapons fully upgraded
+00000010.zip=Save completed on difficulty Classic Mode. Save before the final boss ("The Moon")
+00000020.zip=Save completed on difficulty Impossible Mode. Save before the final boss ("The Moon")
+00000030.zip=Save completed on difficulty Survival Mode. Save before the final boss ("The Moon")

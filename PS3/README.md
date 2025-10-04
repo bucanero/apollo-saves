@@ -15,6 +15,7 @@ has_toc: false
 | [After Burner Climax](NPUB30151/) | NPUB30151 |
 | [AKIBA'S TRIP UNDEAD & UNDRESSED](NPUB31475/) | NPUB31475 |
 | [Alice - Madness Returns](BLUS30607/) | BLUS30607 |
+| [Alien Isolation](BLES01697/) | BLES01697 |
 | [Aliens - Colonial Marines](BLES01455/) | BLES01455 |
 | [Aliens - Colonial Marines](BLUS30862/) | BLUS30862 |
 | [Aliens vs Predator](BLUS30340/) | BLUS30340 |

@@ -1,0 +1,3 @@
+00000056.zip=In the menu, select Continue Game. When you start, you'll be at the final checkpoint. Beat the final alien encounter without failing (don't die), and the following trophy will unlock: "One Attempt"
+00000068.zip=Load Mission 19 and complete the chapter. Upon completion, the following trophies will unlock: "Survivor", "Pity or Prudence"
+00000017.zip=In the menu, select continue game. When loading, start shooting and the alien will come towards you, unlocking the following trophy: "100 times is not enough"

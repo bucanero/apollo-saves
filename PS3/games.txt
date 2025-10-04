@@ -4,6 +4,7 @@ BLUS30264=Afro Samurai
 NPUB30151=After Burner Climax
 NPUB31475=AKIBA'S TRIP UNDEAD & UNDRESSED
 BLUS30607=Alice - Madness Returns
+BLES01697=Alien Isolation
 BLES01455=Aliens - Colonial Marines
 BLUS30862=Aliens - Colonial Marines
 BLUS30340=Aliens vs Predator
