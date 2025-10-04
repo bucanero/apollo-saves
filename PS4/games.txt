@@ -101,7 +101,6 @@ CUSA19640=Persona 5 Strikers
 CUSA01073=Ratchet & Clank
 CUSA36843=Red Dead Redemption
 CUSA36842=Red Dead Redemption
-PPSA99078=Red Dead Redemption (Modded)
 CUSA08519=Red Dead Redemption 2
 CUSA09193=Resident Evil 2 Remake
 CUSA14168=Resident Evil 3 Remake

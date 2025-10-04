@@ -112,7 +112,6 @@ has_toc: false
 | [Ratchet & Clank](CUSA01073/) | CUSA01073 |
 | [Red Dead Redemption](CUSA36843/) | CUSA36843 |
 | [Red Dead Redemption](CUSA36842/) | CUSA36842 |
-| [Red Dead Redemption (Mod)](PPSA99078/) | PPSA99078 |
 | [Red Dead Redemption 2](CUSA08519/) | CUSA08519 |
 | [Resident Evil 2 Remake](CUSA09193/) | CUSA09193 |
 | [Resident Evil 3 Remake](CUSA14168/) | CUSA14168 |
