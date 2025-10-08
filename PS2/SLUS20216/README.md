@@ -19,3 +19,4 @@ permalink: PS2/SLUS20216/
 | ![Devil May Cry](icon0.png) | [00000007.zip](00000007.zip){: .btn .btn-purple } | BASLUS-20216: Devil May CrySaveData (4100_Devil_May__296872.max) |
 | ![Devil May Cry](icon0.png) | [00000008.zip](00000008.zip){: .btn .btn-purple } | BASLUS-20216: Devil May CrySaveData (1_Devil_May__564785.max) |
 | ![Devil May Cry](icon0.png) | [00000009.zip](00000009.zip){: .btn .btn-purple } | BASLUS-20216: Devil May CrySaveData (1_Devil_May__910808.max) |
+| ![Devil May Cry](icon0.png) | [00000010.zip](00000010.zip){: .btn .btn-purple } | Everything 100% Complete and Unlocked |

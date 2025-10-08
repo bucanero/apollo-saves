@@ -7,3 +7,4 @@
 00000007.zip=BASLUS-20216: Devil May CrySaveData (4100_Devil_May__296872.max)
 00000008.zip=BASLUS-20216: Devil May CrySaveData (1_Devil_May__564785.max)
 00000009.zip=BASLUS-20216: Devil May CrySaveData (1_Devil_May__910808.max)
+00000010.zip=Everything 100% Complete and Unlocked

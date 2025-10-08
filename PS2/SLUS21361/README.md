@@ -20,3 +20,4 @@ permalink: PS2/SLUS21361/
 | ![Devil May Cry 3: Dante's Awakening (Special Edition)](icon0.png) | [00000008.zip](00000008.zip){: .btn .btn-purple } | BASLUS-21361DMC3SE: Devil May Cry 3Special Edition (15321_Devil_May__263150.max) |
 | ![Devil May Cry 3: Dante's Awakening (Special Edition)](icon0.png) | [00000009.zip](00000009.zip){: .btn .btn-purple } | BASLUS-21361DMC3SE: Devil May Cry 3Special Edition (20761_Devil_May__816311.max) |
 | ![Devil May Cry 3: Dante's Awakening (Special Edition)](icon0.png) | [00000010.zip](00000010.zip){: .btn .btn-purple } | BASLUS-21361DMC3SE: Devil May Cry 3 Special Edition (1_Devil_May__293805.max) |
+| ![Devil May Cry 3: Dante's Awakening (Special Edition)](icon0.png) | [00000011.zip](00000011.zip){: .btn .btn-purple } | 100% Everything Unlocked & Maxed Up! All Costumes Unlocked & Rank SS in all Missions! |
