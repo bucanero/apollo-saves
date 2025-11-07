@@ -82,6 +82,7 @@ CUSA17271=Kingdoms of Amalur: Re-Reckoning
 CUSA01513=LEGO Jurrasic World
 CUSA02122=LEGO Marvel's Avengers
 CUSA02107=LEGO Marvel's Avengers
+CUSA48704=Lollipop Chainsaw Repop
 CUSA24278=Märchen Forest
 CUSA02299=Marvel's Spider Man
 CUSA11993=Marvel's Spider-Man

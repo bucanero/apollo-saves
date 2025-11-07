@@ -93,6 +93,7 @@ has_toc: false
 | [LEGO Jurrasic World](CUSA01513/) | CUSA01513 |
 | [LEGO Marvel's Avengers](CUSA02122/) | CUSA02122 |
 | [LEGO Marvel's Avengers](CUSA02107/) | CUSA02107 |
+| [Lollipop Chainsaw Repop](CUSA48704/) | CUSA48704 |
 | [Märchen Forest](CUSA24278/) | CUSA24278 |
 | [Marvel's Spider Man](CUSA02299/) | CUSA02299 |
 | [Marvel's Spider-Man](CUSA11993/) | CUSA11993 |
