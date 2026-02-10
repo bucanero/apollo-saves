@@ -19,4 +19,4 @@ permalink: PS4/CUSA00744/
 | ![Minecraft](icon0.png) | [00000007.zip](00000007.zip){: .btn .btn-purple } | Barrier item (Legacy) |
 | ![Minecraft](icon0.png) | [00000008.zip](00000008.zip){: .btn .btn-purple } | Minigame Lobby Old (Legacy) |
 | ![Minecraft](icon0.png) | [00000009.zip](00000009.zip){: .btn .btn-purple } | Tutorial 1.16 (Legacy) |
-| ![Minecraft](icon0.png) | [000000010.zip](000000010.zip){: .btn .btn-purple } | Tutorial 1.25 (Legacy) |
+| ![Minecraft](icon0.png) | [00000010.zip](00000010.zip){: .btn .btn-purple } | Tutorial 1.25 (Legacy) |
