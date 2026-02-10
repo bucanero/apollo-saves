@@ -307,6 +307,7 @@ has_toc: false
 | [RIDGE RACER 7](BLJS10001/) | BLJS10001 |
 | [Rocketbirds - Hardboiled Chicken](NPEB00722/) | NPEB00722 |
 | [Sacred Citadel](NPEB01212/) | NPEB01212 |
+| [Sacred 2: Fallen Angel](BLES00410/) | BLES00410 |
 | [Saints Row - The Third](BLUS31062/) | BLUS31062 |
 | [Samurai Warriors 4](NPUB31564/) | NPUB31564 |
 | [Sengoku Musou 4](NPJB00534/) | NPJB00534 |
@@ -342,6 +343,8 @@ has_toc: false
 | [The ICO & Shadow of the Colossus Collection](BCES01097/) | BCES01097 |
 | [The Last of Us](BCUS98174/) | BCUS98174 |
 | [The Last Of Us](BCES01585/) | BCES01585 |
+| [The Legend of Heroes: Trails of Cold Steel](NPUB31759/) | NPUB31759 |
+| [The Legend of Heroes: Trails of Cold Steel II](NPUB31836/) | NPUB31836 |
 | [The Tomb Raider Trilogy](BLUS30718/) | BLUS30718 |
 | [The Walking Dead - Survival Instinct](BLES01779/) | BLES01779 |
 | [The Walking Dead - Survival Instinct](BLUS31065/) | BLUS31065 |
