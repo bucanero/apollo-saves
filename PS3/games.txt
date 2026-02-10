@@ -296,6 +296,7 @@ BCUS98176=Resistance 3
 BLJS10001=RIDGE RACER 7
 NPEB00722=Rocketbirds - Hardboiled Chicken
 NPEB01212=Sacred Citadel
+BLES00410=Sacred 2: Fallen Angel
 BLUS31062=Saints Row - The Third
 NPUB31564=Samurai Warriors 4
 NPJB00534=Sengoku Musou 4
