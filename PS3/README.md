@@ -240,6 +240,7 @@ has_toc: false
 | [Middle-Earth™: Shadow of Mordor™](BLUS31059/) | BLUS31059 |
 | [Minecraft: PlayStation 3 Edition](NPUB31419/) | NPUB31419 |
 | [Mini Ninjas](BLES00512/) | BLES00512 |
+| [Monsters vs. Aliens](BLES00490/) | BLES00490 |
 | [Mortal Kombat](BLUS30522/) | BLUS30522 |
 | [Mortal Kombat vs DC Universe](BLUS30246/) | BLUS30246 |
 | [MotorStorm™](BCES00006/) | BCES00006 |
@@ -276,6 +277,7 @@ has_toc: false
 | [Phantom Breaker: Extra](BLJM61098/) | BLJM61098 |
 | [Pirates of the Caribbean At World's End](BLUS30029/) | BLUS30029 |
 | [PlayStation All Stars - Battle Royale](BCES01435/) | BCES01435 |
+| [Puppeteer™](BCJS30078/) | BCJS30078 |
 | [Racket Sports](BLES01000/) | BLES01000 |
 | [Ragnarok Odyssey ACE](NPUB31406/) | NPUB31406 |
 | [Rapala Pro Bass Fishing](BLES00957/) | BLES00957 |
@@ -316,6 +318,9 @@ has_toc: false
 | [SingStar](BCES00011/) | BCES00011 |
 | [SingStar](NPEA00374/) | NPEA00374 |
 | [Singularity](BLUS30296/) | BLUS30296 |
+| [Skylanders Giants](BLES01689/) | BLES01689 |
+| [Skylanders Spyro's Adventure](BLES01272/) | BLES01272 |
+| [Skylanders Trap Team](BLES02055/) | BLES02055 |
 | [SNIPER ELITE III](BLES01981/) | BLES01981 |
 | [Sniper Elite V2](BLES01290/) | BLES01290 |
 | [Sonic & All Stars Racing Transformed](BLUS30839/) | BLUS30839 |
@@ -345,6 +350,7 @@ has_toc: false
 | [The Last Of Us](BCES01585/) | BCES01585 |
 | [The Legend of Heroes: Trails of Cold Steel](NPUB31759/) | NPUB31759 |
 | [The Legend of Heroes: Trails of Cold Steel II](NPUB31836/) | NPUB31836 |
+| [The Saboteur](BLES00743/) | BLES00743 |
 | [The Tomb Raider Trilogy](BLUS30718/) | BLUS30718 |
 | [The Walking Dead - Survival Instinct](BLES01779/) | BLES01779 |
 | [The Walking Dead - Survival Instinct](BLUS31065/) | BLUS31065 |
