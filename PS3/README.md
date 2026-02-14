@@ -23,6 +23,7 @@ has_toc: false
 | [Alone in the Dark: Inferno](BLES00422/) | BLES00422 |
 | [Alone in the Dark: Inferno](BLUS30232/) | BLUS30232 |
 | [Altered Beast](NPUB30459/) | NPUB30459 |
+| [Anarchy Reigns](BLUS30632/) | BLUS30632 |
 | [Army of Two: The 40th Day](BLUS30408/) | BLUS30408 |
 | [Army of Two: The Devil's Cartel](BLUS31069/) | BLUS31069 |
 | [ARSLAN: THE WARRIORS OF LEGEND](NPUB31797/) | NPUB31797 |
@@ -240,6 +241,7 @@ has_toc: false
 | [Middle-Earth™: Shadow of Mordor™](BLUS31059/) | BLUS31059 |
 | [Minecraft: PlayStation 3 Edition](NPUB31419/) | NPUB31419 |
 | [Mini Ninjas](BLES00512/) | BLES00512 |
+| [Mini Ninjas](BLUS30284/) | BLUS30284 |
 | [Monsters vs. Aliens](BLES00490/) | BLES00490 |
 | [Mortal Kombat](BLUS30522/) | BLUS30522 |
 | [Mortal Kombat vs DC Universe](BLUS30246/) | BLUS30246 |
