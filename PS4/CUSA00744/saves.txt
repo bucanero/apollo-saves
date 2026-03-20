@@ -8,3 +8,6 @@
 00000008.zip=Minigame Lobby Old (Legacy)
 00000009.zip=Tutorial 1.16 (Legacy)
 00000010.zip=Tutorial 1.25 (Legacy)
+00000011.zip=All items (Trophies)
+00000012.zip=Unobtainables
+00000013.zip=Unobtainables (Flat)
