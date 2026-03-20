@@ -20,3 +20,6 @@ permalink: PS4/CUSA00265/
 | ![Minecraft](icon0.png) | [00000008.zip](00000008.zip){: .btn .btn-purple } | Minigame Lobby Old (Legacy) |
 | ![Minecraft](icon0.png) | [00000009.zip](00000009.zip){: .btn .btn-purple } | Tutorial 1.16 (Legacy) |
 | ![Minecraft](icon0.png) | [00000010.zip](00000010.zip){: .btn .btn-purple } | Tutorial 1.25 (Legacy) |
+| ![Minecraft](icon0.png) | [00000011.zip](00000011.zip){: .btn .btn-purple } | All items (Trophies) |
+| ![Minecraft](icon0.png) | [00000012.zip](00000012.zip){: .btn .btn-purple } | Unobtainables |
+| ![Minecraft](icon0.png) | [00000013.zip](00000013.zip){: .btn .btn-purple } | Unobtainables (Flat) |
