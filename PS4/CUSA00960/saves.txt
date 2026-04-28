@@ -1,0 +1,1 @@
+00000001.zip=PlayStation Vue save file to be used when the save file gets corrupted
