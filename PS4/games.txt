@@ -4,6 +4,7 @@ CUSA33151=Assassin's Creed® Mirage
 CUSA09303=Assassin's Creed® Odyssey
 CUSA10123=Assassin's Creed® Rogue Remastered
 CUSA05625=Assassin's Creed: Origins
+CUSA18534=Assassin's Creed® Valhalla
 CUSA13367=Asterix & Obelix XXL 2 - Roman Rumble in Las Vegum
 CUSA14544=Atelier Lulua: The Scion of Arland
 CUSA10767=Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings

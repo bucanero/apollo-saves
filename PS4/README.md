@@ -15,6 +15,7 @@ has_toc: false
 | [Assassin's Creed® Odyssey](CUSA09303/) | CUSA09303 |
 | [Assassin's Creed® Rogue Remastered](CUSA10123/) | CUSA10123 |
 | [Assassin's Creed: Origins](CUSA05625/) | CUSA05625 |
+| [Assassin's Creed® Valhalla](CUSA18534/) | CUSA18534 |
 | [Asterix & Obelix XXL 2 - Roman Rumble in Las Vegum](CUSA13367/) | CUSA13367 |
 | [Atelier Lulua: The Scion of Arland](CUSA14544/) | CUSA14544 |
 | [Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings](CUSA10767/) | CUSA10767 |
