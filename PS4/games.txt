@@ -100,6 +100,7 @@ CUSA16648=ONE PIECE: PIRATE WARRIORS 4
 CUSA37521=Persona 3 Reload
 CUSA17419=Persona 5 Royal
 CUSA19640=Persona 5 Strikers
+CUSA00960=PlayStation Vue
 CUSA01073=Ratchet & Clank
 CUSA36843=Red Dead Redemption
 CUSA36842=Red Dead Redemption
