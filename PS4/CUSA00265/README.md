@@ -23,3 +23,10 @@ permalink: PS4/CUSA00265/
 | ![Minecraft](icon0.png) | [00000011.zip](00000011.zip){: .btn .btn-purple } | All items (Trophies) |
 | ![Minecraft](icon0.png) | [00000012.zip](00000012.zip){: .btn .btn-purple } | Unobtainables |
 | ![Minecraft](icon0.png) | [00000013.zip](00000013.zip){: .btn .btn-purple } | Unobtainables (Flat) |
+| ![Minecraft](icon0.png) | [00000014.zip](00000014.zip){: .btn .btn-purple } | Tutorial Pre-TU1 |
+| ![Minecraft](icon0.png) | [00000015.zip](00000015.zip){: .btn .btn-purple } | Tutorial TU1 |
+| ![Minecraft](icon0.png) | [00000016.zip](00000016.zip){: .btn .btn-purple } | Tutorial TU3 |
+| ![Minecraft](icon0.png) | [00000017.zip](00000017.zip){: .btn .btn-purple } | Tutorial TU5 |
+| ![Minecraft](icon0.png) | [00000018.zip](00000018.zip){: .btn .btn-purple } | Tutorial TU7 |
+| ![Minecraft](icon0.png) | [00000019.zip](00000019.zip){: .btn .btn-purple } | Tutorial TU9 |
+| ![Minecraft](icon0.png) | [00000020.zip](00000020.zip){: .btn .btn-purple } | Tutorial TU12 |

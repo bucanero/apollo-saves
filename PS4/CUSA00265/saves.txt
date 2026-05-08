@@ -11,3 +11,10 @@
 00000011.zip=All items (Trophies)
 00000012.zip=Unobtainables
 00000013.zip=Unobtainables (Flat)
+00000014.zip=Tutorial Pre-TU1
+00000015.zip=Tutorial TU1
+00000016.zip=Tutorial TU3
+00000017.zip=Tutorial TU5
+00000018.zip=Tutorial TU7
+00000019.zip=Tutorial TU9
+00000020.zip=Tutorial TU12
