@@ -473,6 +473,7 @@ has_toc: false
 | [The Adventures of Cookie & Cream](SLUS20170/) | SLUS20170 |
 | [The Bouncer](SLUS20069/) | SLUS20069 |
 | [The Getaway](SCUS97133/) | SCUS97133 |
+| [The Guy Game](SLUS21074/) | SLUS21074 |
 | [The King of Route 66](SLUS20522/) | SLUS20522 |
 | [The Legend of Alon D'ar](SLUS20045/) | SLUS20045 |
 | [The Lord of the Rings: The Return of the King](SLUS20770/) | SLUS20770 |

@@ -462,6 +462,7 @@ SLUS20177=Test Drive Off-Road: Wide Open
 SLUS20170=The Adventures of Cookie & Cream
 SLUS20069=The Bouncer
 SCUS97133=The Getaway
+SLUS21074=The Guy Game
 SLUS20522=The King of Route 66
 SLUS20045=The Legend of Alon D'ar
 SLUS20770=The Lord of the Rings: The Return of the King
