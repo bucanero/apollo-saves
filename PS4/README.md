@@ -85,7 +85,7 @@ has_toc: false
 | [Horizon Forbidden West](CUSA24705/) | CUSA24705 |
 | [Horizon Zero Dawn™](CUSA07320/) | CUSA07320 |
 | [Hot Wheels Unleashed](CUSA25502/) | CUSA25502 |
-| [It Takes Two](CUSA16746/) | CUSA16746 |
+| [It Takes Two](CUSA16742/) | CUSA16742 |
 | [Just Sing](CUSA03483/) | CUSA03483 |
 | [Kimetsu no Yaiba Hinokami Keppūtan](CUSA27305/) | CUSA27305 |
 | [Kingdom Hearts 1.5/2.5 Final Mix](CUSA05786/) | CUSA05786 |
@@ -112,6 +112,7 @@ has_toc: false
 | [Persona 3 Reload](CUSA37521/) | CUSA37521 |
 | [Persona 5 Royal](CUSA17419/) | CUSA17419 |
 | [Persona 5 Strikers](CUSA19640/) | CUSA19640 |
+| [PlayStation Vue](CUSA00960/) | CUSA00960 |
 | [Ratchet & Clank](CUSA01073/) | CUSA01073 |
 | [Red Dead Redemption](CUSA36843/) | CUSA36843 |
 | [Red Dead Redemption](CUSA36842/) | CUSA36842 |

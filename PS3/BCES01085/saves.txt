@@ -1,2 +1,3 @@
 00000001.zip=New Game - All/Max Items - Max Money
 00173925.zip=starter save lvl 80 ,rg 30(-1xp), max money,daliah,stats.
+00000004.zip=Fresh save, Female MC, Version 1.01
