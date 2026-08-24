@@ -121,6 +121,7 @@ BLES01401=Dragon Ball Z: Ultimate Tenkaichi
 BLUS30823=Dragon Ball Z: Ultimate Tenkaichi
 BLUS30720=Dragons Dogma
 BLES01794=Dragons Dogma - Dark Arisen
+BLUS31155=Dragon's Dogma: Dark Arisen
 NPUB31251=Drakengard 3
 BLES00891=Driver San Francisco
 NPUB31126=DuckTales: Remastered
