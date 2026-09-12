@@ -131,6 +131,7 @@ PCSF00485=Ratchet & Clank™ 2
 PCSF00486=Ratchet & Clank™ 3
 PCSB00360=Rayman Legends
 PCSB00726=Rayman Origins/Rayman Legends
+PCSB00079=Rayman Origins
 PCSE00277=Rayman® Legends
 PCSG00782=RecoLove: Gold Beach
 PCSF00728=Resident Evil Revelations 2
