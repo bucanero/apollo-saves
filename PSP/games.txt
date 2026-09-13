@@ -247,6 +247,7 @@ ULJM05524=Shin Sangoku Musou 5 Special
 ULJM05938=Shin Sangoku Musou 6 Special
 UCES00421=Shinobido Homura: Soul of the Ninja
 ULJM05480=Shinseiki Evangelion: Battle Orchestra
+ULJM05477=Shinseiki Evangelion: Koutetsu no Girlfriend 2nd Portable
 ULJS00142=Shinseiki GPX Cyber Formula VS
 ULUS10194=Shrek Smash n' Crash Racing
 ULUS10224=Sid Meier's Pirates!
