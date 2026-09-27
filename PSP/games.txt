@@ -128,6 +128,7 @@ NPJH50045=Metal Gear Solid: Peace Walker
 ULUS10391=Monster Hunter Freedom Unite
 ULJM05800=Monster Hunter Portable 3rd
 ULUS10340=N+ US
+ULUS10299=NARUTO: Ultimate Ninja Heroes
 ULUS10462=Need for Speed Shift
 ULUS10149=Pac-Man World Rally
 ULUS10438=Pangya Fantasy Golf
