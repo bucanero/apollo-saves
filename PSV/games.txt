@@ -99,7 +99,6 @@ PCSB00764=LEGO® Marvel's Avengers
 PCSB00315=LEGO® Marvel™ Super Heroes
 PCSF00021=LittleBigPlanet™ PlayStation Vita
 PCSE00832=MegaTagmension Blanc + Neptune VS Zombies
-PCSB00560=Minecraft: PlayStation®Vita Edition
 PCSE00491=Minecraft: PlayStation®Vita Edition
 PCSG00302=Minecraft: PlayStation®Vita Edition
 PCSG00610=Miracle Girls Festival
