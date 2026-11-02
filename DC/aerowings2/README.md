@@ -1,0 +1,24 @@
+---
+layout: default
+title: "Aero Wings 2: Air Strike"
+parent: DC Saves
+permalink: DC/aerowings2/
+---
+# Aero Wings 2: Air Strike
+
+## DC Saves - aerowings2
+
+| Icon | Filename | VMU File | Description |
+|------|----------|----------|-------------|
+| ![Aero Wings 2: Air Strike](icon0.png) | [v36311.zip](v36311.zip){: .btn .btn-purple } | `AEROWIN2.SYS` | This save contains all 23 planes, all extra options, all levels beaten, very cool replay, all Fighter pilot missioncomplete. |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v22200.zip](v22200.zip){: .btn .btn-purple } | `AEROWIN2.SYS` | This save contains a shocking 364 kills, 50 carrier landings, all 23 planes which includes F-18 agressor 1, F-15 agressor 2, and the XF3 super recipro, along with all the regulars. I will have another when I reach 500 kills, and 100 carrier lan |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v22413.zip](v22413.zip){: .btn .btn-purple } | `AEROWIN2.000` | Everything unlocked plus 2 cool replays |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v60076.zip](v60076.zip){: .btn .btn-purple } | `AEROWIN2.SYS` | All levels beaten, extra levels unlocked, all 22 planes unloked, including F-15 agressor 2, and XF3. Plus 201 kills. |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v43351.zip](v43351.zip){: .btn .btn-purple } | `AEROWIN2.000` | Water trails behind F-1 as it goessupersonic barely over the ocean, followed by an edgey landing. |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v51815.zip](v51815.zip){: .btn .btn-purple } | `AEROWIN2.003` | F-14A Carrier landing under fire/shoot down 2 F-15 aggressors. |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v4721.zip](v4721.zip){: .btn .btn-purple } | `AEROWIN2.001` | Perfect F-18 Carrier landings.... |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v6206.zip](v6206.zip){: .btn .btn-purple } | `AEROWIN2.000` | F-14A Carrier landing/evening/aircraft armed |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v80974.zip](v80974.zip){: .btn .btn-purple } | `AEROWIN2.SYS` | F-14A Game save with aircraft per request |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v90411.zip](v90411.zip){: .btn .btn-purple } | `AEROWIN2.001` | Carrier landing F-14 |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v55157.zip](v55157.zip){: .btn .btn-purple } | `AEROWIN2.000` | F-18 carrier landing |
+| ![Aero Wings 2: Air Strike](icon0.png) | [v86752.zip](v86752.zip){: .btn .btn-purple } | `AEROWIN2.001` | Fighter Pilot mission complete, plus some pretty cool replays. |

@@ -1,0 +1,4 @@
+q6_last.zip=(AONODATA_DAT) Last Stage Save!
+q6sys.zip=(AONODATA_SYS) System Date! All movie!
+q6_ex.zip=(AONODATA_EXT) Offical Download Date! New Mission!
+BSUBNO6.zip=(AONODATA_EXT) Blue Submarine No 6 Mission download.

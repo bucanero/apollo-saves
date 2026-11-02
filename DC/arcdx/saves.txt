@@ -1,0 +1,2 @@
+arcdx1.zip=(CDX_CODES_00) Action Replay CDX save with many codes loaded.
+AR423.zip=(CDX_CODES_00) This Action Replay CDX code save contains codes for 423 games (including orginal codes) for all regions.

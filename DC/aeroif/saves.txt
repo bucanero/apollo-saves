@@ -1,0 +1,12 @@
+aerocnem.zip=(AERO_ISD.SYS) best save! unlock all plane!
+aeroife0.zip=(AERO_ISD.E00) Emblem Data
+aeroife1.zip=(AERO_ISD.E01) Emblem Data
+aeroife2.zip=(AERO_ISD.E02) Emblem Data
+aeroife3.zip=(AERO_ISD.E03) Emblem Data
+aeroife4.zip=(AERO_ISD.E01) Emblem Data
+aeroife5.zip=(AERO_ISD.E01) Emblem Data
+aeroife6.zip=(AERO_ISD.E00) Emblem Data
+aeroife7.zip=(AERO_ISD.E06) Emblem Data
+aeroife8.zip=(AERO_ISD.E00) Emblem Data
+aeroife9.zip=(AERO_ISD.E00) Emblem Data
+aeroifea.zip=(AERO_ISD.E00) Emblem Data
