@@ -7,6 +7,7 @@
 ![PS4 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS4?label=PS4%20Games&type=dir)
 ![PSP Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PSP?label=PSP%20Games&type=dir)
 ![PSV Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PSV?label=PS%20Vita%20Games&type=dir)
+![DC Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/DC?label=Dreamcast%20Games&type=dir)
 
 ## Introduction
 
@@ -16,6 +17,7 @@ The online save database project is part of [Apollo Save Tool](https://github.co
  - [PlayStation 4](https://github.com/bucanero/apollo-ps4) version
  - [PlayStation Portable](https://github.com/bucanero/apollo-psp) version
  - [PlayStation Vita](https://github.com/bucanero/apollo-vita) version
+ - [SEGA Dreamcast](https://github.com/bucanero/apollo-dc) version
 
 #### Contents:
 

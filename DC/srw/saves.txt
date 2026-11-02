@@ -1,0 +1,7 @@
+SRWSYSTE.zip=(SRWALPHA.SYS) System data! all open in option!
+SRWREAL1.zip=(SRWALPHA.001) Money Max at stage 2! (Real Story)
+SRWREAL2.zip=(SRWALPHA.001) ALL Max at stage 2! (Real Story)
+SRWSUPE1.zip=(SRWALPHA.000) Money Max at stage 2! (Super Story)
+SRWSUPE2.zip=(SRWALPHA.000) ALL Max at stage 2! (Super Story)
+SRWLAST1.zip=(SRWALPHA.002) Money Max at Last stage!
+SRWLAST2.zip=(SRWALPHA.002) ALL Max at Last stage!

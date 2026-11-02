@@ -1,0 +1,44 @@
+name: Sync Dreamcast saves
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-dc
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Update dreamcast-saves to latest
+        run: git submodule update --remote _sources/dreamcast-saves
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pillow==13.0.0
+
+      - name: Generate DC saves
+        run: python tools/gen_dc.py _sources/dreamcast-saves DC
+
+      - name: Commit changes
+        run: |
+          git add -A DC _sources/dreamcast-saves
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync DC saves (dreamcast-saves@$(git -C _sources/dreamcast-saves rev-parse --short HEAD))"
+          git push

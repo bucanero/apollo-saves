@@ -1,0 +1,3 @@
+gscdx1.zip=(CDX_CODES_00) Good save for GameShark CDX with many codes loaded!
+GSHARK.zip=(ICONDATA_VMS) Game Shark VMU icon.
+GSCDX.zip=(CDX_CODES_00) A lot of codes for GameShark CDX!

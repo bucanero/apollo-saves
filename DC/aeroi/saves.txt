@@ -1,0 +1,16 @@
+aeroisys.zip=(AERODANI.SYS) best save! unlock all plane!
+aeroie00.zip=(AERODANI.E00) Emblem Date 1
+aeroie01.zip=(AERODANI.E01) Emblem Date 2
+aeroie02.zip=(AERODANI.E02) Emblem Date 3
+aeroie03.zip=(AERODANI.E09) Emblem Date 4
+aeroie04.zip=(AERODANI.E05) Emblem Date 5
+aeroie05.zip=(AERODANI.E08) Emblem Date 6
+aeroie06.zip=(AERODANI.E07) Emblem Date 7
+aeroie07.zip=(AERODANI.E02) Emblem Date 8
+aeroie08.zip=(AERODANI.E06) Emblem Date 9
+aeroie09.zip=(AERODANI.E04) Emblem Date 10
+aeroie10.zip=(AERODANI.E03) Emblem Date 11
+aeroie11.zip=(AERODANI.E00) Emblem Date 12
+aeroie12.zip=(AERODANI.E00) Emblem Date 13
+aeroie13.zip=(AERODANI.E01) Emblem Date 14
+aeroie14.zip=(AERODANI.E02) Emblem Date 15

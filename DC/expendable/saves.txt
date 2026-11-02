@@ -1,0 +1,4 @@
+v68167.zip=(EXPENDAB.CFG) THIS IS A SAVE AT THE 4th OR Solevel
+v91860.zip=(EXPENDAB.001) This will start you out at Level 21, the last level of the game. You'll be going against the final boss in the game as soon as you enter the level so get ready for a good fight.
+v84324.zip=(EXPENDAB.001) LAST LEVEL PLUS SUPER POWER ITEM
+00000011.zip=(EXPENDAB.001) This is a game save up to level 5 in the game.
